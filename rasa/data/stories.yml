@@ -1,0 +1,21 @@
+version: "3.1"
+stories:
+  - story: find a recipe
+    steps:
+      - intent: get_recipe
+      - action: action_get_recipe
+
+  - story: ask for substitution
+    steps:
+      - intent: ask_substitution
+      - action: action_get_substitution
+
+  - story: get cuisine recipes
+    steps:
+      - intent: get_cuisine
+      - action: action_get_cuisine
+
+  - story: ask for dietary options
+    steps:
+      - intent: dietary_options
+      - action: action_get_dietary_options

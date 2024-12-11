@@ -1,0 +1,31 @@
+version: "3.1"
+nlu:
+  - intent: get_recipe
+    examples: |
+      - What can I cook with [tomatoes](ingredient) and [cheese](ingredient)?
+      - Show me a recipe with [potatoes](ingredient).
+      - I want something with [chicken](ingredient).
+
+  - intent: ask_substitution
+    examples: |
+      - What can I use instead of [milk](ingredient)?
+      - I don’t have any [eggs](ingredient). What can I substitute?
+      - Is there a replacement for [butter](ingredient)?
+
+  - intent: get_cuisine
+    examples: |
+      - Can you show me [Italian](cuisine) recipes?
+      - I want to make [Mexican](cuisine) food.
+      - Do you have any [French](cuisine) recipes?
+
+  - intent: cooking_tips
+    examples: |
+      - How do I sauté onions?
+      - Give me a tip for boiling pasta.
+      - What’s the best way to cook rice?
+
+  - intent: dietary_options
+    examples: |
+      - Do you have [vegan](diet_type) recipes?
+      - Show me [gluten-free](diet_type) options.
+      - I need [dairy-free](diet_type) recipes.

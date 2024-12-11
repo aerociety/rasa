@@ -1,0 +1,21 @@
+version: "3.1"
+rules:
+  - rule: respond to recipe request
+    steps:
+      - intent: get_recipe
+      - action: action_get_recipe
+
+  - rule: respond to substitution request
+    steps:
+      - intent: ask_substitution
+      - action: action_get_substitution
+
+  - rule: respond to cuisine request
+    steps:
+      - intent: get_cuisine
+      - action: action_get_cuisine
+
+  - rule: respond to dietary options
+    steps:
+      - intent: dietary_options
+      - action: action_get_dietary_options

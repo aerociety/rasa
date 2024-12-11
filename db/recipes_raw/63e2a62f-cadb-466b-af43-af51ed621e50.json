@@ -1,0 +1,52 @@
+{
+    "title": "Paprika-Sahne-Hähnchen",
+    "ingredients": [
+        "Hähnchenbrustfilet",
+        "rote Paprikaschote",
+        "grüne Paprikaschote",
+        "Zwiebel",
+        "Knoblauch",
+        "getrocknete Chilischote",
+        "Sahne",
+        "Schmand",
+        "Tomatenmark",
+        "Gemüsebrühe",
+        "edelsüßes Paprikapulver",
+        "rosenscharfes Paprikapulver",
+        "geriebener Käse",
+        "Öl",
+        "Salz",
+        "Paprikapulver"
+    ],
+    "core_ingredients": [
+        "Hähnchenbrustfilet",
+        "Paprika",
+        "Zwiebel",
+        "Knoblauch",
+        "Sahne",
+        "Schmand"
+    ],
+    "instructions": "1. Die Hähnchenfilets waschen und mit Küchenkrepp trocken tupfen. Mit Salz und Paprikapulver würzen und in einer Auflaufform dicht aneinanderlegen. 2. Die Paprikaschoten waschen, entkernen, in schmale Streifen schneiden und auf den Filets verteilen. 3. Die Zwiebel in halbe Ringe schneiden und in einer Pfanne in etwas Öl andünsten. 4. Die Chilischote hineinzupfen, den Knoblauch pressen und hinzugeben. 5. Paprikapulver und Tomatenmark hinzufügen, mit der Brühe ablöschen und kurz aufkochen lassen. 6. Anschließend Sahne und Schmand unter die Soße rühren und mit Salz abschmecken. 7. Die Soße in die Auflaufform gießen, Fleisch und Paprikastreifen sollten ganz bedeckt sein. 8. Den geriebenen Käse gleichmäßig darauf verteilen. 9. Im vorgeheizten Backofen bei 180 °C Ober-/Unterhitze ca. 1/2 Std. garen.",
+    "tags": [
+        "Hähnchen",
+        "Paprika",
+        "Auflauf",
+        "Sahne",
+        "Schnell"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 60,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/2541631397980436/Single-Schoko-Bananenkuchen-mit-Pfiff.html",
+        "https://www.chefkoch.de/rezepte/2538351397592238/Banana-Pancakes.html",
+        "https://www.chefkoch.de/rezepte/2517811394960193/Single-Mandelkuchen-mit-Schuss.html",
+        "https://www.chefkoch.de/rezepte/2537831397545420/Rindsfrikadellen-Low-Carb.html",
+        "https://www.chefkoch.de/rezepte/454951138226684/Haehnchenbrustfilet-in-Estragon-Tomatenrahm.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/22771005725755/bilder/668507/crop-360x240/paprika-sahne-haehnchen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/22771005725755/Paprika-Sahne-Haehnchen.html",
+    "id": "63e2a62f-cadb-466b-af43-af51ed621e50"
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Koelkasts Spaghetti Carbonara",
+    "ingredients": [
+        "150 g Schinkenwürfel",
+        "1 EL Öl",
+        "200 g Spaghetti",
+        "3 Eigelb",
+        "½ Tasse Sahne",
+        "50 g Parmesan",
+        "Salz",
+        "Pfeffer"
+    ],
+    "core_ingredients": [
+        "Schinkenwürfel",
+        "Öl",
+        "Spaghetti",
+        "Eigelb",
+        "Sahne",
+        "Parmesan"
+    ],
+    "instructions": "1. Schinkenwürfel im Öl anbraten. 2. Währenddessen Spaghetti nach Packungsanweisung kochen. 3. Inzwischen Eigelb mit Sahne und Parmesan verquirlen, salzen und gut pfeffern. 4. Die Eiermasse schnell mit den gekochten, abgetropften Spaghetti und den krossen Schinken- oder Speckwürfeln mischen. 5. Tipp: Ich fülle dazu die abgetropften Spaghetti (die ruhig noch ein bisschen feucht sein können) wieder in den heißen Topf und stelle ihn wieder auf die ausgeschaltete Kochstelle. Dort wird alles nur so lange vermischt, bis das Eigelb bindet. Nicht zu lange rühren, sonst erhält man ein Rührei. 6. Noch einmal gut mit Salz und Pfeffer abschmecken.",
+    "tags": [
+        "Fleisch",
+        "Hauptspeise",
+        "Nudeln",
+        "Pasta",
+        "Schnell",
+        "einfach",
+        "Schwein",
+        "gekocht",
+        "Camping",
+        "Ei",
+        "Studentenküche"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3862231588066575/Feldsalat-mit-Ei-und-Forelle.html",
+        "https://www.chefkoch.de/rezepte/3862411588079926/Gegrillter-Paprikasalat.html",
+        "https://www.chefkoch.de/rezepte/3862161588063542/Pasta-mit-Lachs-Zucchini-Sauce.html",
+        "https://www.chefkoch.de/rezepte/3859611587637236/Sweet-and-smokey-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/3857251587306291/Spaghetti-mit-Avocado-und-Basilikum.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/814121185712740/bilder/983068/crop-360x240/koelkasts-spaghetti-carbonara.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/814121185712740/Koelkasts-Spaghetti-Carbonara.html",
+    "id": "29633e0d-6672-4cad-aa32-c9ba2f8cc75e"
+}

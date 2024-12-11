@@ -1,0 +1,22 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_recipe\"}}]": "action_get_recipe",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_recipe\"}}, {\"prev_action\": {\"action_name\": \"action_get_recipe\"}, \"user\": {\"intent\": \"get_recipe\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_cuisine\"}}]": "action_get_cuisine",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"get_cuisine\"}}, {\"prev_action\": {\"action_name\": \"action_get_cuisine\"}, \"user\": {\"intent\": \"get_cuisine\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_substitution\"}}]": "action_get_substitution",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_substitution\"}}, {\"prev_action\": {\"action_name\": \"action_get_substitution\"}, \"user\": {\"intent\": \"ask_substitution\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"dietary_options\"}}]": "action_get_dietary_options",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"dietary_options\"}}, {\"prev_action\": {\"action_name\": \"action_get_dietary_options\"}, \"user\": {\"intent\": \"dietary_options\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "predicting default action with intent session_start",
+      "predicting default action with intent back",
+      "predicting default action with intent restart"
+    ]
+  }
+}

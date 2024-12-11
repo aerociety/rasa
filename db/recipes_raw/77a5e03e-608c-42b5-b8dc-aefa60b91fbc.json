@@ -1,0 +1,45 @@
+{
+    "title": "Spaghetti Carbonara - schnell & einfach",
+    "ingredients": [
+        "400 g Spaghetti oder Tortellini",
+        "200 g Schinken, roher",
+        "4 Eigelb",
+        "50 g Butter",
+        "Salz und Pfeffer",
+        "1 Prise Muskat",
+        "Parmesan, frisch geriebener n. B."
+    ],
+    "core_ingredients": [
+        "spaghetti",
+        "schinken",
+        "eigelb",
+        "butter",
+        "muskat",
+        "parmesan"
+    ],
+    "instructions": "1. Die Pasta in reichlich Salzwasser bissfest kochen. 2. Den Schinken in Würfel schneiden und in wenig Butter anbraten. 3. Eigelb in einer großen Schüssel mit Salz, Pfeffer und Muskat verquirlen. 4. Die Butter schaumig rühren und gut unter das Eigelb mischen. 5. Die Schinkenwürfel und den geriebenen Käse gründlich unterrühren. 6. Wenn die Nudeln gar sind, abgießen, sofort zu der Mischung in die Schüssel geben, nochmal alles gründlich durchmischen, dann sogleich servieren.",
+    "tags": [
+        "Fleisch",
+        "Hauptspeise",
+        "Nudeln",
+        "Italien",
+        "Pasta",
+        "Schnell",
+        "einfach"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1342861239100533/Tortellini-alla-panna.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+        "https://www.chefkoch.de/rezepte/814121185712740/Koelkasts-Spaghetti-Carbonara.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1491131254215808/bilder/1573602/crop-360x240/spaghetti-carbonara.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1491131254215808/Spaghetti-Carbonara.html",
+    "id": "77a5e03e-608c-42b5-b8dc-aefa60b91fbc"
+}

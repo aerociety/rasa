@@ -1,0 +1,57 @@
+{
+    "title": "Lasagne - wie beim Italiener",
+    "ingredients": [
+        "500 g hackfleisch, gemischtes",
+        "1 zwiebel",
+        "2 knoblauchzehe",
+        "1 bund petersilie oder TK",
+        "1 EL tomatenmark",
+        "1 Dose tomaten, geschälte (800 g)",
+        "etwas rotwein",
+        "½ liter milch",
+        "30 g butter",
+        "40 g mehl",
+        "salz und pfeffer",
+        "zitronensaft",
+        "muskat",
+        "butter für die form",
+        "300 g lasagneplatte(n)",
+        "n. b. käse, geriebener",
+        "butterflöckchen"
+    ],
+    "core_ingredients": [
+        "hackfleisch",
+        "zwiebel",
+        "knoblauch",
+        "petersilie",
+        "tomatenmark",
+        "tomaten",
+        "milch",
+        "butter",
+        "mehl",
+        "lasagneplatten",
+        "käse"
+    ],
+    "instructions": "1. In einem Topf das Olivenöl erhitzen, das Hackfleisch darin rundherum anbraten und die gehackten Zwiebeln und die gehackte Petersilie dazugeben. 2. Knoblauch in feinen Scheiben und Tomatenmark dazu rühren und mitbraten. 3. Mit den Dosentomaten aufgießen, salzen und pfeffern. Rotwein nach Belieben beifügen. Das Ragú mindestens eine halbe Stunde lang bei geöffnetem Topf einkochen lassen. 4. Butter in einem kleinen Topf schmelzen und das Mehl mit dem Schneebesen unterrühren und hellgelb anschwitzen. 5. Die Milch dazugießen und die Sauce glatt rühren. 6. Die Sauce sollte fast eine halbe Stunde lang auf kleiner Flamme köcheln, mit Salz, Pfeffer und Zitronensaft sowie etwas Muskatnuss abschmecken. 7. In einer gebutterten, feuerfesten Form etwas Ragú Bolognese verteilen, eine Schicht Lasagneplatten darauf legen, die Nudelschicht wieder mit Ragú und dann mit einer Schicht Béchamel bedecken. 8. Anschließend wieder eine Schicht Nudeln, Ragú und Béchamel. 9. Die letzte Schicht sollte die Béchamelsauce bilden. Dick mit geriebenem Käse bestreuen und Butterflöckchen darauf setzen. 10. Die Lasagne im heißen Backofen bei 180 °C Umluft ca. 30 - 40 Minuten backen, bis die Kruste goldbraun ist.",
+    "tags": [
+        "flesh",
+        "main dish",
+        "pasta",
+        "italian"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 100,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/772011180069862/Die-echte-Sauce-Bolognese.html",
+        "https://www.chefkoch.de/rezepte/837601188560864/Kartoffelgratin.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/745721177147257/bilder/668335/crop-360x240/lasagne.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+    "id": "cd459732-3d9c-46e6-b161-c2750a1a00fe"
+}

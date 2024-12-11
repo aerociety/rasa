@@ -1,0 +1,58 @@
+{
+    "title": "Toskanischer Hähnchen-Auflauf",
+    "ingredients": [
+        "Olivenöl",
+        "Honig",
+        "Sojasauce",
+        "Chilisauce",
+        "Preiselbeeren",
+        "Ketchup",
+        "Hähnchenbrustfilet",
+        "Kartoffeln",
+        "Zwiebel",
+        "Knoblauch",
+        "Tomaten",
+        "Rosmarin",
+        "Thymian",
+        "Hühnerbrühe",
+        "Olivenöl"
+    ],
+    "core_ingredients": [
+        "Olivenöl",
+        "Honig",
+        "Sojasauce",
+        "Chilisauce",
+        "Preiselbeeren",
+        "Ketchup",
+        "Hähnchenbrustfilet",
+        "Kartoffeln",
+        "Zwiebel",
+        "Knoblauch",
+        "Tomaten",
+        "Rosmarin",
+        "Thymian",
+        "Hühnerbrühe"
+    ],
+    "instructions": "1. Mix the first six ingredients for the marinade and place the washed and dried chicken fillets in it. Marinade for at least 1 hour (can also be overnight). 2. Peel the potatoes, halve larger ones, and fry in olive oil for about 10 minutes until brown on all sides. 3. Place the fried potatoes in a baking dish greased with olive oil. 4. Peel and finely chop the garlic. Peel the onion, cut it in half, and slice into rings. Wash and chop 1 sprig of thyme and 1 sprig of rosemary. Sauté the onion, garlic, and chopped herbs in the frying fat, then pour over the potatoes. 5. Place the marinated meat on top of the potatoes and roast everything in the oven at 200 degrees for about 15 minutes. 6. Then pour in hot chicken broth, distribute the tomatoes and two sprigs of rosemary in the casserole, and cook for another 30 minutes in the oven.",
+    "tags": [
+        "Casserole",
+        "Chicken",
+        "Potato",
+        "Dinner"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 140,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3339451496131191/Spargel-Erdbeer-Salat-mit-Buttermilch-Dressing.html",
+        "https://www.chefkoch.de/rezepte/2092511337874046/Fleischbaellchen-gratiniert-in-Joghurtsauce.html",
+        "https://www.chefkoch.de/rezepte/1993291322839225/Haehnchen-in-Senfsauce.html",
+        "https://www.chefkoch.de/rezepte/1758781285599027/Gefuellte-Champignons-mit-Chorizo.html",
+        "https://www.chefkoch.de/rezepte/1713441280155241/Gebratener-Reis-in-Ananas-thailaendische-Art.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/472271140790423/bilder/764535/crop-360x240/toskanischer-haehnchen-auflauf.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/472271140790423/Toskanischer-Haehnchen-Auflauf.html",
+    "id": "3de768bc-881d-41bb-9db3-4f7a85d27cd6"
+}

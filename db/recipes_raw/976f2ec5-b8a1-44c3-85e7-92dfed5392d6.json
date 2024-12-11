@@ -1,0 +1,53 @@
+{
+    "title": "Cremiger Nudelauflauf mit Tomaten und Mozzarella",
+    "ingredients": [
+        "1 onion",
+        "2 garlic cloves",
+        "1 fresh chili pepper",
+        "400g cherry tomatoes",
+        "50g parmesan",
+        "125g mozzarella",
+        "1 bunch basil",
+        "400g rigatoni or penne",
+        "olive oil",
+        "500g crushed tomatoes",
+        "200ml cream",
+        "salt and black pepper",
+        "sugar"
+    ],
+    "core_ingredients": [
+        "onion",
+        "garlic",
+        "chili pepper",
+        "cherry tomatoes",
+        "parmesan",
+        "mozzarella",
+        "basil",
+        "rigatoni or penne",
+        "crushed tomatoes",
+        "cream"
+    ],
+    "instructions": "Peel and finely chop the onion and garlic. Remove seeds from the chili pepper and chop finely. Wash and halve the cherry tomatoes. Grate the parmesan and cube the mozzarella. Wash and dry the basil leaves. \n\nIn a large pot, bring salted water to a boil and cook noodles al dente according to package instructions. \n\nMeanwhile, heat olive oil in a large skillet, sauté onion, garlic, and chili pepper. Add the crushed tomatoes and let the sauce simmer for a few minutes. Stir in the cream and grated parmesan, season with salt, pepper, and a pinch of sugar. \n\nOnce the noodles are cooked, drain and add them to the skillet with the sauce. Remove from heat and fold in the halved cherry tomatoes and half of the mozzarella cubes. Cut the basil leaves into strips and fold those in as well. \n\nTransfer everything into a baking dish, sprinkle with the remaining mozzarella, and bake for about 20 minutes in a preheated oven at 200 °C (or 180 °C for fan ovens). Serve with a green salad and garlic bread.",
+    "tags": [
+        "vegetarian",
+        "pasta",
+        "bake",
+        "Italian",
+        "cheese"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 60,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/701911172819472/Strassburger-Auflauf.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+        "https://www.chefkoch.de/rezepte/802701184066929/Bester-vegetarischer-Nudelauflauf.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2352371374010722/bilder/1510556/crop-360x240/cremiger-nudelauflauf-mit-tomaten-und-mozzarella.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+    "id": "976f2ec5-b8a1-44c3-85e7-92dfed5392d6"
+}

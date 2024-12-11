@@ -1,0 +1,52 @@
+version: "3.1"
+
+intents:
+  - get_recipe
+  - ask_substitution
+  - get_cuisine
+  - cooking_tips
+  - dietary_options
+
+entities:
+  - ingredient
+  - cuisine
+  - diet_type
+
+slots:
+  ingredient:
+    type: list
+    mappings:
+      - type: from_entity
+        entity: ingredient
+
+  cuisine:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: cuisine
+
+  diet_type:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: diet_type
+
+responses:
+  utter_recipe_found:
+    - text: "Here is a recipe for you: {recipe_name}"
+  utter_ask_ingredients:
+    - text: "What ingredients do you have?"
+  utter_substitution:
+    - text: "You can replace {missing_ingredient} with {substitution}."
+  utter_cuisine_recipes:
+    - text: "Here are some {cuisine} recipes: {recipe_list}."
+  utter_dietary_options:
+    - text: "Here are some {diet_type} recipes: {recipe_list}."
+  utter_default:
+    - text: "I'm not sure how to help with that. Can you rephrase?"
+
+actions:
+  - action_get_recipe
+  - action_get_substitution
+  - action_get_cuisine
+  - action_get_dietary_options
