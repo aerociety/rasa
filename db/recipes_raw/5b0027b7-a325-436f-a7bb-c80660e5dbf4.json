@@ -1,0 +1,55 @@
+{
+    "title": "Gyros Rub Seasoning",
+    "ingredients": [
+        "4 tsp coarse sea salt",
+        "3 tsp sweet paprika",
+        "3 tsp dried basil",
+        "3 tsp dried thyme",
+        "3 tsp dried marjoram",
+        "3 tsp dried oregano",
+        "3 tsp black pepper",
+        "3 tsp dried coriander seeds",
+        "3 tsp brown sugar",
+        "2 tsp onion granules",
+        "2 tsp garlic granules",
+        "2 tsp cumin",
+        "0.5 tsp cinnamon powder"
+    ],
+    "core_ingredients": [
+        "sea salt",
+        "paprika",
+        "basil",
+        "thyme",
+        "marjoram",
+        "oregano",
+        "black pepper",
+        "coriander seeds",
+        "brown sugar",
+        "onion granules",
+        "garlic granules",
+        "cumin",
+        "cinnamon"
+    ],
+    "instructions": "Grind the basil, thyme, marjoram, oregano, coriander seeds, and sea salt roughly in a mortar. Then mix in the remaining ingredients. The amount should be sufficient for approximately 3 kg of meat. Tip: Coat the meat with a little oil, mix well, and let it marinate in the fridge for at least 8 hours, preferably 24 hours.",
+    "tags": [
+        "seasoning",
+        "spices",
+        "rub",
+        "gyros"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Greek",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1458901250834443/Magic-Dust-Rub.html",
+        "https://www.chefkoch.de/rezepte/1631161270654425/Selbstgemachtes-Fix-fuer-Chili-con-Carne.html",
+        "https://www.chefkoch.de/rezepte/1631351270734595/Hack-Gewuerzmischung-selbstgemachtes-Fix-fuer-Hackfleisch.html",
+        "https://www.chefkoch.de/rezepte/2076181335468596/Gyrosgewuerz.html",
+        "https://www.chefkoch.de/rezepte/2102041339230721/Gewuerzmischung-fuer-Haehnchen-Brathaehnchen.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2628141412852141/bilder/1372535/crop-360x240/gyros-rub-gewuerzmischung.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2628141412852141/Gyros-Rub-Gewuerzmischung.html",
+    "id": "5b0027b7-a325-436f-a7bb-c80660e5dbf4"
+}

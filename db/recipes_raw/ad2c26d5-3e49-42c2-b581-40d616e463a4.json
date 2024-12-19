@@ -1,0 +1,48 @@
+{
+    "title": "Greek Orzo Salad",
+    "ingredients": [
+        "1 ½ cups uncooked orzo pasta",
+        "2 (6 ounce) cans marinated artichoke hearts",
+        "1 cucumber, seeded and chopped",
+        "1 tomato, seeded and chopped",
+        "1 red onion, chopped",
+        "1 cup crumbled feta cheese",
+        "1 (2 ounce) can black olives, drained",
+        "¼ cup chopped fresh parsley",
+        "1 tablespoon lemon juice",
+        "½ teaspoon dried oregano",
+        "½ teaspoon lemon pepper"
+    ],
+    "core_ingredients": [
+        "orzo pasta",
+        "artichoke hearts",
+        "cucumber",
+        "tomato",
+        "red onion",
+        "feta cheese",
+        "black olives",
+        "parsley",
+        "lemon juice",
+        "oregano",
+        "lemon pepper"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain. 2. Drain artichoke hearts, reserving liquid. 3. Combine pasta, artichoke hearts, cucumber, tomato, onion, feta, olives, parsley, lemon juice, oregano, and lemon pepper in a large bowl; toss well. Chill in the refrigerator for 1 hour. 4. Just before serving, drizzle reserved artichoke marinade over salad.",
+    "tags": [
+        "salad",
+        "orzo",
+        "Greek"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Greek",
+    "time_to_eat": 85,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/21132/orzo-and-tomato-salad-with-feta-cheese/",
+        "https://www.allrecipes.com/recipe/280504/mediterranean-orzo-salad/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/jmHjLYDtRxrhd9Im8IgbVL6-sdY=/160x90/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-DDMFS-4x3-cb717c193999442da9ace12071c2d86a.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/",
+    "id": "ad2c26d5-3e49-42c2-b581-40d616e463a4"
+}

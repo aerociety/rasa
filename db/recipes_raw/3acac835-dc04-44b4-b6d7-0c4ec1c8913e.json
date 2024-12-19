@@ -1,0 +1,53 @@
+{
+    "title": "Omas beste Frikadellen",
+    "ingredients": [
+        "1 Brötchen",
+        "1 Zwiebel",
+        "1 Ei",
+        "500 g Hackfleisch, gemischtes",
+        "1 TL Salz",
+        "1 TL Senf",
+        "1 TL, gestr. Majoran, getrockneter",
+        "1 TL Paprikapulver",
+        "viel Pfeffer aus der Mühle",
+        "2 TL Petersilie, getrocknete",
+        "n. B. Knoblauch",
+        "1 TL Maggi",
+        "n. B. Mehl für die Arbeitsfläche",
+        "evtl. Mehl oder Semmelbrösel zum Wenden",
+        "Margarine zum Braten"
+    ],
+    "core_ingredients": [
+        "Brötchen",
+        "Zwiebel",
+        "Ei",
+        "Hackfleisch",
+        "Salz",
+        "Senf",
+        "Majoran",
+        "Paprikapulver",
+        "Petersilie",
+        "Knoblauch"
+    ],
+    "instructions": "Das Brötchen in Wasser einweichen. Die Zwiebel schälen und in feine Würfel schneiden. Das Ei, die Zwiebeln und die Gewürze zur Hackmasse geben und vermengen. Die Brötchenmasse ausdrücken und zur Hackmasse hinzufügen. Gleichmäßige Bällchen formen und auf einer bemehlten Fläche flachdrücken. Eine Pfanne mit Margarine erhitzen und die Frikadellen kurz anbraten, dann bei mittlerer Hitze 15-20 Minuten fertig braten, dabei gelegentlich wenden.",
+    "tags": [
+        "Meat",
+        "Main Course",
+        "German"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/2540231397837195/Feine-Kirschkonfituere-mit-Cherry-Brandy.html",
+        "https://www.chefkoch.de/rezepte/2540241397837612/Pflaumenmus-aus-der-Mikrowelle.html",
+        "https://www.chefkoch.de/rezepte/2192101351767378/Gebratene-Entenbrust-mit-Aepfeln-und-Trauben.html",
+        "https://www.chefkoch.de/rezepte/2190911351623786/Fischfilet-mit-Paprikasosse.html",
+        "https://www.chefkoch.de/rezepte/2083241336416610/Omas-Hasenkeule-Burgunder-Art.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/819141186405890/bilder/764351/crop-360x240/omas-beste-frikadellen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/819141186405890/Omas-beste-Frikadellen.html",
+    "id": "3acac835-dc04-44b4-b6d7-0c4ec1c8913e"
+}

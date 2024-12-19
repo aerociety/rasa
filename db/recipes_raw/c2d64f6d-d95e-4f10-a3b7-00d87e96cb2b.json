@@ -1,0 +1,53 @@
+{
+    "title": "Peach Berry Cobbler",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "½ cup white sugar",
+        "1 ½ teaspoons baking powder",
+        "½ cup milk",
+        "¼ cup butter, softened",
+        "¼ cup packed brown sugar",
+        "1 tablespoon cornstarch",
+        "½ cup cold water",
+        "3 cups fresh peaches - peeled, pitted, and sliced",
+        "1 cup fresh blueberries",
+        "1 tablespoon butter",
+        "1 tablespoon lemon juice",
+        "2 tablespoons coarse granulated sugar",
+        "¼ teaspoon ground nutmeg"
+    ],
+    "core_ingredients": [
+        "flour",
+        "sugar",
+        "baking powder",
+        "milk",
+        "butter",
+        "brown sugar",
+        "cornstarch",
+        "peaches",
+        "blueberries",
+        "lemon juice"
+    ],
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). In a medium bowl, stir together flour, 1/2 cup white sugar, and baking powder. Mix in milk and 1/4 cup butter until smooth. In a medium saucepan, stir together brown sugar, cornstarch, and water. Mix in peaches and blueberries. Cook and stir over medium heat until thick and bubbly. Mix in 1 tablespoon butter and lemon juice. Continue cooking until butter melts. Pour into a 1 1/2-quart ungreased baking dish. Evenly spoon batter in mounds over the hot fruit. In a small bowl, mix coarse sugar and nutmeg, and sprinkle over the batter. Place the baking dish on a shallow baking pan in the preheated oven. Bake cobbler for about 35 minutes, or until bubbly and a toothpick inserted into the crust comes out clean.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "fruit dessert",
+        "easy recipe"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/88354/easy-batter-fruit-cobbler/",
+        "https://www.allrecipes.com/recipe/40144/fresh-peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/22744/easy-fresh-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/XfVRo0iCkc5RDPzX5Lbz02QnWJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/247748-8aefe092ced1499cad7fb1f1fa7e3d63.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/12401/peach-berry-cobbler/",
+    "id": "c2d64f6d-d95e-4f10-a3b7-00d87e96cb2b"
+}

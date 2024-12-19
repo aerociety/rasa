@@ -1,0 +1,48 @@
+{
+    "title": "My Mom's Awesome Macaroni Salad (enough to feed a crowd!)",
+    "ingredients": [
+        "1 (16 ounce) package elbow macaroni",
+        "2 ½ cups mayonnaise",
+        "¼ cup white vinegar",
+        "1 ½ teaspoons seasoned salt",
+        "1 teaspoon white sugar",
+        "1 teaspoon garlic powder",
+        "½ teaspoon ground black pepper",
+        "2 (5 ounce) cans chunk light tuna in water, drained and flaked",
+        "2 (4 ounce) cans baby shrimp, drained",
+        "1 large cucumber, seeded and chopped",
+        "1 small sweet onion, chopped",
+        "4 hard-boiled eggs, chopped",
+        "2 hard-boiled eggs, sliced",
+        "1 pinch paprika"
+    ],
+    "core_ingredients": [
+        "elbow macaroni",
+        "mayonnaise",
+        "tuna",
+        "shrimp",
+        "cucumber",
+        "onion",
+        "eggs"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, about 8 minutes; drain. Rinse macaroni with cold water until chilled; drain.\n2. In a large bowl, mix mayonnaise, white vinegar, seasoned salt, sugar, garlic powder, and black pepper with a whisk until smooth. Stir in tuna, baby shrimp, cucumber, and sweet onion to coat ingredients completely, then add chopped eggs and stir.\n3. Pour chilled macaroni into the bowl and stir. Top with sliced eggs and garnish salad with paprika.\n4. Cover with plastic wrap and refrigerate for at least 1 hour, preferably overnight before serving.",
+    "tags": [
+        "salad",
+        "pasta",
+        "seafood"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 95,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11818/tangy-catalina-pasta-salad/",
+        "https://www.allrecipes.com/recipe/144948/fresh-dill-pasta-salad/",
+        "https://www.allrecipes.com/recipe/87854/kahalas-macaroni-seafood-salad/",
+        "https://www.allrecipes.com/recipe/16859/moms-shrimp-macaroni-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/B1-wP208VoNCRaWZDFUGIRNLN4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7929567-0b07e90ad0b04e11a72d448e0346d2f4.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/238593/my-moms-awesome-macaroni-salad-enough-to-feed-a-crowd/",
+    "id": "beafe9d6-160a-48ee-bd01-7a1d40a1b986"
+}

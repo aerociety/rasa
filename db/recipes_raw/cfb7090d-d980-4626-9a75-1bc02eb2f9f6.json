@@ -1,0 +1,55 @@
+{
+    "title": "Easy Spaghetti Salad",
+    "ingredients": [
+        "1 pound spaghetti, broken into pieces",
+        "1 (16 ounce) bottle Italian-style salad dressing",
+        "1 tablespoon grated Parmesan cheese",
+        "1 tablespoon sesame seeds",
+        "1 tablespoon poppy seeds",
+        "2 teaspoons seasoning salt",
+        "1 teaspoon paprika",
+        "½ teaspoon garlic powder",
+        "½ teaspoon ground black pepper",
+        "½ teaspoon cayenne pepper",
+        "1 cucumber, chopped",
+        "1 red onion, diced",
+        "2 tomatoes, chopped"
+    ],
+    "core_ingredients": [
+        "spaghetti",
+        "Italian-style salad dressing",
+        "Parmesan cheese",
+        "sesame seeds",
+        "poppy seeds",
+        "seasoning salt",
+        "paprika",
+        "garlic powder",
+        "black pepper",
+        "cayenne pepper",
+        "cucumber",
+        "red onion",
+        "tomatoes"
+    ],
+    "instructions": "Cook spaghetti according to package directions. Drain, rinse with cold water and drain well. Transfer to large bowl. Whisk salad dressing, cheese, seeds, salt, paprika, garlic powder, and peppers together until well blended. Stir in cucumber and onion. Pour mixture over spaghetti and toss lightly to coat evenly. Cover and refrigerate for at least 2 hours or up to 24 hours. Top with tomatoes to serve.",
+    "tags": [
+        "pasta",
+        "salad",
+        "party",
+        "picnic"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 150,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+        "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/",
+        "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/De6mXTqPZlNoMAMq45oAhox-7jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216593-12b3754c0ccc4d4488607ec873846cfa.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/11854/spaghetti-salad-i/",
+    "id": "cfb7090d-d980-4626-9a75-1bc02eb2f9f6"
+}

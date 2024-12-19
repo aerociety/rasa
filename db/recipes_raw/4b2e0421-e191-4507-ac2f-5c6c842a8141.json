@@ -1,0 +1,35 @@
+{
+    "title": "Tomato Rice Portuguese Style",
+    "ingredients": [
+        "4 tomatoes",
+        "1 garlic clove",
+        "1 small onion",
+        "1 tablespoon olive oil",
+        "2 cups rice",
+        "2 teaspoons broth powder"
+    ],
+    "core_ingredients": [
+        "tomato",
+        "garlic",
+        "onion",
+        "olive oil",
+        "rice",
+        "broth"
+    ],
+    "instructions": "Peel and chop the onion, then sauté it in olive oil in a large pot until translucent. Peel garlic and either finely chop it or crush it. Wash the tomatoes, remove the stems, and chop them roughly. Add the tomatoes and garlic to the onion in the pot and sauté for 5 minutes. Add the washed rice and sauté briefly. Pour in about 1 liter of water and add the broth. Cook the rice normally, stirring occasionally and adding water if necessary to keep it moist.",
+    "tags": [
+        "Vegetarian",
+        "Easy",
+        "Vegetable",
+        "Portugal"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Portuguese",
+    "time_to_eat": 25,
+    "suggestion_links": [],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/557271153576758/bilder/584470/crop-360x240/tomatenreis-portugiesische-art.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/557271153576758/Tomatenreis-portugiesische-Art.html",
+    "id": "4b2e0421-e191-4507-ac2f-5c6c842a8141"
+}

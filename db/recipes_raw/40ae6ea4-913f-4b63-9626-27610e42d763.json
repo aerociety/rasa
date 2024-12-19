@@ -1,0 +1,38 @@
+{
+    "title": "Spinach and Tortellini Salad",
+    "ingredients": [
+        "9 ounce package cheese-filled tortellini",
+        "10 ounce package frozen chopped spinach, thawed and drained",
+        "⅓ cup grated Parmesan cheese",
+        "2 cups cherry tomatoes, halved",
+        "2 ounce can sliced black olives",
+        "8 ounce bottle Italian-style salad dressing"
+    ],
+    "core_ingredients": [
+        "tortellini",
+        "spinach",
+        "Parmesan cheese",
+        "cherry tomatoes",
+        "black olives",
+        "salad dressing"
+    ],
+    "instructions": "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water, and drain. In a large bowl, combine tortellini, spinach, cheese, tomatoes, and olives. Add enough salad dressing to coat. Toss and season with salt and pepper.",
+    "tags": [
+        "salad",
+        "pasta",
+        "vegetarian"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/11764/cheddar-and-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/73594/alis-greek-tortellini-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/VqgZ88M7qGHD82wXpD0Z2gLhcDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2279067-f38a9449688946fca86ef01847ac859d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+    "id": "40ae6ea4-913f-4b63-9626-27610e42d763"
+}

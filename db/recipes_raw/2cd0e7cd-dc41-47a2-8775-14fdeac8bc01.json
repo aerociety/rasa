@@ -1,0 +1,43 @@
+{
+    "title": "Easy Peach Salsa",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 small onion, diced",
+        "12 grape tomatoes, diced",
+        "2 cloves garlic, minced",
+        "2 large peaches, diced",
+        "3 teaspoons honey",
+        "1 tablespoon lemon juice"
+    ],
+    "core_ingredients": [
+        "olive oil",
+        "onion",
+        "tomatoes",
+        "garlic",
+        "peaches",
+        "honey",
+        "lemon juice"
+    ],
+    "instructions": "Heat oil in a pan over medium heat; add onion and cook until soft, 1 to 3 minutes. Add tomatoes and garlic; cook over medium-low heat about 5 minutes. Add peaches, honey, and lemon juice; cook until combined, 2 to 3 minutes more.",
+    "tags": [
+        "salsa",
+        "peach",
+        "dip",
+        "appetizer"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/274750/colorful-summer-peach-salsa/",
+        "https://www.allrecipes.com/recipe/244391/chef-johns-nectarine-salsa/",
+        "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/",
+        "https://www.allrecipes.com/recipe/267637/simple-peach-salsa/",
+        "https://www.allrecipes.com/recipe/274748/fresh-peach-salsa-with-tomato-and-jalapenos/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/DfzvrN0-H9TyRZlD9Yjlt9e8WVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5508548-f6c77c1f798245a6adc3ec875bc3ec86.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/265364/easy-peach-salsa/",
+    "id": "2cd0e7cd-dc41-47a2-8775-14fdeac8bc01"
+}

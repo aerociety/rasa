@@ -1,0 +1,48 @@
+{
+    "title": "The Best Potato Gratin",
+    "ingredients": [
+        "butter for greasing the dish",
+        "1 garlic clove",
+        "800 g firm potatoes",
+        "250 ml cream",
+        "250 ml whole milk",
+        "herb salt",
+        "freshly ground pepper",
+        "freshly grated nutmeg",
+        "1 tbsp vegetable broth powder",
+        "butter flakes to taste"
+    ],
+    "core_ingredients": [
+        "butter",
+        "garlic",
+        "potatoes",
+        "cream",
+        "milk",
+        "vegetable broth powder"
+    ],
+    "instructions": "1. Grease a shallow gratin dish with butter. Peel the garlic and either finely dice it and spread it in the dish or press it directly into the dish. 2. Peel the potatoes and slice them thinly (a vegetable slicer works best for this). 3. Layer half of the potato slices in the dish. Season lightly with herb salt and freshly grated nutmeg, then layer the remaining potatoes on top. 4. Mix the cream and milk together and season generously with vegetable broth powder, herb salt, nutmeg, and pepper. Pour this mixture over the potatoes. 5. Distribute butter flakes over the gratin. 6. Bake in a preheated oven at 180°C (356°F) for about 1 hour. Serve hot.",
+    "tags": [
+        "main dish",
+        "casserole",
+        "vegetarian",
+        "side dish",
+        "easy",
+        "potato",
+        "gratin"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "French",
+    "time_to_eat": 90,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1386571243753438/Schwedische-Kartoffeln.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+        "https://www.chefkoch.de/rezepte/837601188560864/Kartoffelgratin.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/644981165672475/bilder/1501982/crop-360x240/das-beste-kartoffelgratin.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/644981165672475/Das-beste-Kartoffelgratin.html",
+    "id": "73d94f8e-d872-48e6-a906-08e7d33d1e7d"
+}

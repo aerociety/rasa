@@ -1,0 +1,44 @@
+{
+    "title": "Pesto Surprise",
+    "ingredients": [
+        "1 (12 ounce) package farfalle pasta",
+        "1 (.6 ounce) package zesty Italian-style salad dressing mix",
+        "12 cherry tomatoes",
+        "1 (8 ounce) can artichoke hearts, drained and chopped",
+        "2 (2.25 ounce) cans chopped black olives, drained",
+        "1 (2.25 ounce) can sliced green olives, drained",
+        "6 ounces shredded Parmesan cheese",
+        "3 tablespoons pesto"
+    ],
+    "core_ingredients": [
+        "farfalle pasta",
+        "Italian-style salad dressing mix",
+        "cherry tomatoes",
+        "artichoke hearts",
+        "black olives",
+        "green olives",
+        "Parmesan cheese",
+        "pesto"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; rinse with cold water and drain. 2. Prepare zesty Italian dressing according to package directions. 3. In a large bowl, toss together pasta, tomatoes, artichoke hearts, black olives, green olives and cheese. Pour dressing over all, add pesto, and stir until evenly coated. Refrigerate or serve immediately.",
+    "tags": [
+        "salad",
+        "pasta salad",
+        "quick meal"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/24881/cold-spaghetti/",
+        "https://www.allrecipes.com/recipe/254410/pasta-salad-in-a-jar/",
+        "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+        "https://www.allrecipes.com/recipe/16519/tennilles-italian-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/aAA3BzFzBJzUzLNyzJdlZUfwaCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7051704-02c0666639d4411ca7fbe6763bc11010.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/24882/pesto-surprise/",
+    "id": "6dcf46d1-4ab7-4410-a544-03b699aa9d71"
+}

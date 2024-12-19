@@ -1,0 +1,51 @@
+{
+    "title": "Sweet and Smokey BBQ Rub",
+    "ingredients": [
+        "2 tbsp chili powder (chipotle chili)",
+        "1.5 tbsp garlic powder",
+        "2 tsp ginger powder",
+        "2 tsp mustard powder",
+        "1.5 tbsp black pepper",
+        "112 g brown sugar",
+        "1 tsp cinnamon powder",
+        "55 g salt",
+        "5 tbsp smoked paprika",
+        "4 tbsp sugar",
+        "2 tsp cumin powder"
+    ],
+    "core_ingredients": [
+        "chili powder",
+        "garlic powder",
+        "ginger powder",
+        "mustard powder",
+        "black pepper",
+        "brown sugar",
+        "cinnamon powder",
+        "salt",
+        "smoked paprika",
+        "sugar",
+        "cumin powder"
+    ],
+    "instructions": "Combine all ingredients in a jar and stir. Use the rub to dry marinate meat slices. It is excellent with beef, pork, and lamb.",
+    "tags": [
+        "BBQ",
+        "rub",
+        "marinade",
+        "spices"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 10,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1458901250834443/Magic-Dust-Rub.html",
+        "https://www.chefkoch.de/rezepte/1961201319015030/Carolina-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/1961221319015148/Kansas-City-Rib-Rub.html",
+        "https://www.chefkoch.de/rezepte/3137831467274828/Tennessee-Dry-Rub.html",
+        "https://www.chefkoch.de/rezepte/3855061587041840/Fire-and-Spice-all-purpose-BBQ-Rub.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3859611587637236/bilder/1336386/crop-360x240/sweet-and-smokey-bbq-rub.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3859611587637236/Sweet-and-smokey-BBQ-Rub.html",
+    "id": "35b32a49-5a59-45d3-ada7-c2ebfbd97799"
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Breakfast Muffins",
+    "ingredients": [
+        "100g oats",
+        "250g quark",
+        "200g flour",
+        "1.5 tsp baking powder",
+        "100g sugar",
+        "100g melted butter",
+        "3 bananas",
+        "1 packet vanilla sugar",
+        "0.5 tsp baking soda",
+        "1 egg"
+    ],
+    "core_ingredients": [
+        "oats",
+        "quark",
+        "flour",
+        "sugar",
+        "butter",
+        "bananas",
+        "vanilla sugar",
+        "baking soda",
+        "egg"
+    ],
+    "instructions": "Preheat the oven to 175°C and grease the muffin tin well. Mash the bananas with a fork. Mix the wet ingredients together and then add them to the dry ingredients. Combine the dough and fill into the muffin tin. Bake for about 20 minutes. The muffins can be frozen and reheated in the microwave.",
+    "tags": [
+        "vegetarian",
+        "quick",
+        "easy",
+        "breakfast",
+        "muffins",
+        "whole grain"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "International",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1571831264702004/Bolognese-vegetarische-Art.html",
+        "https://www.chefkoch.de/rezepte/1414731246366410/Spaghetti-mit-Baerlauch.html",
+        "https://www.chefkoch.de/rezepte/629491163422563/Kartoffel-Spinat-Gratin-auf-die-leichte-Tour.html",
+        "https://www.chefkoch.de/rezepte/629521163424282/Schokocreme-a-la-Veronika.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1352781240031724/bilder/465064/crop-360x240/fruehstuecks-muffins.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1352781240031724/Fruehstuecks-Muffins.html",
+    "id": "e73daa02-9813-4633-80c2-1ab1df379d8a"
+}

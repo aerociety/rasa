@@ -1,0 +1,38 @@
+{
+    "title": "Schokoaufstrich mit Schuss",
+    "ingredients": [
+        "200 g Kuvertüre, Vollmilch",
+        "75 g Margarine oder Halbfettmargarine",
+        "100 ml Milch, davon wieder 5 TL wegnehmen",
+        "5 TL Weinbrand",
+        "4 TL Haselnüsse, gehackt"
+    ],
+    "core_ingredients": [
+        "Kuvertüre",
+        "Margarine",
+        "Milch",
+        "Weinbrand",
+        "Haselnüsse"
+    ],
+    "instructions": "Alle Zutaten außer Weinbrand und Haselnüssen im Wasserbad schmelzen. 4 Min mit dem Handrührgerät auf höchster Stufe mixen. Weinbrand und gehackte Haselnusskerne zugeben und untermixen. In Schraubgläser abfüllen und während des Abkühlens ab und zu die Gläser schütteln, damit sich die Haselnussstückchen verteilen.",
+    "tags": [
+        "Aufstrich",
+        "einfach",
+        "Frühstück"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1033131208439454/Vanilleaufstrich.html",
+        "https://www.chefkoch.de/rezepte/178551077628568/Nutella-selbstgemacht.html",
+        "https://www.chefkoch.de/rezepte/387761125588119/Annas-weisse-Schokocreme.html",
+        "https://www.chefkoch.de/rezepte/504751145540164/Erdnussbutter.html",
+        "https://www.chefkoch.de/rezepte/629521163424282/Schokocreme-a-la-Veronika.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/889471194451736/bilder/1046755/crop-360x240/schokoaufstrich-mit-schuss.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/889471194451736/Schokoaufstrich-mit-Schuss.html",
+    "id": "e3d1da39-a53a-4461-9335-cfda6a85ac43"
+}

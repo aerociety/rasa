@@ -1,0 +1,52 @@
+{
+    "title": "Habanero Sauce",
+    "ingredients": [
+        "habanero chile peppers",
+        "garlic",
+        "sliced peaches",
+        "distilled white vinegar",
+        "dark molasses",
+        "honey",
+        "brown sugar",
+        "spicy brown mustard",
+        "paprika",
+        "kosher salt",
+        "ground black pepper",
+        "ground cumin",
+        "liquid smoke flavoring",
+        "ground coriander",
+        "ground ginger",
+        "ground allspice"
+    ],
+    "core_ingredients": [
+        "habanero chile peppers",
+        "garlic",
+        "sliced peaches",
+        "distilled white vinegar",
+        "dark molasses",
+        "honey",
+        "brown sugar"
+    ],
+    "instructions": "Place habaneros and garlic into a blender; blend until chiles are finely chopped. Add peaches, vinegar, molasses, honey, brown sugar, mustard, paprika, salt, black pepper, cumin, liquid smoke, coriander, ginger, and allspice; blend until smooth.",
+    "tags": [
+        "sauce",
+        "spicy",
+        "dip",
+        "salsa"
+    ],
+    "diet_type": "Vegan",
+    "cuisine": "Mexican",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/93255/drunken-peachanero-salsa/",
+        "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/",
+        "https://www.allrecipes.com/recipe/265363/peach-salsa-with-habaneros/",
+        "https://www.allrecipes.com/recipe/15059/spicy-mango-salsa/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/gJ5A_2J8vEMVeOKkl3rY05cLiyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1208010-0c0efb8ca241414585f742dfc1ac555c.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/215042/habanero-sauce/",
+    "id": "0ff84a96-8c0a-46ae-b2a7-f87f566c03ed"
+}

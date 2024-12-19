@@ -1,0 +1,45 @@
+{
+    "title": "Kara's Summer Salad",
+    "ingredients": [
+        "12 ounce package elbow macaroni",
+        "1 pound shelled edamame",
+        "¼ cup mayonnaise",
+        "¼ teaspoon celery seed",
+        "¼ teaspoon paprika",
+        "¼ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "12 ounce can premium canned chicken",
+        "3 hard-cooked eggs",
+        "2 tablespoons sunflower seed kernels",
+        "¼ cup shredded Cheddar cheese",
+        "¼ cup chopped green onions"
+    ],
+    "core_ingredients": [
+        "elbow macaroni",
+        "edamame",
+        "mayonnaise",
+        "canned chicken",
+        "hard-cooked eggs"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until cooked through but firm to the bite, about 8 minutes; drain. 2. In the same pot, bring water back to a boil. Cook edamame in boiling water for 10 minutes; drain and rinse with cold water. 3. In a separate bowl, stir mayonnaise, celery seed, paprika, salt, and black pepper together. 4. Toss macaroni, edamame, chicken, eggs, sunflower seed kernels, Cheddar cheese, and green onion in a bowl. Add mayonnaise mixture and stir to coat. 5. Chill in refrigerator until cold, about 30 to 60 minutes.",
+    "tags": [
+        "salad",
+        "pasta salad",
+        "healthy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 55,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/212932/filipino-chicken-salad/",
+        "https://www.allrecipes.com/recipe/66565/simple-ranch-chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/279819/cold-chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/143555/mandarin-chicken-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/W5qTOn9PCgOJtglRVziUf78PSgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/972064-9cd22a5094d54ba4b1781586eb383198.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/221135/karas-summer-salad/",
+    "id": "1c29cfa3-d343-4380-9aef-8c709ea7118a"
+}

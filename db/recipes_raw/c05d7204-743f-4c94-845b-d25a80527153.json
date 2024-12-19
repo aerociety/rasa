@@ -1,0 +1,48 @@
+{
+    "title": "Vegetarische Frikadellen",
+    "ingredients": [
+        "1 liter vegetable broth",
+        "150 g rice",
+        "150 g Emmental cheese",
+        "2 carrots",
+        "2 medium onions",
+        "2 eggs",
+        "salt and pepper",
+        "3 tablespoons mixed herbs (frozen)",
+        "breadcrumbs as needed",
+        "clarified butter as needed"
+    ],
+    "core_ingredients": [
+        "vegetable broth",
+        "rice",
+        "Emmental cheese",
+        "carrots",
+        "onions",
+        "eggs",
+        "mixed herbs",
+        "breadcrumbs",
+        "clarified butter"
+    ],
+    "instructions": "1. Bring the broth to a boil. Add the rice and cook for 15 minutes until slightly al dente. Drain and let cool. 2. Grate the cheese. Clean and grate the carrots. Finely dice the onions. 3. Mix rice, cheese, carrots, onions, and eggs together. Add pepper (generously), salt, and herbs. Stir in breadcrumbs until the mixture has some consistency. Let it swell for about 15 minutes. Check if the mixture can be shaped into patties under pressure. 4. Roll the patties lightly in breadcrumbs. 5. In plenty of clarified butter, fry the patties gently over low heat until golden brown on both sides. Let the excess fat drain on kitchen paper.",
+    "tags": [
+        "vegetarian",
+        "snack",
+        "main dish",
+        "using leftovers"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 75,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1810471293281955/Paprika-Reispfanne-mit-Joghurtsauce.html",
+        "https://www.chefkoch.de/rezepte/2114131340630587/Vegetarische-Spinat-Gemuese-Lasagne-mit-Tomatensosse.html",
+        "https://www.chefkoch.de/rezepte/2220621355433498/Couscous-Bratlinge-mit-Kaese.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/802701184066929/Bester-vegetarischer-Nudelauflauf.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1631611270752104/bilder/1505264/crop-360x240/vegetarische-frikadellen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1631611270752104/Vegetarische-Frikadellen.html",
+    "id": "c05d7204-743f-4c94-845b-d25a80527153"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Pasta mit Lachs-Zucchini-Sauce",
+    "ingredients": [
+        "2 tablespoons neutral oil",
+        "2 garlic cloves, finely chopped",
+        "2 onions, diced",
+        "2 small zucchinis",
+        "400g salmon fillet, cut into small cubes",
+        "4 tomatoes, peeled and diced",
+        "400ml fish stock",
+        "200ml cream",
+        "1 bunch dill",
+        "Salt and pepper",
+        "Lemon juice",
+        "500g spaghetti or other pasta of choice"
+    ],
+    "core_ingredients": [
+        "oil",
+        "garlic",
+        "onions",
+        "zucchini",
+        "salmon",
+        "tomatoes",
+        "fish stock",
+        "cream",
+        "dill",
+        "salt",
+        "pepper",
+        "lemon juice",
+        "spaghetti"
+    ],
+    "instructions": "Cook spaghetti according to package instructions. Heat oil in a deep pan. Sauté onions and garlic until translucent. Add diced zucchini. Briefly sauté salmon and tomatoes together. Remove the vegetables and fish from the pan. Pour fish stock and cream into the pan and let it simmer until thickened. Season with salt, pepper, and lemon juice, then add the earlier set aside vegetables and fish back into the pan and gently heat. Fold in chopped dill and serve with the cooked spaghetti.",
+    "tags": [
+        "vegetable",
+        "main dish",
+        "pasta",
+        "quick",
+        "easy",
+        "fish",
+        "steaming"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 40,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1677441275813669/Bandnudeln-mit-frischem-Spinat-und-Lachs.html",
+        "https://www.chefkoch.de/rezepte/1885101306529623/Zitronenspaghetti-mit-Kraeutergarnelen.html",
+        "https://www.chefkoch.de/rezepte/2109501340136606/Tagliatelle-al-Salmone.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/52741018615166/Lachs-Sahnesosse-zu-Nudeln.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3862161588063542/bilder/1322864/crop-360x240/pasta-mit-lachs-zucchini-sauce.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3862161588063542/Pasta-mit-Lachs-Zucchini-Sauce.html",
+    "id": "29645b0b-971d-4452-9ebf-8ccd00a9e90d"
+}

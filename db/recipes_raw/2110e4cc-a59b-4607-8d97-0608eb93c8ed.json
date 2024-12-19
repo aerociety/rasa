@@ -1,0 +1,58 @@
+{
+    "title": "Summery Corn Salad",
+    "ingredients": [
+        "3 teaspoons butter",
+        "3 ears fresh corn, husks and silks removed",
+        "1 teaspoon garlic powder",
+        "1 (15 ounce) can black beans, drained",
+        "¼ cup chopped fresh cilantro",
+        "¼ cup olive oil",
+        "2 tablespoons red wine vinegar",
+        "2 tablespoons lime juice",
+        "1 ½ teaspoons minced garlic",
+        "1 teaspoon white sugar",
+        "½ teaspoon ground cumin",
+        "½ teaspoon chili powder",
+        "¼ teaspoon salt",
+        "¼ teaspoon black pepper"
+    ],
+    "core_ingredients": [
+        "butter",
+        "corn",
+        "garlic powder",
+        "black beans",
+        "cilantro",
+        "olive oil",
+        "red wine vinegar",
+        "lime juice",
+        "minced garlic",
+        "sugar",
+        "cumin",
+        "chili powder",
+        "salt",
+        "black pepper"
+    ],
+    "instructions": "1. Preheat grill for medium heat and lightly oil the grate. 2. Spread 1 teaspoon butter on each ear of corn and sprinkle ears with garlic powder. Wrap corn in aluminum foil. 3. Grill wrapped ears until corn kernels are hot and steaming, about 15 minutes. Unwrap ears and grill until kernels are lightly browned, about 5 more minutes, turning once. Let corn cool and cut kernels from the cobs. 4. Gently stir corn, black beans, and cilantro together in a salad bowl. 5. Whisk olive oil, red wine vinegar, lime juice, garlic, sugar, cumin, chili powder, salt, and black pepper in a separate bowl; pour dressing over corn mixture and toss gently to coat.",
+    "tags": [
+        "salad",
+        "corn salad",
+        "vegetarian",
+        "grilled"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/284984/roasted-mexican-corn-salad-with-black-beans/",
+        "https://www.allrecipes.com/recipe/141843/summer-corn-salad-with-asparagus/",
+        "https://www.allrecipes.com/recipe/13932/black-bean-and-corn-salad-i/",
+        "https://www.allrecipes.com/recipe/241551/mexican-style-black-bean-and-corn-salad/",
+        "https://www.allrecipes.com/recipe/214934/grilled-corn-salad/",
+        "https://www.allrecipes.com/recipe/254905/mexican-chicken-and-corn-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Hd4egJjjDkcZtbEysQO2iZMLIQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6931049-1f57e8bfbfa749769885e65cefdc0fd3.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/229050/summery-corn-salad/",
+    "id": "2110e4cc-a59b-4607-8d97-0608eb93c8ed"
+}

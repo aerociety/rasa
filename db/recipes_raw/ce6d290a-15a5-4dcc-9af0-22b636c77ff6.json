@@ -1,0 +1,57 @@
+{
+    "title": "Vegetable Cream Soup with Sherry",
+    "ingredients": [
+        "2 onions",
+        "50g butter",
+        "1 liter vegetable broth",
+        "2 cartons cream",
+        "5 carrots",
+        "1 kohlrabi",
+        "1 leek",
+        "1 small celeriac or 1/2 large",
+        "5 potatoes",
+        "salt and pepper",
+        "nutmeg",
+        "6 tbsp sherry, medium",
+        "2 egg yolks",
+        "1 carton crème fraîche",
+        "flat-leaf parsley, finely chopped"
+    ],
+    "core_ingredients": [
+        "onion",
+        "butter",
+        "vegetable broth",
+        "cream",
+        "carrot",
+        "kohlrabi",
+        "leek",
+        "celeriac",
+        "potato",
+        "sherry",
+        "egg yolk",
+        "crème fraîche",
+        "parsley"
+    ],
+    "instructions": "Clean, wash, peel, and chop vegetables into small slices or cubes (they don't need to be too small). Cut onion into small cubes and sauté in butter in a large pot. Add broth and cream, and bring to a boil. Then add all the vegetables (order does not matter) and let cook for about 20 minutes. Remove pot from heat and purée with an immersion blender. Season with salt, pepper, and nutmeg. Beat egg yolks with sherry and add to the soup. Stir vigorously and add parsley. Serve soup in bowls, place a dollop of crème fraîche in the center, and sprinkle a bit of nutmeg (possibly more parsley) on top.",
+    "tags": [
+        "soup",
+        "vegetable",
+        "sherry",
+        "cream"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 75,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1216191227256817/15-Minuten-Gemuese-Nudel-Suppe.html",
+        "https://www.chefkoch.de/rezepte/1651831272990064/Pikante-Thai-Suppe-mit-Kokos-und-Huehnchen.html",
+        "https://www.chefkoch.de/rezepte/52711018599140/Kartoffelsuppe.html",
+        "https://www.chefkoch.de/rezepte/845091189864506/Omas-Pizzasuppe.html",
+        "https://www.chefkoch.de/rezepte/982031203667502/Kaese-Lauch-Suppe-mit-Hackfleisch.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/52691018536049/bilder/165522/crop-360x240/gemuesecremesuppe-mit-sherry.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/52691018536049/Gemuesecremesuppe-mit-Sherry.html",
+    "id": "ce6d290a-15a5-4dcc-9af0-22b636c77ff6"
+}

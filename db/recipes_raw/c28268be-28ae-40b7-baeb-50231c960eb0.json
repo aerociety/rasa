@@ -1,0 +1,44 @@
+{
+    "title": "Salad Dressing",
+    "ingredients": [
+        "150g yogurt",
+        "1 tbsp salad mayonnaise",
+        "1 tsp mustard",
+        "1 tbsp sunflower oil",
+        "1 tbsp vinegar",
+        "2 tsp sugar",
+        "salt and pepper",
+        "1 tbsp salad herbs, dried, fresh or frozen"
+    ],
+    "core_ingredients": [
+        "yogurt",
+        "salad mayonnaise",
+        "mustard",
+        "sunflower oil",
+        "vinegar",
+        "sugar",
+        "salad herbs"
+    ],
+    "instructions": "Mix yogurt, mayonnaise, mustard, vinegar, herbs, and oil thoroughly in a bowl or shake in a mixing cup. Season with salt, pepper, and sugar to taste.",
+    "tags": [
+        "dressing",
+        "salad",
+        "quick",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 5,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1791291289411673/Exotische-Thunfisch-Sosse-zu-Reis.html",
+        "https://www.chefkoch.de/rezepte/1788081289055750/Pfitzauf-aus-der-Muffinform.html",
+        "https://www.chefkoch.de/rezepte/1737431282755673/Edle-Thunfisch-Sauce-mit-Kapern-und-Oliven.html",
+        "https://www.chefkoch.de/rezepte/1715731280335023/Haehnchenpfanne-mit-Paprika-und-Spinat.html",
+        "https://www.chefkoch.de/rezepte/1696461277981472/Gruene-Bandnudeln-mit-gebratenem-Spargel.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1622011269419762/bilder/1567566/crop-360x240/salatdressing.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1622011269419762/Salatdressing.html",
+    "id": "c28268be-28ae-40b7-baeb-50231c960eb0"
+}

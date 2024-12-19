@@ -1,0 +1,47 @@
+{
+    "title": "Fresh Pear Bread",
+    "ingredients": [
+        "2 pears - peeled, cored and shredded",
+        "1 pear - peeled, cored and mashed",
+        "1 egg, lightly beaten",
+        "1 egg white, lightly beaten",
+        "2 tablespoons water",
+        "1 teaspoon vanilla extract",
+        "1 ½ cups all-purpose flour",
+        "1 cup white sugar",
+        "¼ cup instant vanilla pudding mix",
+        "1 ½ teaspoons cinnamon",
+        "½ teaspoon baking soda",
+        "¼ teaspoon salt",
+        "⅛ teaspoon baking powder"
+    ],
+    "core_ingredients": [
+        "pears",
+        "egg",
+        "all-purpose flour",
+        "sugar",
+        "pudding mix",
+        "cinnamon",
+        "baking soda",
+        "salt",
+        "baking powder"
+    ],
+    "instructions": "1. Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 5x9 inch loaf pan. \n2. In a bowl, mix the shredded pears, mashed pear, egg, egg white, water, and vanilla. In a separate bowl, mix the flour, sugar, pudding mix, cinnamon, baking soda, salt, and baking powder. Stir the pear mixture into the flour mixture just until moistened. Transfer to the prepared loaf pan. \n3. Bake 1 hour in the preheated oven, or until a knife inserted in the center comes out clean.",
+    "tags": [
+        "bread",
+        "dessert"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 80,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/34727/tangy-pear-and-blue-cheese-salad/",
+        "https://www.allrecipes.com/recipe/42833/ginger-pear-bread/",
+        "https://www.allrecipes.com/recipe/12279/fresh-fruit-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Z0bdDOSsYv0k_GAMnsBbDpYh5Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/179373-13d37c4581044979ab05e1298b1fb5e6.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/75680/fresh-pear-bread/",
+    "id": "3932942c-1324-47be-8ca7-80e0b7d08ee2"
+}

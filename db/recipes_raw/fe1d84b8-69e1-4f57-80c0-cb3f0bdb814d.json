@@ -1,0 +1,35 @@
+{
+    "title": "Cheesecake Sticks",
+    "ingredients": [
+        "1 small cheesecake without crust (18 cm diameter)",
+        "200 g dark chocolate coating",
+        "100 g white chocolate coating",
+        "100 g raspberries (optional)",
+        "100 g strawberries (optional)",
+        "100 g sweets for topping (optional)"
+    ],
+    "core_ingredients": [
+        "cheesecake",
+        "dark chocolate",
+        "white chocolate",
+        "raspberries",
+        "strawberries"
+    ],
+    "instructions": "1. Cut the cheesecake into 8 pieces and insert a popsicle stick into each piece. 2. Melt the chocolate coating in a water bath and dip the cheesecake sticks into it to coat them. 3. Quickly decorate with fruits and sweets (such as chocolate bars, white chocolate bars, nut toffee balls, and Toffifee), let them dry, and refrigerate again.",
+    "tags": [
+        "dessert",
+        "snack",
+        "party food"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/151551066648682/Schnell-Kaesekuchen-ohne-Boden.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/4052241627902485/bilder/1411756/crop-360x240/kaesekuchen-sticks.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/4052241627902485/Kaesekuchen-Sticks.html",
+    "id": "fe1d84b8-69e1-4f57-80c0-cb3f0bdb814d"
+}

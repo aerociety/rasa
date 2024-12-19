@@ -1,0 +1,43 @@
+{
+    "title": "Pasta Salad in a Jar",
+    "ingredients": [
+        "1 (9 ounce) package spinach and cheese tortellini",
+        "1 (4 ounce) jar pesto",
+        "¼ cup halved, seeded, and sliced English cucumber",
+        "¼ cup halved cherry tomatoes",
+        "¼ cup matchstick-sized pieces red onion",
+        "½ cup chopped mache",
+        "1 canning jar",
+        "salt and ground black pepper to taste"
+    ],
+    "core_ingredients": [
+        "tortellini",
+        "pesto",
+        "cucumber",
+        "tomatoes",
+        "onion",
+        "mache"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Cook tortellini in the boiling water until they float to the top, about 5 to 7 minutes. Drain water and place in the refrigerator to cool for about 15 minutes. 2. Layer pesto, cucumbers, tomatoes, onions, tortellini, and mache into the canning jar; season with salt and pepper.",
+    "tags": [
+        "salad",
+        "pasta",
+        "picnic",
+        "meal prep"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 40,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+        "https://www.allrecipes.com/recipe/24882/pesto-surprise/",
+        "https://www.allrecipes.com/recipe/86353/simple-pasta-salad/",
+        "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/1SjWdPZlB9_o6vjnqQef8rQFz9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4461650-5175bde2d08f4cff8ba0910ba64afc70.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/254410/pasta-salad-in-a-jar/",
+    "id": "e2cc8270-c773-4986-a4a6-1d05ef4c9793"
+}

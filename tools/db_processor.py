@@ -44,6 +44,10 @@ for filename in os.listdir(recipes_dir):
             recipe_text = preprocess_recipe(recipe)
             recipe_embedding = generate_ada_embedding(recipe_text)
             ingredient_embedding = generate_ada_embedding(preprocess_ingredients(recipe))
+
+            if isinstance(recipe["instructions"], list):
+                recipe["instructions"] = " ".join(recipe["instructions"])
+
             recipes.append({
                 "id": recipe.get("id", filename),  # Use file name as ID if 'id' is missing
                 "title": recipe.get("title", "Unknown Title"),
@@ -68,6 +72,9 @@ ingredient_collection = chroma_client.get_or_create_collection(name="recipes_by_
 
 # Insert recipes into the main collection
 for recipe in recipes:
+    if len(recipe["img_links"]) == 0:
+        continue
+
     collection.add(
         documents=[preprocess_recipe(recipe)],
         metadatas=[{
@@ -77,7 +84,7 @@ for recipe in recipes:
             "cuisine": recipe["cuisine"],
             "diet_type": recipe["diet_type"],
             "instructions": recipe["instructions"],
-            "ingredients": ", ".join(recipe["ingredients"]),
+            "ingredients": ";; ".join(recipe["ingredients"]),
             "img_links": ", ".join(recipe["img_links"]),
             "time_to_eat": recipe.get("time_to_eat", "-"),
             "source_url": recipe["source_url"]
@@ -88,16 +95,19 @@ for recipe in recipes:
 
 # Insert recipes into the ingredients-specific collection
 for recipe in recipes:
+    if len(recipe["img_links"]) == 0:
+        continue
+
     ingredient_collection.add(
         documents=[preprocess_ingredients(recipe)],
         metadatas=[{
             "id": recipe["id"],
             "title": recipe["title"],
-            "tags": ", ".join(recipe["tags"]),  # Convert list to comma-separated string
+            "tags": ", ".join(recipe["tags"]),
             "cuisine": recipe["cuisine"],
             "diet_type": recipe["diet_type"],
             "instructions": recipe["instructions"],
-            "ingredients": ", ".join(recipe["ingredients"]),
+            "ingredients": ";; ".join(recipe["ingredients"]),
             "img_links": ", ".join(recipe["img_links"]),
             "time_to_eat": recipe.get("time_to_eat", "-"),
             "source_url": recipe["source_url"]

@@ -1,0 +1,46 @@
+{
+    "title": "Tennessee Dry Rub",
+    "ingredients": [
+        "3 EL brown sugar",
+        "1 ½ EL coarse sea salt",
+        "1 ½ EL paprika",
+        "1 EL onion granules",
+        "½ EL garlic granules",
+        "½ EL cumin",
+        "½ EL black pepper",
+        "½ EL white pepper",
+        "¼ EL cayenne pepper"
+    ],
+    "core_ingredients": [
+        "brown sugar",
+        "sea salt",
+        "paprika",
+        "onion granules",
+        "garlic granules",
+        "cumin",
+        "black pepper",
+        "white pepper",
+        "cayenne pepper"
+    ],
+    "instructions": "Mix all ingredients and place in a container. The spice mixture will keep for several months. For best flavor, rub the meat with some oil 2-3 hours prior and generously apply the rub.",
+    "tags": [
+        "BBQ",
+        "spice rub",
+        "seasoning"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 5,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1458901250834443/Magic-Dust-Rub.html",
+        "https://www.chefkoch.de/rezepte/1961201319015030/Carolina-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/1961221319015148/Kansas-City-Rib-Rub.html",
+        "https://www.chefkoch.de/rezepte/2628141412852141/Gyros-Rub-Gewuerzmischung.html",
+        "https://www.chefkoch.de/rezepte/3080751460735774/Chicken-Dry-Rub.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3137831467274828/bilder/927225/crop-360x240/tennessee-dry-rub.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3137831467274828/Tennessee-Dry-Rub.html",
+    "id": "cfe9ec05-0f94-47f2-a5ea-725b4ae96d1d"
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Carrot Cake, Rüblikuchen or Möhrenkuchen",
+    "ingredients": [
+        "375 g grated carrots",
+        "250 g flour",
+        "2 tsp baking powder",
+        "250 g sugar",
+        "1 tsp cinnamon",
+        "250 ml neutral oil",
+        "4 eggs",
+        "200 g ground almonds",
+        "Fat for the form",
+        "300 g cream cheese",
+        "100 g powdered sugar",
+        "1 packet vanilla sugar",
+        "1 dash of lemon juice"
+    ],
+    "core_ingredients": [
+        "carrots",
+        "flour",
+        "sugar",
+        "cinnamon",
+        "oil",
+        "eggs",
+        "almonds",
+        "cream cheese"
+    ],
+    "instructions": "Mix eggs, sugar, oil, and cinnamon with a mixer. Add the carrots and almonds. Mix flour and baking powder and stir in. Fill the batter into a greased 26cm springform pan. Bake in a preheated oven at 180 °C for about 40-50 minutes. Do a toothpick test and consider your own oven's experience. For the frosting, mix cream cheese and lemon juice on low speed until smooth. Gradually add powdered sugar and vanilla sugar. After baking, let the cake cool and spread the frosting evenly around.",
+    "tags": [
+        "cake",
+        "carrot cake",
+        "dessert",
+        "bakery"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 75,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html",
+        "https://www.chefkoch.de/rezepte/1218391227356456/Der-beste-Kaesekuchen-der-Welt.html",
+        "https://www.chefkoch.de/rezepte/1666101274781519/Der-unglaublich-cremige-NY-Cheese-Cake.html",
+        "https://www.chefkoch.de/rezepte/2636361414129018/Russischer-Zupfkuchen.html",
+        "https://www.chefkoch.de/rezepte/820481186558221/Zitronenkuchen.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2654951416926884/bilder/749878/crop-360x240/karottenkuchen-rueblikuchen-oder-moehrenkuchen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2654951416926884/Karottenkuchen-Rueblikuchen-oder-Moehrenkuchen.html",
+    "id": "bdf14f54-b33e-44fb-90dd-2f6ea64f7ace"
+}

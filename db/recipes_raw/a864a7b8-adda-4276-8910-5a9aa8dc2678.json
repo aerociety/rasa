@@ -1,0 +1,47 @@
+{
+    "title": "Blueberry Cheesecake",
+    "ingredients": [
+        "1 cup graham cracker crumbs",
+        "¼ cup melted butter",
+        "2 tablespoons white sugar",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 cup sour cream",
+        "¾ cup white sugar",
+        "2 tablespoons all-purpose flour",
+        "1 teaspoon vanilla extract",
+        "4 large eggs",
+        "2 cups frozen blueberries, dry pack",
+        "⅓ cup blueberry jelly"
+    ],
+    "core_ingredients": [
+        "graham cracker crumbs",
+        "butter",
+        "sugar",
+        "cream cheese",
+        "sour cream",
+        "eggs",
+        "blueberries",
+        "blueberry jelly"
+    ],
+    "instructions": "1. Preheat the oven to 325°F (165°C).\n2. Mix graham crumbs, melted butter, and 2 tablespoons sugar until well combined. Pat mixture into the bottom of a 9-inch springform pan.\n3. Mash cream cheese until soft and creamy. Gradually beat in sour cream, 3/4 cup sugar, flour, and vanilla. Beat in eggs, one at a time. Pour mixture into the crumb-lined pan.\n4. Bake until firm to the touch, about 1 hour.\n5. Place baked cheesecake in the refrigerator until thoroughly chilled, about 4 hours.\n6. Remove cheesecake from the pan by loosening edges with a knife and opening the springform latch. Transfer to a serving platter. Place frozen blueberries on top. Melt jelly in a saucepan over low heat; spoon over blueberries to glaze. Chill until ready to serve.",
+    "tags": [
+        "cheesecake",
+        "blueberry",
+        "dessert",
+        "cake"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 320,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/63444/ultimos-no-bake-blueberry-squares/",
+        "https://www.allrecipes.com/recipe/143546/lemon-souffle-cheesecake-with-blueberry-topping/",
+        "https://www.allrecipes.com/recipe/146175/blueberry-shortbread-cheesecake/",
+        "https://www.allrecipes.com/recipe/194346/philadelphia-double-chocolate-cheesecake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/YgcuZwmbrQ1zLBgHMdYWlIalYGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7934-Blueberry-Cheesecake-ddmfs-107-4x3-1-b923ba1512404beaa1766396d6ce07c6.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/7934/blueberry-cheesecake/",
+    "id": "a864a7b8-adda-4276-8910-5a9aa8dc2678"
+}

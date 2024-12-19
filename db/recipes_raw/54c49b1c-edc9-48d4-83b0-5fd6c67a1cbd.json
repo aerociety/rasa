@@ -1,0 +1,48 @@
+{
+    "title": "Shrimp Couscous Salad",
+    "ingredients": [
+        "2 cups couscous",
+        "2 cups water",
+        "¾ cup olive oil",
+        "¼ cup apple cider vinegar",
+        "1 teaspoon Dijon mustard",
+        "1 teaspoon ground cumin",
+        "1 clove garlic, crushed",
+        "salt and pepper to taste",
+        "1 red bell pepper, chopped",
+        "1 yellow bell pepper, chopped",
+        "1 ½ pounds cooked shrimp, peeled and deveined",
+        "2 medium tomatoes, chopped",
+        "1 cup chopped fresh parsley",
+        "1 cup crumbled feta cheese"
+    ],
+    "core_ingredients": [
+        "couscous",
+        "olive oil",
+        "shrimp",
+        "tomatoes",
+        "feta cheese"
+    ],
+    "instructions": "1. Pour water into a saucepan, and bring to a boil. Stir in couscous, cover, and remove from heat. Let stand for 5 minutes, then fluff with a fork. Set aside to cool.\n2. In a small bowl, whisk together the olive oil, cider vinegar, Dijon mustard, garlic, salt and pepper. Set aside.\n3. In a large salad bowl, toss together the shrimp, cooled couscous, red and yellow bell peppers, tomatoes, parsley and feta cheese. Whisk vinaigrette to blend, then pour in about half of it over the couscous. Toss to coat, and add more dressing to coat thoroughly without drenching. Refrigerate at least 2 hours before serving.",
+    "tags": [
+        "salad",
+        "seafood",
+        "couscous",
+        "shrimps"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/71557/zesty-feta-and-shrimp-summer-pasta-salad/",
+        "https://www.allrecipes.com/recipe/281177/shrimp-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/104968/greek-pasta-salad-with-shrimp-tomatoes-zucchini-peppers-and-feta/",
+        "https://www.allrecipes.com/recipe/16859/moms-shrimp-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/87854/kahalas-macaroni-seafood-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/ftkRVKlZ30DzIuKYlXcoaFVAkak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/813680-9814d16d9bac4521af2c99bb9af90a92.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/60308/shrimp-couscous-salad/",
+    "id": "54c49b1c-edc9-48d4-83b0-5fd6c67a1cbd"
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Sweet-and-Spicy Peach Spread",
+    "ingredients": [
+        "1 (8 ounce) package reduced-fat cream cheese, softened",
+        "½ fresh peach - peeled, pitted, and finely chopped",
+        "2 tablespoons finely chopped jalapeno",
+        "2 tablespoons finely chopped cilantro",
+        "1 green onion, white part only, chopped"
+    ],
+    "core_ingredients": [
+        "cream cheese",
+        "peach",
+        "jalapeno",
+        "cilantro",
+        "green onion"
+    ],
+    "instructions": "Mix cream cheese, peach, jalapeno, cilantro, and green onion together in a small bowl.",
+    "tags": [
+        "spread",
+        "peach",
+        "savory",
+        "appetizer"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 10,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/281239/peach-guacamole/",
+        "https://www.allrecipes.com/recipe/269478/pear-pecan-cheese-ball/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/274377/golden-tomato-and-peach-salsa/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/H6SyTAW9IESrlQYOxDj8rPgpONo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6901217-688dff09a3484567ab92d382b154e56d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/275138/sweet-and-spicy-peach-spread/",
+    "id": "fe2a20c6-1a20-4104-9a36-7debdb880d2b"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Simple Ranch Chicken Macaroni Salad",
+    "ingredients": [
+        "1 cup uncooked elbow macaroni",
+        "1 stalk celery, chopped",
+        "1 (2.25 ounce) can chopped green olives",
+        "¼ cup mayonnaise",
+        "¼ cup sour cream",
+        "2 tablespoons milk",
+        "1 (10 ounce) can chicken chunks, drained",
+        "1 (1 ounce) package dry Ranch-style dressing mix",
+        "2 teaspoons paprika"
+    ],
+    "core_ingredients": [
+        "elbow macaroni",
+        "celery",
+        "green olives",
+        "mayonnaise",
+        "sour cream",
+        "milk",
+        "chicken",
+        "Ranch-style dressing mix",
+        "paprika"
+    ],
+    "instructions": "1. Bring a pot of water to a boil. Add the macaroni, and cook until tender, about 8 minutes. Drain, and pat dry. 2. In a medium bowl, mix together the celery, olives, mayonnaise, sour cream, milk, chicken and Ranch dressing mix. Stir in macaroni until well blended. 3. Refrigerate for 24 hours. Stir, and sprinkle paprika over the top before serving.",
+    "tags": [
+        "salad",
+        "pasta salad",
+        "chicken salad"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/221135/karas-summer-salad/",
+        "https://www.allrecipes.com/recipe/212932/filipino-chicken-salad/",
+        "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/279819/cold-chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/265787/gluten-free-chicken-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/awCUEYVmQ9czTfnTo6Q9EVk6evY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/461864-c243d22e720a447282d8286402725683.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/66565/simple-ranch-chicken-macaroni-salad/",
+    "id": "dfca477c-d4fc-4cca-8792-43aa31c5c9c0"
+}

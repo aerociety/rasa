@@ -1,0 +1,48 @@
+{
+    "title": "Shrimp Macaroni Salad",
+    "ingredients": [
+        "1 pound tri-color pasta",
+        "1 pound cooked and peeled medium shrimp",
+        "1 pint cherry tomatoes, halved",
+        "½ cup sliced pitted green olives (Optional)",
+        "3 green onions, sliced",
+        "1 cup lemon juice",
+        "½ cup extra-virgin olive oil",
+        "1 clove garlic, minced",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper"
+    ],
+    "core_ingredients": [
+        "pasta",
+        "shrimp",
+        "cherry tomatoes",
+        "green olives",
+        "green onions",
+        "lemon juice",
+        "olive oil",
+        "garlic",
+        "salt",
+        "black pepper"
+    ],
+    "instructions": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Rinse and drain. Mix macaroni, shrimp, tomatoes, olives, and green onions together in a large bowl. Combine lemon juice, oil, garlic, salt, and pepper for dressing in a separate bowl or mixing glass. Pour dressing over salad and refrigerate for at least 4 hours.",
+    "tags": [
+        "salad",
+        "seafood",
+        "pasta"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 265,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/237178/shrimp-pasta-salad-with-a-creamy-lemon-dressing/",
+        "https://www.allrecipes.com/recipe/21664/shrimp-and-crab-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/71557/zesty-feta-and-shrimp-summer-pasta-salad/",
+        "https://www.allrecipes.com/recipe/238593/my-moms-awesome-macaroni-salad-enough-to-feed-a-crowd/",
+        "https://www.allrecipes.com/recipe/16859/moms-shrimp-macaroni-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/EBOKunHc6p2VRMb6nP5gqmPhvCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9419144-bcf2d5508f574161bd26fe17f86f136d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/279749/shrimp-macaroni-salad/",
+    "id": "52576121-63d1-44c4-bc69-7adc6ce01f48"
+}

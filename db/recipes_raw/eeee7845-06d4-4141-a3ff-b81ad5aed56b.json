@@ -1,0 +1,58 @@
+{
+    "title": "KFC Coleslaw",
+    "ingredients": [
+        "800 g white cabbage",
+        "1 medium-sized carrot",
+        "1 small onion",
+        "65 g white sugar",
+        "½ tsp salt",
+        "⅛ tsp black pepper",
+        "60 ml milk",
+        "125 g mayonnaise",
+        "60 ml buttermilk",
+        "1 ½ tbsp white wine vinegar",
+        "2 ½ tbsp fresh lemon juice",
+        "¼ tsp paprika powder",
+        "½ tsp mustard (optional)"
+    ],
+    "core_ingredients": [
+        "white cabbage",
+        "carrot",
+        "onion",
+        "sugar",
+        "salt",
+        "black pepper",
+        "milk",
+        "mayonnaise",
+        "buttermilk",
+        "white wine vinegar",
+        "lemon juice",
+        "paprika powder",
+        "mustard"
+    ],
+    "instructions": "1. Finely slice the white cabbage, carrot, and onion into very thin strips (about 2.5 cm long), either by hand or using a food processor. 2. In a large bowl, mix the sliced cabbage, carrot, and onion. 3. In another bowl, combine the remaining ingredients well, possibly adding the mustard. Pour this dressing over the cabbage mixture and season to taste. 4. Cover the bowl and let the coleslaw sit in the refrigerator for at least 8 hours, preferably 12 to 15 hours, to allow the flavors to meld. 5. Serve the coleslaw about 30 minutes after taking it out of the fridge. It pairs well with burgers, pulled pork, hot dogs, grilled pork and poultry, and BBQ.",
+    "tags": [
+        "salad",
+        "vegetable",
+        "vegetarian",
+        "side dish",
+        "USA",
+        "simple",
+        "American"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1966171319525408/Big-Mac-Salat.html",
+        "https://www.chefkoch.de/rezepte/291451108168834/Nudelsalat-auf-italienisch.html",
+        "https://www.chefkoch.de/rezepte/2995931452430804/Rote-Linsen-Salat-mit-Roter-Bete.html",
+        "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html",
+        "https://www.chefkoch.de/rezepte/614141161435086/Krautsalat-wie-im-griechischen-Restaurant.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3017351454519857/bilder/1533407/crop-360x240/kfc-coleslaw.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3017351454519857/KFC-Coleslaw.html",
+    "id": "eeee7845-06d4-4141-a3ff-b81ad5aed56b"
+}

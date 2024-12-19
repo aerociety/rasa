@@ -1,0 +1,37 @@
+{
+    "title": "Lazy Peach Cobbler",
+    "ingredients": [
+        "½ cup margarine",
+        "2 cups all-purpose flour",
+        "1 cup white sugar",
+        "1 teaspoon baking powder",
+        "1 (29 ounce) can sliced peaches, juice reserved"
+    ],
+    "core_ingredients": [
+        "margarine",
+        "all-purpose flour",
+        "white sugar",
+        "baking powder",
+        "sliced peaches"
+    ],
+    "instructions": "1. Preheat the oven to 350 degrees F (175 degrees C). 2. Melt margarine in a 9x13-inch glass baking pan in the preheated oven. 3. In a large bowl, combine flour, sugar, and baking powder. Pour reserved peach juice into flour mixture and stir until smooth. 4. Remove the glass pan from the oven and pour in batter starting in the center; batter will spread over the entire pan. Add peaches by placing them in the center of the pan; allow peaches to spread on their own. 5. Bake cobbler in preheated oven for 20 to 25 minutes, or until just brown on top.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/223254/great-grandmas-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/228937/quick-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/255308/peach-cobbler-celiac-friendly/",
+        "https://www.allrecipes.com/recipe/19044/easy-peach-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/3R2kv3_v8nYlF9myBKC7evTYCM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8170119-f3f5dc77415a4983998db6e61654dbd9.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/18435/lazy-peach-cobbler/",
+    "id": "3152cd5b-61a1-49ba-aa6b-470ddb19b89f"
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Spaghetti mit Avocado und Basilikum",
+    "ingredients": [
+        "200 g Spaghetti",
+        "1 große Avocado, entkernt und geschält",
+        "1 Bund Basilikum",
+        "3 EL Olivenöl",
+        "1 Knoblauchzehe",
+        "Salz und Pfeffer",
+        "Basilikumblätter zum Garnieren"
+    ],
+    "core_ingredients": [
+        "spaghetti",
+        "avocado",
+        "basilikum",
+        "olivenöl",
+        "knoblauch"
+    ],
+    "instructions": "Avocado, Basilikum, Olivenöl und Knoblauch mit viel frisch gemahlenem Pfeffer und Salz mixen. Währenddessen die Spaghetti al dente garen. Abgießen und mit der Avocadosauce mischen. Bei ganz kleiner Hitze 1 - 2 Min. erwärmen. Gepfeffert und mit frischen Basilikumblättchen garniert servieren.",
+    "tags": [
+        "quick",
+        "original",
+        "filling",
+        "healthy"
+    ],
+    "diet_type": "Vegetarian, Vegan",
+    "cuisine": "Italian",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3862231588066575/Feldsalat-mit-Ei-und-Forelle.html",
+        "https://www.chefkoch.de/rezepte/3862411588079926/Gegrillter-Paprikasalat.html",
+        "https://www.chefkoch.de/rezepte/3862161588063542/Pasta-mit-Lachs-Zucchini-Sauce.html",
+        "https://www.chefkoch.de/rezepte/3859611587637236/Sweet-and-smokey-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/3700671558978845/Pulled-Chicken.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3857251587306291/bilder/1315709/crop-360x240/spaghetti-mit-avocado-und-basilikum.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3857251587306291/Spaghetti-mit-Avocado-und-Basilikum.html",
+    "id": "dc538d48-d181-4a30-9be5-d1ef7a457955"
+}

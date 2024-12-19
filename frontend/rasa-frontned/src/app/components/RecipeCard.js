@@ -1,4 +1,7 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
+import Link from "next/link";
 
 function RecipeCard({ recipe }) {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -19,9 +22,9 @@ function RecipeCard({ recipe }) {
     }, [imgLinks]);
 
     return (
-        <div className="bg-gray-700 text-white rounded-lg shadow-md overflow-hidden">
+        <div className="bg-gray-700 text-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
             {/* Image Carousel */}
-            <div className="relative bg-black h-60"> {/* Increased height */}
+            <div className="relative bg-black h-60">
                 {imgLinks.map((img, index) => (
                     <img
                         key={index}
@@ -46,8 +49,8 @@ function RecipeCard({ recipe }) {
                     ))}
                 </div>
             </div>
-            {/* Info Row */}
-            <div className="p-4 flex items-center space-x-4">
+            {/* Highlighted Info Row */}
+            <div className="p-4 flex items-center space-x-4 bg-gray-600">
                 {/* Time to Cook */}
                 <div className="flex items-center space-x-2">
                     <img src="/clock.svg" alt="Time to Cook" className="w-5 h-5" />
@@ -85,24 +88,24 @@ function RecipeCard({ recipe }) {
                 </div>
             </div>
             {/* Recipe Info */}
-            <div className="p-4">
-                <h2 className="text-xl font-bold">{recipe.title}</h2>
+            <div className="p-4 flex-grow flex flex-col">
+                <h2 className="text-xl font-bold mb-2 line-clamp-2">{recipe.title}</h2>
                 <p className="text-sm mt-2 line-clamp-4 relative">
                     {recipe.instructions}
                     <span className="absolute bottom-0 left-0 w-full h-6 bg-gradient-to-t from-gray-700 to-transparent" />
                 </p>
             </div>
-            {/* View Button */}
-            <div className="p-4 text-right">
-                <button
-                    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-                    onClick={() => alert(`View Recipe: ${recipe.title}`)}
+            {/* Centered View Button */}
+            <div className="p-4 flex justify-center">
+                <Link
+                    href={`/recipes/${recipe.id}/`}
+                    className="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
                 >
                     View Recipe
-                </button>
+                </Link>
             </div>
         </div>
-    );
+    )
 }
 
 export default RecipeCard;

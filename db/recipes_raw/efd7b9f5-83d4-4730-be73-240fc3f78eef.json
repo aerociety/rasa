@@ -1,0 +1,50 @@
+{
+    "title": "Ali's Greek Tortellini Salad",
+    "ingredients": [
+        "2 (9 ounce) packages cheese tortellini",
+        "½ cup extra virgin olive oil",
+        "¼ cup lemon juice",
+        "¼ cup red wine vinegar",
+        "2 tablespoons chopped fresh parsley",
+        "1 teaspoon dried oregano",
+        "½ teaspoon salt",
+        "6 eggs",
+        "1 pound baby spinach leaves",
+        "1 cup crumbled feta cheese",
+        "½ cup slivered red onion"
+    ],
+    "core_ingredients": [
+        "tortellini",
+        "olive oil",
+        "lemon juice",
+        "red wine vinegar",
+        "parsley",
+        "oregano",
+        "salt",
+        "eggs",
+        "spinach",
+        "feta cheese",
+        "red onion"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add tortellini, and cook for 7 minutes or until al dente; drain.\n2. In a large bowl, mix the olive oil, lemon juice, red wine vinegar, parsley, oregano, and salt. Place the cooked tortellini in the bowl, and toss to coat. Cover, and chill at least 2 hours in the refrigerator.\n3. Place eggs in a saucepan with enough water to cover, and bring to a boil. Remove from heat, and allow eggs to sit in the hot water for 10 to 12 minutes. Drain, cool, peel, and quarter.\n4. Gently mix the spinach, feta cheese, and onion into the bowl with the pasta. Arrange the quartered eggs around the salad to serve.",
+    "tags": [
+        "salad",
+        "tortellini",
+        "Greek"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Greek",
+    "time_to_eat": 150,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/21132/orzo-and-tomato-salad-with-feta-cheese/",
+        "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+        "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/VpOw8hxmZeGM_HFCjXh23cWfwOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1576-e2f966b6a1ba4a96a6209d02e4bc455d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/73594/alis-greek-tortellini-salad/",
+    "id": "efd7b9f5-83d4-4730-be73-240fc3f78eef"
+}

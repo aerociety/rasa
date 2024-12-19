@@ -1,0 +1,46 @@
+{
+    "title": "Zesty Cold Chicken Pasta Salad",
+    "ingredients": [
+        "8 ounces rotini pasta",
+        "1 cup fat-free mayonnaise",
+        "1 teaspoon lemon pepper seasoning",
+        "½ teaspoon dried mustard",
+        "24 cherry tomatoes, halved",
+        "15 ounces peas, drained",
+        "10 ounces canned chicken, drained",
+        "1 pinch paprika"
+    ],
+    "core_ingredients": [
+        "rotini",
+        "mayonnaise",
+        "lemon pepper seasoning",
+        "mustard",
+        "tomatoes",
+        "peas",
+        "chicken",
+        "paprika"
+    ],
+    "instructions": "Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 minutes. Drain and rinse with cold water. Mix mayonnaise, lemon pepper seasoning, and dried mustard together in a large bowl. Mix in cherry tomatoes, peas, and chicken. Fold in rotini. Sprinkle paprika over salad before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "pasta",
+        "quick",
+        "easy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 23,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/73920/pool-party-pasta-salad/",
+        "https://www.allrecipes.com/recipe/143555/mandarin-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/265787/gluten-free-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/23713/chicken-caesar-pasta/",
+        "https://www.allrecipes.com/recipe/258007/moms-homestyle-barilla-gluten-free-macaroni-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/cZ4VmQuj7hs2QZalLWiyDdG2a4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4479048-b7accac289a74c4096f41584dfdf2acb.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/257276/zesty-cold-chicken-pasta-salad/",
+    "id": "460d9e62-459f-4e16-949d-bb311d3bbae8"
+}

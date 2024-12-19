@@ -1,0 +1,46 @@
+{
+    "title": "Best Vegetarian Pasta Bake",
+    "ingredients": [
+        "500 g Penne",
+        "100 ml Olive oil",
+        "400 ml Cream",
+        "1 tube Tomato paste, unseasoned",
+        "Italian herbs to taste",
+        "Salt and pepper to taste",
+        "5 cloves Garlic",
+        "250 g Gouda or Mozzarella, grated",
+        "4 Tomatoes"
+    ],
+    "core_ingredients": [
+        "Penne",
+        "Olive oil",
+        "Cream",
+        "Tomato paste",
+        "Garlic",
+        "Gouda",
+        "Tomatoes"
+    ],
+    "instructions": "First, cook the penne in salted water until al dente, then drain. For the sauce, mix olive oil, cream, the whole tube of tomato paste, herbs, salt, and pepper. Peel and finely chop the garlic, then add it to the sauce. Optionally, adjust the amount of olive oil and garlic to taste. Mix the pasta with the sauce and place in a large baking dish. Mix in 1/3 of the cheese. Quarter the tomatoes and lay them on top, then sprinkle with the remaining cheese. Bake in a preheated oven at 180 °C (fan) for about 30 minutes until the cheese is melted. Serve immediately.",
+    "tags": [
+        "pasta",
+        "vegetarian",
+        "bake",
+        "easy",
+        "quick"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1044541209388802/Gnocchi-aus-dem-Ofen-in-Paprika-Tomaten-Sauce.html",
+        "https://www.chefkoch.de/rezepte/1631611270752104/Vegetarische-Frikadellen.html",
+        "https://www.chefkoch.de/rezepte/2114131340630587/Vegetarische-Spinat-Gemuese-Lasagne-mit-Tomatensosse.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/802701184066929/bilder/767024/crop-360x240/bester-vegetarischer-nudelauflauf.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/802701184066929/Bester-vegetarischer-Nudelauflauf.html",
+    "id": "f2fa2ea4-4bb7-4681-8aa9-75c585da6ac6"
+}

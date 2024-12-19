@@ -1,0 +1,44 @@
+{
+    "title": "Minty Peach Chicken Salad",
+    "ingredients": [
+        "fresh peaches",
+        "cubed cooked chicken breast",
+        "cucumber",
+        "white wine vinegar",
+        "minced fresh mint",
+        "white sugar",
+        "lemon juice",
+        "salt",
+        "ground black pepper",
+        "hot sauce",
+        "avocados"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "chicken breast",
+        "cucumber",
+        "mint",
+        "avocados"
+    ],
+    "instructions": "Combine peaches, chicken, and cucumber in a large bowl. Blend vinegar, mint, sugar, lemon juice, salt, pepper, and hot sauce in a blender until vinaigrette is smooth. Drizzle vinaigrette over peach mixture; toss to coat. Cover bowl with plastic wrap and refrigerate until chilled, at least 30 minutes. Fold avocado into salad before serving.",
+    "tags": [
+        "salad",
+        "summer",
+        "chicken"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/242415/grilled-chicken-peach-and-arugula-salad/",
+        "https://www.allrecipes.com/recipe/280570/fresh-peach-and-pecan-chicken-salad/",
+        "https://www.allrecipes.com/recipe/282842/grilled-chicken-with-peach-salsa/",
+        "https://www.allrecipes.com/recipe/274372/grilled-ginger-peach-chicken-breast/",
+        "https://www.allrecipes.com/recipe/247450/grilled-panzanella-salad-with-peaches-and-fennel/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Clm0PmD2hjVe8c91Y_PyJfLFzy8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1414989-beeb6cdda0c9481cac14d907f5ae1592.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/233936/minty-peach-chicken-salad/",
+    "id": "75e351dd-a940-48d7-946c-f1c50ad2ab0c"
+}

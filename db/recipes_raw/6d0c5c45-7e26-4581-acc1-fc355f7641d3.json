@@ -1,0 +1,46 @@
+{
+    "title": "Italian Bread Salad",
+    "ingredients": [
+        "Olive oil",
+        "Rosemary sprig",
+        "Spicy salami",
+        "Baguette, diced",
+        "Arugula",
+        "Cherry tomatoes",
+        "Light balsamic vinegar",
+        "Sea salt and pepper",
+        "Grated parmesan"
+    ],
+    "core_ingredients": [
+        "olive oil",
+        "salami",
+        "baguette",
+        "arugula",
+        "cherry tomatoes",
+        "balsamic vinegar",
+        "parmesan"
+    ],
+    "instructions": "Heat some olive oil with a rosemary sprig in a pan. Cut the salami into thick slices and fry until crispy. Place on kitchen paper to cool. In the same pan, add a bit more olive oil and the diced baguette. Meanwhile, wash the arugula and remove the stems, halving the cherry tomatoes. Combine everything in a large bowl and season with vinegar, oil, sea salt, and pepper. Add the crispy baguette cubes and salami chips, mixing well. Finally, mix in some grated parmesan and sprinkle the rest over the finished bread salad.",
+    "tags": [
+        "Salad",
+        "Italian",
+        "Quick",
+        "Grilling",
+        "Easy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1495691254829099/Eckis-italienischer-Nudelsalat-mit-Pesto.html",
+        "https://www.chefkoch.de/rezepte/2520621395238605/Spargel-Brotsalat.html",
+        "https://www.chefkoch.de/rezepte/291451108168834/Nudelsalat-auf-italienisch.html",
+        "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html",
+        "https://www.chefkoch.de/rezepte/614141161435086/Krautsalat-wie-im-griechischen-Restaurant.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/601861159947648/bilder/1365888/crop-360x240/italienischer-brotsalat.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/601861159947648/Italienischer-Brotsalat.html",
+    "id": "6d0c5c45-7e26-4581-acc1-fc355f7641d3"
+}

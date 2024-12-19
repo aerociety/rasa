@@ -1,0 +1,45 @@
+{
+    "title": "Orzo and Tomato Salad with Feta Cheese",
+    "ingredients": [
+        "1 cup uncooked orzo pasta",
+        "¼ cup pitted green olives",
+        "1 cup diced feta cheese",
+        "3 tablespoons chopped fresh parsley",
+        "3 tablespoons chopped fresh dill",
+        "1 ripe tomato, chopped",
+        "¼ cup virgin olive oil",
+        "⅛ cup lemon juice",
+        "salt and pepper to taste"
+    ],
+    "core_ingredients": [
+        "orzo pasta",
+        "green olives",
+        "feta cheese",
+        "parsley",
+        "dill",
+        "tomato",
+        "olive oil",
+        "lemon juice"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Cook orzo until al dente, about 8 to 10 minutes. Drain and rinse with cold water.\n2. When orzo is cool, transfer to a medium bowl and mix in olives, feta cheese, parsley, dill, and tomato.\n3. Whisk together olive oil and lemon juice in a small bowl. Pour over orzo mixture; mix well. Season with salt and pepper; chill before serving.",
+    "tags": [
+        "salad",
+        "vegetarian",
+        "cold dish"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mediterranean",
+    "time_to_eat": 25,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11790/penne-tomato-and-mozzarella-salad/",
+        "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/",
+        "https://www.allrecipes.com/recipe/73594/alis-greek-tortellini-salad/",
+        "https://www.allrecipes.com/recipe/88500/minty-orzo-lentil-and-feta-salad/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/CRjyFYig7-LPLuTxAgMVpbuRMIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042457-1951260cf7ba46f5bc40a147f0d1eab6.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/21132/orzo-and-tomato-salad-with-feta-cheese/",
+    "id": "df4f89de-ba8d-4d75-86e9-f31ea5dd1f8b"
+}

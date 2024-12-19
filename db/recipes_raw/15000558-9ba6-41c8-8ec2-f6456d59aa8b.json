@@ -1,0 +1,45 @@
+{
+    "title": "Peach Cobbler",
+    "ingredients": [
+        "3 fresh peaches, peeled, pitted, and sliced",
+        "2 ½ cups white sugar, divided",
+        "1 teaspoon ground cinnamon",
+        "½ cup shortening",
+        "1 ½ cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "½ teaspoon salt",
+        "1 cup milk",
+        "3 tablespoons butter",
+        "2 cups boiling water"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "sugar",
+        "shortening",
+        "flour",
+        "baking powder",
+        "milk",
+        "butter"
+    ],
+    "instructions": "1. Preheat the oven to 350 degrees F (175 degrees C). Grease a 10x10-inch baking dish. 2. Stir together peaches, 1 1/2 cups sugar, and cinnamon in a medium bowl until well combined; set aside. 3. Beat together remaining 1 cup sugar and shortening in a large bowl until light and fluffy. Stir together flour, baking powder, and salt in a small bowl; add to shortening mixture alternately with milk, mixing after each addition until just combined. 4. Pour biscuit batter into the prepared baking dish; top with peach mixture. Drop butter in boiling water and pour all over peaches. 5. Bake in the preheated oven until golden brown, 40 to 45 minutes.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 60,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/17635/ga-peach-pound-cake/",
+        "https://www.allrecipes.com/recipe/18469/peach-cobbler-vi/",
+        "https://www.allrecipes.com/recipe/12595/too-easy-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/15046/easy-peach-cobbler-with-cake-mix/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/d5FJ562MuSRXVwHudWdXCVKOGYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22993peach-cobbler-iilutzflcat4x3-f0abade892a54be6b393f090b0c870ca.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+    "id": "15000558-9ba6-41c8-8ec2-f6456d59aa8b"
+}

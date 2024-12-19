@@ -1,0 +1,48 @@
+{
+    "title": "Banana Split Cheesecake",
+    "ingredients": [
+        "2 ½ cups graham cracker crumbs",
+        "¾ cup melted butter",
+        "4 cups confectioners' sugar",
+        "2 (8 ounce) packages cream cheese",
+        "1 (8 ounce) can crushed pineapple, drained",
+        "3 medium bananas, quartered",
+        "1 (12 ounce) container frozen whipped topping, thawed",
+        "8 maraschino cherries, halved",
+        "¼ cup chocolate syrup",
+        "½ cup pecan halves"
+    ],
+    "core_ingredients": [
+        "graham cracker crumbs",
+        "butter",
+        "confectioners' sugar",
+        "cream cheese",
+        "pineapple",
+        "bananas",
+        "whipped topping",
+        "maraschino cherries",
+        "chocolate syrup",
+        "pecan halves"
+    ],
+    "instructions": "Blend the melted butter with the graham cracker crumbs and press into the bottom of one 9x12 inch pan. Blend the confectioner's sugar and the cream cheese together until smooth. Spread over the graham cracker crumb layer. Layer the crushed pineapple and bananas over the cream cheese layer. Then spread the whipped topping over the top. Decorate with maraschino cherry halves. Drizzle chocolate syrup over the top and sprinkle with pecans. Chill for at least 4 hours then serve.",
+    "tags": [
+        "dessert",
+        "cheesecake",
+        "no-bake"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 240,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/246514/banana-chocolate-creamed-cashew-cake/",
+        "https://www.allrecipes.com/recipe/256014/chai-spice-cheesecake/",
+        "https://www.allrecipes.com/recipe/228315/banana-peanut-butter-cheesecake-aka-the-elvis/",
+        "https://www.allrecipes.com/recipe/47119/banana-cheesecake-with-caramel-sauce/",
+        "https://www.allrecipes.com/recipe/270370/bananas-foster-cheesecake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/1EN0zvsNT9DYdc34O_HSVjq6a3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1390-28220096ef6a46358b11f170eb3a1e3d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/7741/banana-split-cheesecake/",
+    "id": "7120a258-5e33-4e8c-8a37-3823660b2e7e"
+}

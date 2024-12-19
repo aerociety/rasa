@@ -1,0 +1,41 @@
+{
+    "title": "Too Easy Peach Cobbler",
+    "ingredients": [
+        "6 fresh peaches",
+        "1 ½ cups white sugar",
+        "2 tablespoons all-purpose flour",
+        "1 egg",
+        "½ cup butter",
+        "5 slices white bread"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "sugar",
+        "flour",
+        "egg",
+        "butter",
+        "bread"
+    ],
+    "instructions": "Preheat oven to 350 degrees F (175 degrees C). Butter an 8-inch square baking dish. Cut crust from bread slices, and cut each into 4 or 5 strips. Spread fruit into prepared pan, and cover with a layer of bread strips. Beat together butter, sugar, and flour; mix in egg. Pour mixture over the fruit and bread. Bake in preheated oven for 35 to 45 minutes, or until golden brown.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "peach",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 55,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/15046/easy-peach-cobbler-with-cake-mix/",
+        "https://www.allrecipes.com/recipe/22744/easy-fresh-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/17635/ga-peach-pound-cake/",
+        "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Yq4M8bK16jgvorOgAJu3w2jEQm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1449245-588de57b472f42a9960879e9c08a661c.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/12595/too-easy-peach-cobbler/",
+    "id": "ebc73543-c5fc-43e2-a9f6-efcfb6a3f194"
+}

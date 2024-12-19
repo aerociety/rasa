@@ -1,0 +1,44 @@
+{
+    "title": "Chipotle Peach Salsa with Cilantro",
+    "ingredients": [
+        "1 cup sliced canned peaches, drained and chopped",
+        "⅓ cup chopped red onion",
+        "2 cloves garlic, minced",
+        "1 ½ teaspoons minced fresh ginger root",
+        "2 teaspoons minced chipotle peppers in adobo sauce",
+        "⅓ cup chopped fresh cilantro",
+        "½ lime, juiced",
+        "salt and pepper to taste"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "red onion",
+        "garlic",
+        "ginger",
+        "chipotle peppers",
+        "cilantro",
+        "lime"
+    ],
+    "instructions": "In a bowl, mix the peaches, onion, garlic, ginger, chipotle peppers in adobo sauce, cilantro, and lime. Season with salt and pepper. Chill until serving.",
+    "tags": [
+        "salsa",
+        "appetizer",
+        "dips and spreads",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 10,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/15059/spicy-mango-salsa/",
+        "https://www.allrecipes.com/recipe/215042/habanero-sauce/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/267637/simple-peach-salsa/",
+        "https://www.allrecipes.com/recipe/166482/mango-peach-and-pineapple-salsa/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/GJ6ZL_2Sdc-Z5LavVoIzClcg6pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9277162-d191af935b4a494f961e243f877dea0c.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/",
+    "id": "eaaa8ced-b9d6-417b-87ca-32e59299b02a"
+}

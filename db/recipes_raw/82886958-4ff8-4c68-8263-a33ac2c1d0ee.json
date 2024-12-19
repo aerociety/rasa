@@ -1,0 +1,60 @@
+{
+    "title": "Fresh Fruit Cobbler",
+    "ingredients": [
+        "1 cup sliced fresh peaches",
+        "¾ cup peeled apple slices",
+        "¾ cup peeled pear slices",
+        "½ cup blueberries",
+        "½ cup pitted, sliced cherries",
+        "½ cup pitted, sliced plums",
+        "¾ cup white sugar",
+        "¼ cup milk",
+        "1 egg",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "½ teaspoon salt",
+        "½ teaspoon vanilla extract",
+        "2 tablespoons butter, melted"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "apple",
+        "pear",
+        "blueberries",
+        "cherries",
+        "plums",
+        "sugar",
+        "milk",
+        "egg",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "vanilla extract",
+        "butter"
+    ],
+    "instructions": "1. Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish. 2. Arrange peaches, apple, pear, blueberries, cherries, and plums in the prepared baking dish. 3. Whisk sugar, milk, and egg together in a medium bowl. Sift flour, baking powder, and salt together into a separate bowl. Stir dry ingredients into wet ingredients, then stir in melted butter and vanilla. Pour batter over fruit in the baking dish to cover. 4. Bake in the preheated oven until bubbly and lightly browned on top, about 30 minutes. Serve warm.",
+    "tags": [
+        "dessert",
+        "fruit",
+        "cobbler",
+        "baking"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 60,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/57691/huckleberry-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/12401/peach-berry-cobbler/",
+        "https://www.allrecipes.com/recipe/88354/easy-batter-fruit-cobbler/",
+        "https://www.allrecipes.com/recipe/12148/easy-fruit-cobbler/",
+        "https://www.allrecipes.com/recipe/22753/peaches-and-cream/",
+        "https://www.allrecipes.com/recipe/17635/ga-peach-pound-cake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/xgQ6tJAVpbIKUVYMidUEXaBrnIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8210133_FreshFruitCobbler4x3-ebc7ad03f03a44fca11146aef4f1688f.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/12279/fresh-fruit-cobbler/",
+    "id": "82886958-4ff8-4c68-8263-a33ac2c1d0ee"
+}

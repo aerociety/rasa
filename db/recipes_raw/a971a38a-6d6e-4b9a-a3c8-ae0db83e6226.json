@@ -1,0 +1,65 @@
+{
+    "title": "Saigon Noodle Salad",
+    "ingredients": [
+        "¼ cup water, or more to taste",
+        "3 tablespoons lime juice",
+        "3 tablespoons fish sauce",
+        "3 tablespoons brown sugar, or more to taste",
+        "1 clove garlic, minced",
+        "1 teaspoon minced fresh ginger",
+        "½ teaspoon Sriracha sauce",
+        "1 (8 ounce) package rice noodles",
+        "2 cups thinly sliced Napa cabbage",
+        "1 ½ cups matchstick-cut carrots",
+        "8 ounces grilled shrimp",
+        "1 cup bean sprouts",
+        "½ English cucumber, halved lengthwise and cut into thin slices",
+        "2 green onions, thinly sliced",
+        "2 ⅔ tablespoons chopped fresh mint",
+        "2 ⅔ tablespoons chopped fresh cilantro",
+        "2 ⅔ tablespoons chopped fresh basil",
+        "½ cup coarsely chopped peanuts"
+    ],
+    "core_ingredients": [
+        "water",
+        "lime juice",
+        "fish sauce",
+        "brown sugar",
+        "garlic",
+        "ginger",
+        "Sriracha sauce",
+        "rice noodles",
+        "Napa cabbage",
+        "carrots",
+        "shrimp",
+        "bean sprouts",
+        "cucumber",
+        "green onions",
+        "mint",
+        "cilantro",
+        "basil",
+        "peanuts"
+    ],
+    "instructions": "1. Whisk water, lime juice, fish sauce, brown sugar, garlic, ginger, and Sriracha together in a bowl until sugar is dissolved.\n2. Bring a large pot of water to a full boil; remove from heat. Add rice noodles; soak for 1 minute. Stir to separate noodles; continue soaking until noodles are tender, about 3 minutes more. Drain noodles. Rinse with cold water until cooled; shake and drain in a colander to remove as much water as possible.\n3. Combine noodles, cabbage, carrots, shrimp, bean sprouts, cucumber slices, green onions, mint, cilantro, and basil in a large bowl. Drizzle dressing over salad; toss to coat. Top with chopped peanuts.",
+    "tags": [
+        "Vietnamese",
+        "Salad",
+        "Quick",
+        "Healthy",
+        "Summer"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Vietnamese",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/144948/fresh-dill-pasta-salad/",
+        "https://www.allrecipes.com/recipe/87854/kahalas-macaroni-seafood-salad/",
+        "https://www.allrecipes.com/recipe/281177/shrimp-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/276564/shrimp-pasta-salad-with-dill/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/MGpJCL0-hlMxfzUylIcuR9FIIng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1259511-afe469c41e41475494dd791ca7693f15.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/238234/saigon-noodle-salad/",
+    "id": "a971a38a-6d6e-4b9a-a3c8-ae0db83e6226"
+}

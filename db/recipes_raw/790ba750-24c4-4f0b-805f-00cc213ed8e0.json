@@ -1,0 +1,47 @@
+{
+    "title": "Krautsalat - wie im griechischen Restaurant",
+    "ingredients": [
+        "1 Weißkohl",
+        "2 Zwiebel(n)",
+        "1 Tasse Zucker",
+        "1 Tasse Öl",
+        "2 EL Salz",
+        "1 TL Pfeffer",
+        "½ Flasche Kräuteressig",
+        "1 Flasche Mineralwasser mit Kohlensäure"
+    ],
+    "core_ingredients": [
+        "Weißkohl",
+        "Zwiebel",
+        "Zucker",
+        "Öl",
+        "Salz",
+        "Pfeffer",
+        "Kräuteressig",
+        "Mineralwasser"
+    ],
+    "instructions": "Den Strunk vom Kohl entfernen. Den Kohl fein raspeln und in eine Schüssel geben. Die Zwiebeln in kleine Würfel schneiden und zum geraspelten Kraut geben. Zucker, Öl, Salz, Pfeffer, Kräuteressig und Mineralwasser vermischen. Der Zucker muss sich gut auflösen. Vorsicht, wenn man das Mineralwasser dazugibt, schäumt es etwas! Die Soße über das Kraut gießen. Das Ganze mit einem kleineren Deckel als die Schüssel ist, abdecken und mit 2 - 3 Konservendosen beschweren. 24 Stunden stehen lassen. Am nächsten Tag den Sud abgießen und servieren. Lecker zu Gegrilltem, hält sich auch im Kühlschrank in Einmachgläsern.",
+    "tags": [
+        "Salat",
+        "Gemüse",
+        "Sommer",
+        "Party",
+        "Schnell",
+        "einfach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Greek",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1231931228220006/Omas-echter-Berliner-Kartoffelsalat.html",
+        "https://www.chefkoch.de/rezepte/262751102375096/Griechischer-Bauernsalat.html",
+        "https://www.chefkoch.de/rezepte/291451108168834/Nudelsalat-auf-italienisch.html",
+        "https://www.chefkoch.de/rezepte/3017351454519857/KFC-Coleslaw.html",
+        "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/614141161435086/bilder/1516032/crop-360x240/krautsalat-wie-im-griechischen-restaurant.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/614141161435086/Krautsalat-wie-im-griechischen-Restaurant.html",
+    "id": "790ba750-24c4-4f0b-805f-00cc213ed8e0"
+}

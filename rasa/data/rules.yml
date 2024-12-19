@@ -1,5 +1,6 @@
 version: "3.1"
 rules:
+
   - rule: respond to recipe request
     steps:
       - intent: get_recipe
@@ -19,3 +20,32 @@ rules:
     steps:
       - intent: dietary_options
       - action: action_get_dietary_options
+
+  - rule: respond to search by text
+    steps:
+      - intent: search_by_text
+      - action: action_search_by_text
+
+  # Greet
+  - rule: greet user
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  # how_are_you
+  - rule: how are you
+    steps:
+      - intent: how_are_you
+      - action: utter_how_are_you
+
+  # what_can_you_do
+  - rule: what can you do
+    steps:
+      - intent: what_can_you_do
+      - action: utter_what_can_you_do
+
+  # Fallback rule
+  - rule: default fallback
+    steps:
+      - intent: nlu_fallback
+      - action: utter_default

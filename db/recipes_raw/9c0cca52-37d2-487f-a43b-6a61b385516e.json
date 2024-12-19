@@ -1,0 +1,47 @@
+{
+    "title": "Sesame Pasta Chicken Salad",
+    "ingredients": [
+        "¼ cup sesame seeds",
+        "1 (16 ounce) package bow tie pasta",
+        "½ cup vegetable oil",
+        "⅓ cup light soy sauce",
+        "⅓ cup rice vinegar",
+        "1 teaspoon sesame oil",
+        "3 tablespoons white sugar",
+        "½ teaspoon ground ginger",
+        "¼ teaspoon ground black pepper",
+        "3 cups shredded, cooked chicken breast meat",
+        "⅓ cup chopped fresh cilantro",
+        "⅓ cup chopped green onion"
+    ],
+    "core_ingredients": [
+        "sesame seeds",
+        "pasta",
+        "vegetable oil",
+        "soy sauce",
+        "vinegar",
+        "chicken"
+    ],
+    "instructions": "1. Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside. 2. Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl. 3. In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well. 4. Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.",
+    "tags": [
+        "salad",
+        "pasta",
+        "chicken",
+        "asian"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Asian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/20494/almond-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14186/grilled-chicken-salad-with-seasonal-fruit/",
+        "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+        "https://www.allrecipes.com/recipe/14533/caribbean-chicken-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/BY7ANwGUONeaoSLXvW2g8khpFZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/92940-6ee997cd6284474689a152cf8feca175.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/18327/sesame-pasta-chicken-salad/",
+    "id": "9c0cca52-37d2-487f-a43b-6a61b385516e"
+}

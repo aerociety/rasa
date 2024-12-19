@@ -1,0 +1,44 @@
+{
+    "title": "Peach Pound Cake",
+    "ingredients": [
+        "2 cups white sugar",
+        "1 cup butter, softened",
+        "4 large eggs",
+        "1 teaspoon vanilla extract",
+        "3 cups all-purpose flour, divided",
+        "1 teaspoon baking powder",
+        "½ teaspoon salt",
+        "2 cups fresh peaches, pitted and chopped"
+    ],
+    "core_ingredients": [
+        "sugar",
+        "butter",
+        "eggs",
+        "vanilla extract",
+        "all-purpose flour",
+        "baking powder",
+        "salt",
+        "peaches"
+    ],
+    "instructions": "Preheat the oven to 325 degrees F (165 degrees C). Butter a 10-inch tube pan and dust with white sugar. Beat sugar and butter together in a mixing bowl with an electric mixer until light and fluffy; add eggs, one at a time, beating well after each addition. Stir in vanilla. Sift 2 ¾ cups flour, baking powder, and salt together into a bowl; gradually stir flour mixture into butter mixture. Place remaining 1/4 cup flour into a small bowl. Add peaches and toss to coat, then fold floured peaches into batter. Spread batter evenly into the prepared pan. Bake in the preheated oven until a toothpick inserted into the center comes out clean, 60 to 70 minutes. Cool in the pan for 10 minutes, then invert onto a wire rack to cool completely.",
+    "tags": [
+        "cake",
+        "dessert",
+        "peach dessert"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 90,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/18469/peach-cobbler-vi/",
+        "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/15046/easy-peach-cobbler-with-cake-mix/",
+        "https://www.allrecipes.com/recipe/38236/georgia-peach-homemade-ice-cream/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/iITX-hpIDBkNwFZYkK4K6jm8ZCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1334531-9d1505481d774071b9d42d02c49388fb.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/17635/ga-peach-pound-cake/",
+    "id": "c2b70e50-19f0-433c-aee3-91cc1727e473"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Juicy Lemon Cake",
+    "ingredients": [
+        "350g margarine",
+        "350g flour",
+        "350g sugar",
+        "1 packet vanilla sugar",
+        "2 heaping teaspoons baking powder",
+        "6 eggs",
+        "3 untreated lemons",
+        "300g powdered sugar"
+    ],
+    "core_ingredients": [
+        "margarine",
+        "flour",
+        "sugar",
+        "vanilla sugar",
+        "baking powder",
+        "eggs",
+        "lemons",
+        "powdered sugar"
+    ],
+    "instructions": "Preheat the oven to 175 - 195 °C top/bottom heat. First, grate the zest from the 3 lemons and juice two of them. Then beat the eggs and sugar until frothy. Sift the flour and gradually add it along with the vanilla sugar, baking powder, lemon zest, and margarine. Mix everything well. Spread the batter on a baking sheet lined with baking paper. Place in the preheated oven and bake for about 20 minutes on the middle rack. Now mix the lemon juice and powdered sugar to make a glaze, being very careful with the lemon juice to keep the glaze thick. While the cake is still warm, prick it all over with a fork so it remains moist as the glaze seeps in. Quickly spread the glaze on the warm cake and let it cool.",
+    "tags": [
+        "cake",
+        "lemon",
+        "dessert",
+        "baking",
+        "juicy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html",
+        "https://www.chefkoch.de/rezepte/1218391227356456/Der-beste-Kaesekuchen-der-Welt.html",
+        "https://www.chefkoch.de/rezepte/1666101274781519/Der-unglaublich-cremige-NY-Cheese-Cake.html",
+        "https://www.chefkoch.de/rezepte/2636361414129018/Russischer-Zupfkuchen.html",
+        "https://www.chefkoch.de/rezepte/2654951416926884/Karottenkuchen-Rueblikuchen-oder-Moehrenkuchen.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/820481186558221/bilder/1501771/crop-360x240/zitronenkuchen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/820481186558221/Zitronenkuchen.html",
+    "id": "1e4efc05-e854-452f-a373-0363a35de124"
+}

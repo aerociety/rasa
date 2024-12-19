@@ -1,0 +1,47 @@
+{
+    "title": "Vegan Pasta Salad",
+    "ingredients": [
+        "16 ounce package rotini pasta",
+        "1 cup chopped broccoli",
+        "½ cup vegan mayonnaise",
+        "6 ounce can sliced olives",
+        "3 large dill pickles",
+        "3 large tomatoes",
+        "¼ cup dill pickle juice",
+        "3 tablespoons minced fresh dill",
+        "½ tablespoon dried dill",
+        "1 teaspoon ground mustard"
+    ],
+    "core_ingredients": [
+        "rotini pasta",
+        "broccoli",
+        "vegan mayonnaise",
+        "olives",
+        "dill pickles",
+        "tomatoes",
+        "dill pickle juice",
+        "dill",
+        "ground mustard"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil; cook the rotini at a boil until tender yet firm to the bite, about 8 minutes; drain. Transfer to a large bowl. 2. Add broccoli, mayonnaise, olives, pickles, tomatoes, pickle juice, fresh dill, dried dill, and mustard to the bowl with the pasta and mix to combine. Chill at least 3 hours and stir before serving.",
+    "tags": [
+        "vegan",
+        "pasta salad",
+        "healthy"
+    ],
+    "diet_type": "Vegan",
+    "cuisine": "American",
+    "time_to_eat": 215,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/278360/pasta-salad-for-a-crowd/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/",
+        "https://www.allrecipes.com/recipe/281043/turmeric-rotini-salad/",
+        "https://www.allrecipes.com/recipe/11875/rainbow-rotini-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/tQZZnpIw7mgy2PUYEXStVSHGv_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2422421-2ec5efd200914006a2caff4f56223114.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/265373/vegan-pasta-salad/",
+    "id": "ab0d6425-e05f-435b-839d-1864c65cf6dc"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Twig Salad",
+    "ingredients": [
+        "½ cup vegetable oil",
+        "¼ cup white sugar",
+        "¼ cup white vinegar",
+        "½ teaspoon salt",
+        "1 teaspoon salt-free herb and spice blend",
+        "¼ teaspoon ground black pepper",
+        "1 ½ heads iceberg lettuce, torn into bite-sized pieces",
+        "1 pound chopped cooked chicken breast meat",
+        "1 (5 ounce) can chow mein noodles",
+        "1 (2.25 ounce) package blanched slivered almonds",
+        "¼ cup sesame seeds, lightly toasted",
+        "4 green onions, chopped",
+        "2 teaspoons poppy seeds"
+    ],
+    "core_ingredients": [
+        "vegetable oil",
+        "white sugar",
+        "white vinegar",
+        "salt",
+        "herb and spice blend",
+        "ground black pepper",
+        "iceberg lettuce",
+        "chicken breast meat",
+        "chow mein noodles",
+        "slivered almonds",
+        "sesame seeds",
+        "green onions",
+        "poppy seeds"
+    ],
+    "instructions": "In small bowl, whisk together the oil, sugar, vinegar, salt, seasoning blend, and pepper. Set aside. In a large bowl, combine the lettuce, chicken, chow mein noodles, almonds, sesame seeds, green onions, and poppy seeds. Toss to blend. Pour salad dressing over the salad just before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "party food",
+        "quick"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 25,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/8914/chinese-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/16422/asian-chicken-noodle-salad/",
+        "https://www.allrecipes.com/recipe/8671/ramen-noodle-chicken-salad/",
+        "https://www.allrecipes.com/recipe/215484/summer-cabbage-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/k_mDg0f0KM0yrv8fCWikIxLeu_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969406-67ea2c98f5334b499bf7f20b26af39c8.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/74884/twig-salad/",
+    "id": "6a2ee923-90c6-44e7-a698-1ce1f2c1af39"
+}

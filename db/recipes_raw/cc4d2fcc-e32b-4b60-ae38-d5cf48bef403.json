@@ -1,0 +1,57 @@
+{
+    "title": "Djuvec-Reis",
+    "ingredients": [
+        "½ onion",
+        "1 clove garlic",
+        "2 tablespoons butter",
+        "1 ½ cups long-grain rice",
+        "1 can diced tomatoes",
+        "2 tablespoons chicken broth powder",
+        "3 tablespoons ajvar",
+        "2 cups water",
+        "1 teaspoon salt",
+        "2 pinches pepper",
+        "1 teaspoon sweet paprika powder",
+        "1 ½ cups peas, frozen or fresh, shelled",
+        "½ red bell pepper",
+        "1 tablespoon parsley, frozen"
+    ],
+    "core_ingredients": [
+        "onion",
+        "garlic",
+        "butter",
+        "rice",
+        "tomatoes",
+        "chicken broth powder",
+        "ajvar",
+        "water",
+        "salt",
+        "pepper",
+        "paprika",
+        "peas",
+        "bell pepper",
+        "parsley"
+    ],
+    "instructions": "Cut onion into small pieces, press garlic, and sauté both in butter. Add rice, diced tomatoes, broth powder, ajvar, and water, and season generously with spices. Add peas and diced bell pepper, and let everything simmer for about 20 minutes. Mix in the parsley before serving.",
+    "tags": [
+        "vegetarian",
+        "side dish",
+        "easy",
+        "Eastern European"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Eastern European",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezept/2042981239769621/Paprika-Reispfanne-mit-Joghurtsauce.html",
+        "https://www.chefkoch.de/rezept/2042981241189626/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezept/2191217835116345/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezept/1961635833274110/Das-beste-Kartoffelgratin.html",
+        "https://www.chefkoch.de/rezept/1972387704968608/Kartoffelgratin.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/455651138638742/bilder/767044/crop-360x240/djuvec-reis.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/455651138638742/Djuvec-Reis.html",
+    "id": "cc4d2fcc-e32b-4b60-ae38-d5cf48bef403"
+}

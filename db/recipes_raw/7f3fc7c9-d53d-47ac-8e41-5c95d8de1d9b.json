@@ -1,0 +1,39 @@
+{
+    "title": "Gorgonzola Bread",
+    "ingredients": [
+        "French baguette, sliced into 1/4 inch rounds",
+        "olive oil or melted butter",
+        "pears - peeled, cored and sliced",
+        "crumbled Gorgonzola cheese",
+        "chopped walnuts"
+    ],
+    "core_ingredients": [
+        "French baguette",
+        "olive oil",
+        "pears",
+        "Gorgonzola cheese",
+        "walnuts"
+    ],
+    "instructions": "1. Preheat the oven to 350 degrees F (175 degrees C). 2. Arrange the baguette slices in a single layer on a baking sheet. Brush each one with olive oil or melted butter. 3. Place a slice of pear onto each piece of bread, crumble some cheese over the top, and sprinkle with walnuts. 4. Bake for 12 to 15 minutes until the pears are browned and the cheese has started to melt.",
+    "tags": [
+        "appetizer",
+        "bread",
+        "cheese",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "French",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/138033/baked-brie-with-caramelized-pears-shallots-and-thyme/",
+        "https://www.allrecipes.com/recipe/165525/pear-and-blue-cheese-pastry-triangles/",
+        "https://www.allrecipes.com/recipe/66969/blue-cheese-and-pear-tartlets/",
+        "https://www.allrecipes.com/recipe/201746/peach-pear-salsa/",
+        "https://www.allrecipes.com/recipe/75680/fresh-pear-bread/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Ix3O_kxeENEhqFw8Zy7JXmVSpJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25719-c79555b60bc34a87a5098bf2bf0d56c4.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/95968/gorgonzola-bread/",
+    "id": "7f3fc7c9-d53d-47ac-8e41-5c95d8de1d9b"
+}

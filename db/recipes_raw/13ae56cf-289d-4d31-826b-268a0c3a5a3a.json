@@ -1,0 +1,38 @@
+{
+    "title": "Easy Peach Cobbler",
+    "ingredients": [
+        "1 cup white sugar",
+        "½ cup butter, room temperature",
+        "1 cup self-rising flour",
+        "1 cup milk",
+        "1 (15 ounce) can sliced peaches, with juice"
+    ],
+    "core_ingredients": [
+        "sugar",
+        "butter",
+        "flour",
+        "milk",
+        "peaches"
+    ],
+    "instructions": "Preheat the oven to 350 degrees F (175 degrees C). Beat sugar and butter together in a 1-quart baking dish. Mix in flour and milk until smooth. Pour peaches and juice over the top. Bake in the preheated oven until golden brown, 25 to 30 minutes.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/25588/peach-cobbler-dump-cake-ii/",
+        "https://www.allrecipes.com/recipe/18469/peach-cobbler-vi/",
+        "https://www.allrecipes.com/recipe/234306/butter-biscuit-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/139349/easy-stovetop-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/20286/easiest-ever-fruit-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/0HjbMxmBzlAQLojFQWy0DGAXu_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/438953-fd91fe795986496ea8581de57d136ef6.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/19044/easy-peach-cobbler/",
+    "id": "13ae56cf-289d-4d31-826b-268a0c3a5a3a"
+}

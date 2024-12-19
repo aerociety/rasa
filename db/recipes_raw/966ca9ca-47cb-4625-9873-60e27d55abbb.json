@@ -1,0 +1,52 @@
+{
+    "title": "Spaghetti mit Bärlauch",
+    "ingredients": [
+        "500 g Spaghetti",
+        "1 bunch Bärlauch",
+        "150 g Kochschinken",
+        "1 small onion",
+        "3 tbsp cream",
+        "4 tbsp olive oil",
+        "1 tsp vegetable broth",
+        "salt and pepper",
+        "Parmesan",
+        "some dry white wine",
+        "1 tbsp butter",
+        "1 tomato"
+    ],
+    "core_ingredients": [
+        "spaghetti",
+        "bärlauch",
+        "kochschinken",
+        "onion",
+        "cream",
+        "olive oil",
+        "vegetable broth",
+        "parmesan",
+        "butter",
+        "tomato"
+    ],
+    "instructions": "Finely chop the onion. Cut the ham into small cubes. Sauté both in butter. Deglaze with white wine and stir in the broth. Finely chop half of the bunch of Bärlauch and mix in. Add the cream, Parmesan to taste, and olive oil. Meanwhile, cook the spaghetti in salted water until al dente. Now finely chop the second half of Bärlauch, dice the tomato, and mix everything together in a preheated bowl. Sprinkle with Parmesan to taste.",
+    "tags": [
+        "pasta",
+        "spring",
+        "quick",
+        "easy",
+        "vegetarian"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1044311209378195/Spaghetti-mit-Baerlauch.html",
+        "https://www.chefkoch.de/rezepte/2109501340136606/Tagliatelle-al-Salmone.html",
+        "https://www.chefkoch.de/rezepte/2302421367256045/Pasta-mit-Baerlauch-Frischkaese-Sosse-und-Cocktailtomaten.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/2659071417547506/Spaghetti-aglio-olio-e-peperoncino.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1414731246366410/bilder/1016294/crop-360x240/spaghetti-mit-baerlauch.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1414731246366410/Spaghetti-mit-Baerlauch.html",
+    "id": "966ca9ca-47cb-4625-9873-60e27d55abbb"
+}

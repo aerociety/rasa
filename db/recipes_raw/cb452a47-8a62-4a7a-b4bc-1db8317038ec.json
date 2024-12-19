@@ -1,0 +1,48 @@
+{
+    "title": "Garden Pasta Salad",
+    "ingredients": [
+        "1 (16 ounce) package tri-color rotini pasta",
+        "2 large tomatoes, diced",
+        "2 stalks celery, chopped",
+        "½ cup thinly sliced carrots",
+        "½ cup chopped green bell pepper",
+        "½ cup cucumber, peeled and thinly sliced",
+        "¼ cup chopped onion",
+        "1 ½ (16 ounce) bottles Italian-style salad dressing, or to taste",
+        "½ cup grated Parmesan cheese"
+    ],
+    "core_ingredients": [
+        "tri-color rotini pasta",
+        "tomatoes",
+        "celery",
+        "carrots",
+        "green bell pepper",
+        "cucumber",
+        "onion",
+        "Italian-style salad dressing",
+        "Parmesan cheese"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil; cook pasta at a boil until tender yet firm to the bite, about 8 minutes. Rinse under cold water, and drain. 2. Mix tomatoes, celery, carrots, bell pepper, cucumber, and onion together in a large bowl. Add cooled pasta, salad dressing, and Parmesan; mix until well combined. Cover and chill for 1 hour before serving.",
+    "tags": [
+        "salad",
+        "pasta",
+        "vegetarian",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 105,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11854/spaghetti-salad-i/",
+        "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/",
+        "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/VjvKmGYlrEpzsiiKkSAD4jU026o=/160x90/filters:no_upscale():max_bytes(150000):strip_icc()/11883garden-pasta-saladlutzflcat4x3-c2bc17c9e37946e2912cda4f30bdac90.jpg",
+        "https://www.allrecipes.com/thmb/LiPSvtZbe063RSdPpgHmCC6plSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11883garden-pasta-saladlutzflcat4x3-c2bc17c9e37946e2912cda4f30bdac90.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+    "id": "cb452a47-8a62-4a7a-b4bc-1db8317038ec"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Simple Peach Salsa",
+    "ingredients": [
+        "4 ripe yellow peaches, pitted and cubed",
+        "1 lemon, juiced",
+        "1 bunch fresh cilantro, chopped",
+        "1 pinch cayenne pepper",
+        "1 pinch white sugar (Optional)"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "lemon",
+        "cilantro",
+        "cayenne pepper"
+    ],
+    "instructions": "Toss cubed peaches and lemon juice in a bowl. Sprinkle with cilantro, cayenne, and sugar. Mix to combine.",
+    "tags": [
+        "salsa",
+        "appetizer",
+        "dip"
+    ],
+    "diet_type": "Vegan",
+    "cuisine": "American",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/274750/colorful-summer-peach-salsa/",
+        "https://www.allrecipes.com/recipe/201746/peach-pear-salsa/",
+        "https://www.allrecipes.com/recipe/166482/mango-peach-and-pineapple-salsa/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/P0aiSxETcjyy0TipD9RsD877b6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5671347-028a7414007d460abf8d8fb068db2da7.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/267637/simple-peach-salsa/",
+    "id": "4347c560-5153-4055-aa83-0005509df9f3"
+}

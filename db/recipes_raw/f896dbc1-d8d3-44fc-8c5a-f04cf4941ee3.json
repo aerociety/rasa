@@ -1,0 +1,51 @@
+{
+    "title": "Southwestern Chicken Salad",
+    "ingredients": [
+        "1 lemon, thinly sliced",
+        "1 bay leaf",
+        "1 teaspoon whole black peppercorns",
+        "¾ teaspoon dried thyme, divided",
+        "2 skinless, boneless chicken breast halves",
+        "¾ teaspoon paprika",
+        "⅓ cup light mayonnaise",
+        "¼ cup sour cream",
+        "½ teaspoon salt",
+        "¼ teaspoon coarsely ground black pepper",
+        "⅛ teaspoon ground nutmeg",
+        "1 ½ cups fresh corn, cooked and cut from the cob",
+        "2 tablespoons chopped fresh cilantro",
+        "¾ cup diced orange bell pepper",
+        "1 jalapeno pepper, seeded and minced"
+    ],
+    "core_ingredients": [
+        "lemon",
+        "chicken",
+        "paprika",
+        "mayonnaise",
+        "sour cream",
+        "corn",
+        "cilantro",
+        "bell pepper",
+        "jalapeno pepper"
+    ],
+    "instructions": "1. Fill a large skillet with 1 inch of water. Add lemon slices, bay leaf, peppercorns, and 2/3 of the thyme, and bring to boiling over high heat. Add chicken, reduce heat to low, and simmer for 15-18 minutes, turning chicken once, until juices run clear and chicken is no longer pink. Remove chicken from liquid and set aside to cool. 2. In a small skillet, stir together the paprika and remaining thyme over medium-low heat for 2 minutes. In a small bowl, whisk together the toasted paprika mixture, mayonnaise, sour cream, salt, ground pepper, and nutmeg until evenly blended. 3. Cube cooled chicken and transfer to a medium bowl. Add prepared dressing, corn, cilantro, orange pepper, and jalapeno and toss until evenly coated. Serve warm, or refrigerate until ready to serve.",
+    "tags": [
+        "salad",
+        "chicken salad",
+        "Southwestern"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/86916/kikis-mexican-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+        "https://www.allrecipes.com/recipe/143123/mexican-chicken-and-black-bean-salad/",
+        "https://www.allrecipes.com/recipe/234755/mexican-chicken-and-rice-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/PmhBq0yRYz4t8CcQHuo-v4KLfVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880004-f0c0b5884fd142beb101c4860878427d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/24877/southwestern-chicken-salad/",
+    "id": "f896dbc1-d8d3-44fc-8c5a-f04cf4941ee3"
+}

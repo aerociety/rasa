@@ -1,0 +1,39 @@
+{
+    "title": "Easy Rainbow Pasta Salad",
+    "ingredients": [
+        "1 package tri-colored pasta assortment",
+        "2 large tomatoes, diced",
+        "1 large cucumber, peeled and diced",
+        "1 red onion, finely chopped",
+        "1 bottle Italian-style salad dressing"
+    ],
+    "core_ingredients": [
+        "pasta",
+        "tomatoes",
+        "cucumber",
+        "onion",
+        "salad dressing"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, about 8 to 10 minutes; drain and rinse in cold water. 2. Combine tomatoes, cucumbers, onion, cooled pasta and Italian dressing in a large bowl; toss to coat. Cover and refrigerate the salad for at least 1 hour to overnight.",
+    "tags": [
+        "salad",
+        "pasta",
+        "vegetarian",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 85,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11854/spaghetti-salad-i/",
+        "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/",
+        "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/s83DL7QTXVdslUrgLM4yYwIMkK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6471771-c6880fe9785b40288cd5cd26aaac9325.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+    "id": "fbc2ec4d-4506-4c1c-a6f5-ef23679917f1"
+}

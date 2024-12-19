@@ -1,0 +1,50 @@
+{
+    "title": "Maultaschen",
+    "ingredients": [
+        "1 kg flour",
+        "2 tsp salt",
+        "8 eggs",
+        "10 tbsp water",
+        "1 pack frozen cream spinach",
+        "500 g minced meat",
+        "500 g brät (or minced meat as a substitute)",
+        "2 eggs",
+        "2 tbsp breadcrumbs",
+        "1 onion",
+        "200 g Black Forest ham",
+        "salt and pepper",
+        "nutmeg",
+        "marjoram",
+        "parsley"
+    ],
+    "core_ingredients": [
+        "flour",
+        "salt",
+        "eggs",
+        "water",
+        "spinach",
+        "minced meat",
+        "onion",
+        "ham"
+    ],
+    "instructions": "Prepare a pasta dough from the first four ingredients. Chop the onion and ham finely. Drain the thawed spinach and mix all well, seasoning with spices. Divide the dough into 3-4 pieces and roll out thinly, ideally rectangular. Place the meat filling in small heaps on one half of the dough, fold the other half over it, and press well between the heaps. Use a pastry wheel to cut the dumplings in the middle and press the edges again. Put the dumplings into boiling salted water and let them simmer for about 10 minutes. Then rinse well with cold water, otherwise, they tend to stick together. The dumplings can be served either in a clear broth with chives or sautéed in a pan with onions and eggs. This recipe yields about 70-80 pieces depending on size and can be frozen well.",
+    "tags": [
+        "main course",
+        "dumplings",
+        "German"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 120,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1235651228459595/Schwaebische-Maultaschen.html",
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1342861239100533/Tortellini-alla-panna.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/416391132046424/bilder/1289683/crop-360x240/maultaschen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/416391132046424/Maultaschen.html",
+    "id": "ed2a0bb7-7e2f-4717-acfa-77cbaf9a39ad"
+}

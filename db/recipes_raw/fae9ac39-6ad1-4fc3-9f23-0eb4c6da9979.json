@@ -1,0 +1,53 @@
+{
+    "title": "Black Bean and Couscous Salad",
+    "ingredients": [
+        "1 ¼ cups chicken broth",
+        "1 cup uncooked couscous",
+        "3 tablespoons extra virgin olive oil",
+        "2 tablespoons fresh lime juice",
+        "1 teaspoon red wine vinegar",
+        "½ teaspoon ground cumin",
+        "2 (15 ounce) cans black beans, drained",
+        "8 green onions, chopped",
+        "1 red bell pepper, seeded and chopped",
+        "1 cup frozen corn kernels, thawed",
+        "¼ cup chopped fresh cilantro",
+        "salt and pepper to taste"
+    ],
+    "core_ingredients": [
+        "chicken broth",
+        "couscous",
+        "olive oil",
+        "lime juice",
+        "red wine vinegar",
+        "ground cumin",
+        "black beans",
+        "green onions",
+        "red bell pepper",
+        "corn",
+        "cilantro"
+    ],
+    "instructions": "1. Bring broth to a boil in a 2-quart or larger saucepan. Stir in couscous, cover the pot, and remove from heat. Let stand for 5 minutes.\n2. Whisk together olive oil, lime juice, vinegar, and cumin in a large bowl. Add beans, green onions, red bell pepper, corn, and cilantro; toss to coat.\n3. Fluff couscous well, breaking up any chunks. Add to vegetables in the bowl and mix well. Season with salt and pepper. Serve at once or refrigerate until ready to serve.",
+    "tags": [
+        "salad",
+        "couscous",
+        "black beans",
+        "vegetarian",
+        "Southwest flavors"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Southwestern",
+    "time_to_eat": 40,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/88500/minty-orzo-lentil-and-feta-salad/",
+        "https://www.allrecipes.com/recipe/26297/southwestern-pasta-salad/",
+        "https://www.allrecipes.com/recipe/229050/summery-corn-salad/",
+        "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/PU6ANI2azkmb8Oy39Ec9ak-UO38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3359485-a2789de3b5534ee49a9ee91167b81873.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/24833/black-bean-and-couscous-salad/",
+    "id": "fae9ac39-6ad1-4fc3-9f23-0eb4c6da9979"
+}

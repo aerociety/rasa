@@ -1,0 +1,43 @@
+{
+    "title": "Simple Pasta Salad",
+    "ingredients": [
+        "1 (16 ounce) package uncooked rotini pasta",
+        "1 (16 ounce) bottle Italian salad dressing",
+        "2 cucumbers, chopped",
+        "6 tomatoes, chopped",
+        "1 bunch green onions, chopped",
+        "4 ounces grated Parmesan cheese",
+        "1 tablespoon Italian seasoning"
+    ],
+    "core_ingredients": [
+        "rotini pasta",
+        "Italian salad dressing",
+        "cucumbers",
+        "tomatoes",
+        "green onions",
+        "Parmesan cheese",
+        "Italian seasoning"
+    ],
+    "instructions": "1. Gather all ingredients.\n2. Bring a large pot of lightly salted water to a boil. Place pasta in the pot and cook for 8 to 12 minutes until al dente, then drain.\n3. Toss cooked pasta with Italian dressing, cucumbers, tomatoes, and green onions in a large bowl.\n4. Mix Parmesan cheese and Italian seasoning in a small bowl, then gently combine with the salad.\n5. Cover and refrigerate for at least 30 minutes before serving.",
+    "tags": [
+        "salad",
+        "pasta",
+        "easy",
+        "Italian"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 60,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+        "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+        "https://www.allrecipes.com/recipe/24881/cold-spaghetti/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/W7aTPzM4slHZ4c0wHCj31oiHAus=/160x90/filters:no_upscale():max_bytes(150000):strip_icc()/86353-SimplePastaSalad-ddmfs-4x3-05131-1-4c7b5049d9464d339cc59f59edf62626.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/86353/simple-pasta-salad/",
+    "id": "26df8c0f-6978-4065-b819-ba75de77a3c7"
+}

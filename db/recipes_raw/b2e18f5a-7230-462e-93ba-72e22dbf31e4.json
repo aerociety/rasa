@@ -1,0 +1,48 @@
+{
+    "title": "Couscous Patties with Cheese",
+    "ingredients": [
+        "200 g instant couscous",
+        "vegetable broth",
+        "2 eggs",
+        "150 g grated cheese, e.g., Emmental or Gouda",
+        "breadcrumbs",
+        "1 tsp parsley",
+        "salt and pepper",
+        "thyme",
+        "turmeric powder",
+        "cumin powder",
+        "sweet paprika",
+        "fat for frying"
+    ],
+    "core_ingredients": [
+        "couscous",
+        "eggs",
+        "cheese",
+        "breadcrumbs",
+        "parsley"
+    ],
+    "instructions": "Pour boiling vegetable broth over the couscous in a bowl according to the package instructions, let it swell and cool. Mix in the eggs, grated cheese, parsley, and enough breadcrumbs to form a moldable mixture. Season everything with the spices. Shape patties from the mixture and fry them in a pan until golden brown and crispy on both sides.",
+    "tags": [
+        "vegetarian",
+        "main course",
+        "quick",
+        "easy",
+        "cheese",
+        "cereal"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "International",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1631611270752104/Vegetarische-Frikadellen.html",
+        "https://www.chefkoch.de/rezepte/1841351298407440/Haferflocken-Kaese-Bratlinge.html",
+        "https://www.chefkoch.de/rezepte/2114131340630587/Vegetarische-Spinat-Gemuese-Lasagne-mit-Tomatensosse.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2220621355433498/bilder/1026136/crop-360x240/couscous-bratlinge-mit-kaese.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2220621355433498/Couscous-Bratlinge-mit-Kaese.html",
+    "id": "b2e18f5a-7230-462e-93ba-72e22dbf31e4"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Pulled Chicken",
+    "ingredients": [
+        "50 g brown sugar",
+        "25 g white sugar",
+        "25 g sweet paprika powder",
+        "25 g salt",
+        "10 g smoked paprika powder",
+        "10 g garlic granules",
+        "10 g onion granules",
+        "1 tsp black pepper",
+        "½ tsp fennel seeds",
+        "½ tsp mustard seeds",
+        "6 chicken thighs",
+        "6 tbsp BBQ sauce of choice"
+    ],
+    "core_ingredients": [
+        "brown sugar",
+        "white sugar",
+        "paprika powder",
+        "salt",
+        "smoked paprika powder",
+        "garlic granules",
+        "onion granules",
+        "black pepper",
+        "fennel seeds",
+        "mustard seeds",
+        "chicken thighs",
+        "BBQ sauce"
+    ],
+    "instructions": "Grind the spices finely using a mortar and pestle or a spice grinder. Generously rub the chicken thighs with the spice mix and let it marinate for a few hours if possible. Heat the grill to around 150°C and place the thighs in the center. Cook indirectly with the lid closed for 80-90 minutes. The chicken should reach an internal temperature of 80-90°C. Shred the chicken with two forks and mix with 6 tbsp of BBQ sauce. Serve on burger buns.",
+    "tags": [
+        "main course",
+        "simple",
+        "poultry",
+        "grilling"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 345,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3862231588066575/Feldsalat-mit-Ei-und-Forelle.html",
+        "https://www.chefkoch.de/rezepte/3862411588079926/Gegrillter-Paprikasalat.html",
+        "https://www.chefkoch.de/rezepte/3862161588063542/Pasta-mit-Lachs-Zucchini-Sauce.html",
+        "https://www.chefkoch.de/rezepte/3859611587637236/Sweet-and-smokey-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/3857251587306291/Spaghetti-mit-Avocado-und-Basilikum.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/3700671558978845/bilder/1217195/crop-360x240/pulled-chicken.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/3700671558978845/Pulled-Chicken.html",
+    "id": "5ab69a57-28bb-4641-b10a-63aa0c5d750c"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Portugiesische Reispfanne",
+    "ingredients": [
+        "1 EL Tomatenmark",
+        "300 g Erbsen",
+        "250 g Shrimps",
+        "200 g Reis",
+        "400 g Hähnchenbrustfilet(s) oder Kalbfleisch",
+        "1 g Safran",
+        "2 EL Mehl",
+        "Salz und Pfeffer",
+        "3 EL Öl",
+        "600 ml Gemüsebrühe",
+        "300 g Tomate(n)",
+        "400 g Zucchini",
+        "1 Knoblauchzehe",
+        "Cayennepfeffer"
+    ],
+    "core_ingredients": [
+        "Tomatenmark",
+        "Erbsen",
+        "Shrimps",
+        "Reis",
+        "Hähnchenbrustfilet",
+        "Safran",
+        "Mehl",
+        "Öl",
+        "Gemüsebrühe",
+        "Tomate",
+        "Zucchini",
+        "Knoblauch"
+    ],
+    "instructions": "Fleisch in feine Streifen schneiden und in gesalzenem Mehl wenden. Öl erhitzen, Fleisch kurz darin anbraten, pfeffern, aus der Pfanne nehmen und warm stellen. Bratfett in der Pfanne lassen. Reis im Bratfett andünsten. Knoblauchzehe fein hacken und mit Tomatenmark zum Reis geben. Brühe angießen, Safran unterrühren und den Reis 30 Minuten zugedeckt quellen lassen. Zucchini in feine Streifen schneiden, mit Erbsen zum Reis geben und 5 Minuten dünsten. Tomaten überbrühen, abziehen, entkernen, in feine Spalten schneiden, zum Reis geben und 3 Minuten dünsten. Fleisch und Shrimps unterheben und weitere 3 Minuten dünsten. Reispfanne mit Cayennepfeffer, Salz und Pfeffer abschmecken.",
+    "tags": [
+        "Fleisch",
+        "Hauptspeise",
+        "Reis",
+        "fettarm",
+        "Geflügel",
+        "Dünsten",
+        "Getreide"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Portuguese",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1216401227258521/Reispfanne.html",
+        "https://www.chefkoch.de/rezepte/1810471293281955/Paprika-Reispfanne-mit-Joghurtsauce.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/455651138638742/Djuvec-Reis.html",
+        "https://www.chefkoch.de/rezepte/557271153576758/Tomatenreis-portugiesische-Art.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/621721162461435/bilder/609263/crop-360x240/portugiesische-reispfanne.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/621721162461435/Portugiesische-Reispfanne.html",
+    "id": "fc6ceeb0-1d15-443a-ab0a-db279af1ac5d"
+}

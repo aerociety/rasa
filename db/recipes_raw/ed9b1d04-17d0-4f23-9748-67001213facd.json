@@ -1,0 +1,46 @@
+{
+    "title": "Rainbow Rotini Salad",
+    "ingredients": [
+        "1 (16 ounce) package colored rotini pasta",
+        "2 tomatoes, chopped",
+        "1 green bell pepper, chopped",
+        "1 onion, chopped",
+        "1 large cucumber, chopped",
+        "1 cup broccoli florets",
+        "1 cup fresh sliced mushrooms",
+        "1 cup black olives, pitted and sliced",
+        "1 (8 ounce) bottle Italian-style salad dressing"
+    ],
+    "core_ingredients": [
+        "rotini pasta",
+        "tomatoes",
+        "green bell pepper",
+        "onion",
+        "cucumber",
+        "broccoli",
+        "mushrooms",
+        "black olives",
+        "Italian-style salad dressing"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 to 10 minutes. Drain and rinse in cold water. 2. Combine cooked pasta, tomatoes, green bell pepper, onion, cucumber, broccoli, mushrooms, and olives in a large bowl. Add Italian salad dressing; toss to coat. 3. For best results, cover and chill to let the flavors blend before serving. Toss salad again to serve.",
+    "tags": [
+        "pasta salad",
+        "vegetarian",
+        "potluck"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/16506/quick-artichoke-pasta-salad/",
+        "https://www.allrecipes.com/recipe/24881/cold-spaghetti/",
+        "https://www.allrecipes.com/recipe/11813/pasta-salad-i/",
+        "https://www.allrecipes.com/recipe/265373/vegan-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/4ZGnQaNcgjiVP0PlCYiTguh0cXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4538136-086dd222093f41788302b892c4899b86.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/11875/rainbow-rotini-salad/",
+    "id": "ed9b1d04-17d0-4f23-9748-67001213facd"
+}

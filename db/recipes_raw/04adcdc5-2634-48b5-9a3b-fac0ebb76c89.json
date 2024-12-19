@@ -1,0 +1,45 @@
+{
+    "title": "Filipino Chicken Salad",
+    "ingredients": [
+        "skinless, boneless chicken breast",
+        "elbow macaroni",
+        "pineapple chunks",
+        "raisins",
+        "celery",
+        "apple",
+        "carrot",
+        "mayonnaise",
+        "white sugar",
+        "seasoned salt"
+    ],
+    "core_ingredients": [
+        "chicken",
+        "macaroni",
+        "pineapple",
+        "raisins",
+        "celery",
+        "apple",
+        "carrot",
+        "mayonnaise"
+    ],
+    "instructions": "1. Bring a pot of water to a simmer over low heat; add chicken breast and cook until no longer pink in the center and juices run clear, about 30 minutes. Transfer chicken to a plate; cool before shredding into a large bowl.\n2. While chicken cooks, fill a large pot of lightly salted water to a rolling boil. Stir in macaroni and return to a boil. Cook macaroni uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and rinse with cool water. Add to bowl with chicken.\n3. Add pineapple, raisins, celery, apple, and carrot to the bowl; toss to combine. Gently stir in mayonnaise, sugar, and seasoned salt until evenly coated. Refrigerate at least 30 minutes before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "Filipino"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Filipino",
+    "time_to_eat": 80,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/279819/cold-chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/221135/karas-summer-salad/",
+        "https://www.allrecipes.com/recipe/66565/simple-ranch-chicken-macaroni-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/bBf2C5dsx-YLS4GUR7LfCiGnw7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2460190-9f8bb227eaf84230b2b5ef8090b30458.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/212932/filipino-chicken-salad/",
+    "id": "04adcdc5-2634-48b5-9a3b-fac0ebb76c89"
+}

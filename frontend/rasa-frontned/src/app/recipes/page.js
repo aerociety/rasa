@@ -12,10 +12,10 @@ export default function Recipes() {
     const [selectedDietType, setSelectedDietType] = useState("");
     const [page, setPage] = useState(1);
     const [totalRecipes, setTotalRecipes] = useState(0);
-    const [loading, setLoading] = useState(false);
+    const [loading, setLoading] = useState(true);
     const [minLoadingTime, setMinLoadingTime] = useState(false);
     const scrollableRef = useRef(null); // Reference to the scrollable container
-    const limit = 3;
+    const limit = 9;
 
     useEffect(() => {
         // Fetch dropdown options on component mount
@@ -66,6 +66,12 @@ export default function Recipes() {
     const handleFilterChange = () => {
         setRecipes([]); // Remove cards immediately
         setPage(1); // Reset page
+    };
+
+    const resetFilters = () => {
+        setSelectedCuisine("");
+        setSelectedDietType("");
+        handleFilterChange();
     };
 
     const scrollToTop = () => {
@@ -146,22 +152,44 @@ export default function Recipes() {
                 </div>
 
                 {/* Cards Grid */}
-                <div
-                    className="grid grid-cols-[repeat(auto-fit,minmax(350px,1fr))] gap-6"
-                >
-                    {recipes.map((recipe, index) => (
-                        <div
-                            key={recipe.id}
-                            className="opacity-0 animate-fade-in"
-                            style={{animationDelay: `${index * 0.1}s`}}
+                {recipes.length > 0 ? (
+                    <div
+                        className="grid grid-cols-[repeat(auto-fit,minmax(350px,1fr))] gap-6"
+                    >
+                        {recipes.map((recipe, index) => (
+                            <div
+                                key={recipe.id}
+                                className="opacity-0 animate-fade-in"
+                                style={{
+                                    animationDelay: `${
+                                        index >= recipes.length - limit
+                                            ? (index - (recipes.length - limit)) * 0.1
+                                            : 0
+                                    }s`,
+                                }}
+                            >
+                                <RecipeCard recipe={recipe} />
+                            </div>
+                        ))}
+                    </div>
+                ) : loading ? (
+                    <div className="flex flex-col items-center text-white mt-20">
+                        <p className="text-lg">Loading, please wait...</p>
+                    </div>
+                ) : (
+                    <div className="flex flex-col items-center text-white mt-20">
+                        <p className="text-lg mb-4">No recipes found for the selected filters.</p>
+                        <button
+                            onClick={resetFilters}
+                            className="bg-red-500 hover:bg-red-700 text-white px-6 py-3 rounded-lg"
                         >
-                            <RecipeCard recipe={recipe}/>
-                        </div>
-                    ))}
-                </div>
+                            Reset Filters
+                        </button>
+                    </div>
+                )}
 
                 {/* Load More Button */}
-                {recipes.length < totalRecipes && (
+                {recipes.length > 0 && recipes.length < totalRecipes && (
                     <div className="flex justify-center mt-6">
                         <button
                             onClick={handleLoadMore}
@@ -172,7 +200,8 @@ export default function Recipes() {
                     </div>
                 )}
                 {/* Footer */}
-                <Footer/>
+                <Footer />
+                <div style={{height: '64px'}}></div>
             </div>
         </div>
     );

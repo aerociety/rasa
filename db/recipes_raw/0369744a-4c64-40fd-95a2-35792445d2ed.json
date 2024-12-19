@@ -1,0 +1,45 @@
+{
+    "title": "Oven Meatballs",
+    "ingredients": [
+        "5 slices of toast bread",
+        "3 onions, finely chopped",
+        "2 bunches of flat-leaf parsley, finely chopped",
+        "1 kg ground beef or mixed ground meat",
+        "3 eggs",
+        "3 tablespoons grainy mustard",
+        "Salt and pepper"
+    ],
+    "core_ingredients": [
+        "toast bread",
+        "onions",
+        "parsley",
+        "ground beef",
+        "eggs",
+        "mustard"
+    ],
+    "instructions": "Soak and squeeze the toast bread. Prepare a meat mixture with all ingredients. Form 18 meatballs from the mixture and place them side by side on a baking tray lined with baking paper. Bake in a preheated oven at 225 °C for 15 minutes. Then turn them over and bake for another 10 minutes. They can also be grilled to achieve a crispy texture.",
+    "tags": [
+        "meat",
+        "main dish",
+        "beef",
+        "baking",
+        "party",
+        "finger food",
+        "low fat"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 55,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3862231588066575/Feldsalat-mit-Ei-und-Forelle.html",
+        "https://www.chefkoch.de/rezepte/3862411588079926/Gegrillter-Paprikasalat.html",
+        "https://www.chefkoch.de/rezepte/3862161588063542/Pasta-mit-Lachs-Zucchini-Sauce.html",
+        "https://www.chefkoch.de/rezepte/3859611587637236/Sweet-and-smokey-BBQ-Rub.html",
+        "https://www.chefkoch.de/rezepte/3857251587306291/Spaghetti-mit-Avocado-und-Basilikum.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/841101189258657/bilder/1069778/crop-360x240/ofen-frikadellen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/841101189258657/Ofen-Frikadellen.html",
+    "id": "0369744a-4c64-40fd-95a2-35792445d2ed"
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Schnell-Käsekuchen ohne Boden",
+    "ingredients": [
+        "1 kg Quark, 20 % fat",
+        "6 eggs",
+        "100 g flour",
+        "250 g margarine",
+        "250 g sugar",
+        "½ pack baking powder",
+        "2 packs vanilla sugar",
+        "a bit of lemon juice"
+    ],
+    "core_ingredients": [
+        "Quark",
+        "eggs",
+        "flour",
+        "margarine",
+        "sugar",
+        "baking powder",
+        "vanilla sugar",
+        "lemon juice"
+    ],
+    "instructions": "Mix all ingredients together and pour into a springform pan. Bake at 170°C for about 1 hour. After baking, let the cake cool in the oven to prevent it from collapsing. If desired, you can add mandarin pieces or cherries to the batter.",
+    "tags": [
+        "Vegetarian",
+        "easy",
+        "cake"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 70,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html",
+        "https://www.chefkoch.de/rezepte/1218391227356456/Der-beste-Kaesekuchen-der-Welt.html",
+        "https://www.chefkoch.de/rezepte/1666101274781519/Der-unglaublich-cremige-NY-Cheese-Cake.html",
+        "https://www.chefkoch.de/rezepte/774371180345883/Kaesekuchen-ohne-Boden.html",
+        "https://www.chefkoch.de/rezepte/820481186558221/Zitronenkuchen.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/151551066648682/bilder/1438234/crop-360x240/schnell-kaesekuchen-ohne-boden.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/151551066648682/Schnell-Kaesekuchen-ohne-Boden.html",
+    "id": "8f3009c7-2324-4195-add3-f8efc0b6d565"
+}

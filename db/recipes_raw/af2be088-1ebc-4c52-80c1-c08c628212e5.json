@@ -1,0 +1,47 @@
+{
+    "title": "Peach Cheesecake",
+    "ingredients": [
+        "¾ cup baking mix",
+        "1 (1.5 ounce) package instant vanilla pudding mix",
+        "½ cup milk",
+        "3 tablespoons butter, softened",
+        "1 egg",
+        "1 (15 ounce) can canned peaches - drained with 3 tablespoons juice reserved",
+        "8 ounces cream cheese",
+        "½ cup sugar",
+        "1 tablespoon sugar",
+        "½ teaspoon ground cinnamon"
+    ],
+    "core_ingredients": [
+        "baking mix",
+        "instant vanilla pudding mix",
+        "milk",
+        "butter",
+        "egg",
+        "canned peaches",
+        "cream cheese",
+        "sugar",
+        "ground cinnamon"
+    ],
+    "instructions": "Preheat an oven to 350 degrees F (175 degrees C). Butter an 8-inch square baking dish. Beat the baking mix, vanilla pudding mix, milk, butter, and egg together with an electric mixer in a bowl for 2 minutes; pour into the buttered dish. Chop the peaches and scatter over the mixture. Beat the cream cheese, 1/2 cup sugar, and reserved peach juice together in a bowl; pour over the peaches. Stir together the 1 tablespoon sugar and cinnamon in a small bowl; sprinkle over the cream cheese mixture. Bake in the preheated oven until set in the center, 30 to 35 minutes.",
+    "tags": [
+        "dessert",
+        "cheesecake",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/283423/peach-cobbler-cheesecake/",
+        "https://www.allrecipes.com/recipe/274227/instant-pot-chocolate-cherry-cheesecake/",
+        "https://www.allrecipes.com/recipe/274815/peach-cobbler-cheesecake-bars/",
+        "https://www.allrecipes.com/recipe/7741/banana-split-cheesecake/",
+        "https://www.allrecipes.com/recipe/259133/pineapple-upside-down-cheesecake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/VhfU33-PBCc_vUv8_CE087GNsmE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1238207-c56d190610594770894c8a6e160b2bc1.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/159710/peach-cheesecake/",
+    "id": "af2be088-1ebc-4c52-80c1-c08c628212e5"
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Chicken Caesar Pasta",
+    "ingredients": [
+        "1 pound dry penne pasta",
+        "1 tablespoon butter",
+        "6 skinless, boneless chicken breast halves",
+        "½ teaspoon ground black pepper",
+        "¼ teaspoon salt",
+        "1 (8 ounce) bottle Caesar salad dressing",
+        "¼ cup red wine vinegar",
+        "½ cup grated Parmesan cheese",
+        "1 head romaine lettuce",
+        "1 large tomato"
+    ],
+    "core_ingredients": [
+        "penne pasta",
+        "chicken",
+        "Caesar salad dressing",
+        "Parmesan cheese",
+        "romaine lettuce",
+        "tomato"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add penne pasta and cook for 8 to 10 minutes or until al dente; drain. 2. Melt butter in a large skillet over medium heat. Add chicken, pepper and salt. Cook 10 minutes or until chicken is cooked through. Remove skillet from heat. 3. In a bowl, mix together salad dressing, vinegar and cheese. Toss together pasta, chicken, lettuce, and dressing mixture. Place in large serving bowl, and sprinkle with tomato. Garnish with croutons and Parmesan curls, if desired.",
+    "tags": [
+        "pasta",
+        "chicken",
+        "salad",
+        "Italian"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/73920/pool-party-pasta-salad/",
+        "https://www.allrecipes.com/recipe/265787/gluten-free-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/257276/zesty-cold-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/143555/mandarin-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/71557/zesty-feta-and-shrimp-summer-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/-7Htxfnk3Md2U_YHHFwTfa9dFTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1242096-c31875d9feab4c19863425fd3c5e0aff.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/23713/chicken-caesar-pasta/",
+    "id": "f9326750-5cbd-4d53-9254-d650f3f9ab41"
+}

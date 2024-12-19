@@ -1,0 +1,36 @@
+{
+    "title": "Pineapple Cheesecake",
+    "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "½ cup white sugar",
+        "2 (15 ounce) cans crushed pineapple, drained",
+        "1 ¾ cups frozen whipped topping, thawed",
+        "1 (9 inch) prepared graham cracker crust"
+    ],
+    "core_ingredients": [
+        "cream cheese",
+        "sugar",
+        "pineapple",
+        "whipped topping",
+        "graham cracker crust"
+    ],
+    "instructions": "In a large bowl, mix cream cheese and sugar together. Stir in 1 can of pineapple and whipped topping to cream cheese mixture. Mix until smooth. Pour mixture into crust and top with other can of pineapple. Cover and chill for 2 hours.",
+    "tags": [
+        "dessert",
+        "cheesecake",
+        "no-bake"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 130,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/276074/5-ingredient-no-bake-cheesecake/",
+        "https://www.allrecipes.com/recipe/8275/no-bake-cheesecake-ii/",
+        "https://www.allrecipes.com/recipe/7741/banana-split-cheesecake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/zxa7RFIHCs2PAyO-RRXcXj0fV1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pineapple_Cheesecake_054-2000-2d9b85690fa643989414f8241fbbdbc0.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/18472/pineapple-cheesecake/",
+    "id": "0fcb409b-df95-41b2-89de-9fc62f724bac"
+}

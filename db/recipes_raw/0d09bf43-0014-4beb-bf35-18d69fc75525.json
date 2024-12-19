@@ -1,0 +1,49 @@
+{
+    "title": "Crab and Shrimp Pasta Salad",
+    "ingredients": [
+        "16 ounce package uncooked tri-colored spiral pasta",
+        "½ cup mayonnaise, or more to taste",
+        "¼ cup apple cider vinegar",
+        "¼ cup olive oil",
+        "salt and pepper to taste",
+        "8 ounce package imitation crabmeat, flaked",
+        "6.5 ounce can tiny shrimp, drained",
+        "1 pint grape tomatoes, halved",
+        "1 English cucumber, diced",
+        "4 ounce can sliced black olives, drained",
+        "1 red bell pepper, seeded and chopped"
+    ],
+    "core_ingredients": [
+        "pasta",
+        "mayonnaise",
+        "apple cider vinegar",
+        "olive oil",
+        "imitation crabmeat",
+        "shrimp",
+        "tomatoes",
+        "cucumber",
+        "black olives",
+        "bell pepper"
+    ],
+    "instructions": "1. Bring a large pot of lightly salted water to a boil. Add pasta and cook until tender, about 10 minutes. Drain and rinse under cold water to cool. Transfer to a large bowl and set aside. 2. Mix together mayonnaise, vinegar, oil, salt, and pepper in a small bowl. Pour over pasta and stir to coat. 3. Add crab, shrimp, tomatoes, cucumber, black olives, and bell pepper; mix gently to coat with dressing. Taste and adjust seasoning if desired. If pasta is too dry, mix in more mayonnaise.",
+    "tags": [
+        "salad",
+        "seafood",
+        "pasta"
+    ],
+    "diet_type": "Seafood",
+    "cuisine": "American",
+    "time_to_eat": 35,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/272289/german-shrimp-pasta-salad/",
+        "https://www.allrecipes.com/recipe/11818/tangy-catalina-pasta-salad/",
+        "https://www.allrecipes.com/recipe/144948/fresh-dill-pasta-salad/",
+        "https://www.allrecipes.com/recipe/238593/my-moms-awesome-macaroni-salad-enough-to-feed-a-crowd/",
+        "https://www.allrecipes.com/recipe/22662/super-shrimp-and-veggie-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/cPW7lxMui4yiAO6AvLvzjKBBqLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/679220-e13144218d12484ea1c709ad823f0946.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/73578/crab-and-shrimp-pasta-salad/",
+    "id": "0d09bf43-0014-4beb-bf35-18d69fc75525"
+}

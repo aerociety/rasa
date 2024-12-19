@@ -1,0 +1,41 @@
+{
+    "title": "Wild Rice Salad",
+    "ingredients": [
+        "1 (6 ounce) package wild rice",
+        "¾ cup light mayonnaise",
+        "1 teaspoon white vinegar",
+        "1 teaspoon white sugar",
+        "salt and pepper to taste",
+        "2 cups cooked, cubed turkey meat",
+        "¼ cup diced green onion",
+        "1 cup seedless red grapes",
+        "6 ounces blanched slivered almonds"
+    ],
+    "core_ingredients": [
+        "wild rice",
+        "mayonnaise",
+        "turkey meat",
+        "grapes",
+        "almonds"
+    ],
+    "instructions": "Cook rice according to package directions. Remove from heat and set aside to cool. Whisk together mayonnaise, vinegar, sugar, salt, and pepper in a medium bowl. Stir in rice, turkey, onion, and grapes until evenly coated with dressing. Cover and refrigerate for 1 to 2 hours. Sprinkle slivered almonds over salad before serving.",
+    "tags": [
+        "salad",
+        "rice dish",
+        "turkey"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 120,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/214960/chicken-and-snap-pea-wild-rice-salad/",
+        "https://www.allrecipes.com/recipe/14256/rice-a-roni-salad/",
+        "https://www.allrecipes.com/recipe/234755/mexican-chicken-and-rice-salad/",
+        "https://www.allrecipes.com/recipe/169583/mediterranean-quinoa-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/pUjPwB5skQnX57n2l3QyzqwEalo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wild-rice-salad-fshndva-4x3-1-92af89e26c1644e2802ab35b145a95fb.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/24363/wild-rice-salad/",
+    "id": "87d96e62-b7fe-4a5b-be25-4cafd2637aa9"
+}

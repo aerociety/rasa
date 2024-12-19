@@ -1,0 +1,45 @@
+{
+    "title": "Spaghetti Carbonara",
+    "ingredients": [
+        "250 g Spaghetti",
+        "100 g smoked bacon or ham",
+        "3 bay leaves",
+        "2 pinches freshly grated nutmeg",
+        "1 clove garlic (optional)",
+        "200 ml cream",
+        "1 bunch flat-leaf parsley",
+        "150 g grated Parmesan",
+        "5 egg yolks"
+    ],
+    "core_ingredients": [
+        "Spaghetti",
+        "bacon",
+        "cream",
+        "Parmesan",
+        "egg yolks"
+    ],
+    "instructions": "Cook the spaghetti according to package instructions. At the same time, dice the bacon and fry it; add the cream along with the bay leaves and nutmeg, and possibly the garlic, simmering until it reduces. Pour the egg yolks into a cup, chop the parsley, and grate the cheese. Drain the pasta and return it to the pot, mix in the sauce, 3/4 of the Parmesan, and 3/4 of the parsley, then mix everything together. Transfer to a nice bowl (an oval dish works beautifully), and use the remaining parsley and Parmesan as a garnish. No salt is added since the bacon and cheese usually provide enough salt; however, you can add more salt if desired.",
+    "tags": [
+        "main course",
+        "pasta",
+        "quick",
+        "easy",
+        "pork",
+        "cooked"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 37,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1342861239100533/Tortellini-alla-panna.html",
+        "https://www.chefkoch.de/rezepte/3330971494584069/Spaghetti-in-Schinken-Sahne-Sosse.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+        "https://www.chefkoch.de/rezepte/814121185712740/Koelkasts-Spaghetti-Carbonara.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2129081342538964/bilder/1215427/crop-360x240/spaghetti-carbonara.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2129081342538964/Spaghetti-Carbonara.html",
+    "id": "718ca62d-2209-46f2-bffb-c3775f654abf"
+}

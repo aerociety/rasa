@@ -1,0 +1,44 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-cuisine",
+      "2": "I-cuisine",
+      "3": "L-cuisine",
+      "4": "U-cuisine",
+      "5": "B-diet_type",
+      "6": "I-diet_type",
+      "7": "L-diet_type",
+      "8": "U-diet_type",
+      "9": "B-ingredient",
+      "10": "I-ingredient",
+      "11": "L-ingredient",
+      "12": "U-ingredient",
+      "13": "B-query_text",
+      "14": "I-query_text",
+      "15": "L-query_text",
+      "16": "U-query_text",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-cuisine": 1,
+      "I-cuisine": 2,
+      "L-cuisine": 3,
+      "U-cuisine": 4,
+      "B-diet_type": 5,
+      "I-diet_type": 6,
+      "L-diet_type": 7,
+      "U-diet_type": 8,
+      "B-ingredient": 9,
+      "I-ingredient": 10,
+      "L-ingredient": 11,
+      "U-ingredient": 12,
+      "B-query_text": 13,
+      "I-query_text": 14,
+      "L-query_text": 15,
+      "U-query_text": 16,
+      "O": 0
+    },
+    "num_tags": 17
+  }
+]

@@ -1,0 +1,40 @@
+{
+    "title": "Chicken Macaroni Salad",
+    "ingredients": [
+        "2 ½ pounds skinless, boneless chicken breast halves",
+        "2 cups macaroni",
+        "1 (15 ounce) can mixed vegetables, drained",
+        "2 cups shredded lettuce",
+        "3 cups mayonnaise",
+        "¼ tablespoon dried basil",
+        "salt and pepper to taste",
+        "1 pinch garlic powder"
+    ],
+    "core_ingredients": [
+        "chicken",
+        "macaroni",
+        "mixed vegetables",
+        "lettuce",
+        "mayonnaise"
+    ],
+    "instructions": "1. In a medium skillet over medium heat, cook chicken until no longer pink and juices run clear. Let rest until cool enough to handle, then shred with two forks. Set aside 4 cups of shredded meat. 2. In a medium pot with boiling salted water, cook elbow macaroni until al dente. Drain and rinse under cold water. 3. In a large bowl, mix together the cooked chicken, drained vegetables, shredded lettuce, and mayonnaise. Add basil, pepper, salt, and garlic powder to taste. 4. Add drained elbow macaroni to chicken mixture. Toss to coat. 5. Refrigerate for several hours before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "pasta"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 250,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/212932/filipino-chicken-salad/",
+        "https://www.allrecipes.com/recipe/279819/cold-chicken-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/221135/karas-summer-salad/",
+        "https://www.allrecipes.com/recipe/66565/simple-ranch-chicken-macaroni-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/hF-ug7N8cQfiqNK67TJOnR-OVCI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44464-b8ae56ef79ae43438c48f36d2cd60d36.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+    "id": "5a0ad90c-3e31-4511-9cb0-f75dcfc4e3c7"
+}

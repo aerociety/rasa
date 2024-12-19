@@ -1,0 +1,45 @@
+{
+    "title": "Shrimp Vermicelli Salad",
+    "ingredients": [
+        "1 pound vermicelli pasta",
+        "1 pound cooked shrimp",
+        "2 stalks celery, chopped",
+        "1 tablespoon chopped fresh parsley",
+        "1 clove garlic, crushed",
+        "1 teaspoon dried thyme",
+        "1 cup mayonnaise",
+        "¼ cup grated Parmesan cheese",
+        "salt and pepper to taste"
+    ],
+    "core_ingredients": [
+        "vermicelli pasta",
+        "shrimp",
+        "celery",
+        "parsley",
+        "garlic",
+        "thyme",
+        "mayonnaise",
+        "Parmesan cheese"
+    ],
+    "instructions": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss cooled pasta with cooked shrimp, celery, parsley, garlic, thyme, mayonnaise, Parmesan, salt and pepper. Chill before serving.",
+    "tags": [
+        "salad",
+        "seafood",
+        "barbecue"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/16859/moms-shrimp-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/11818/tangy-catalina-pasta-salad/",
+        "https://www.allrecipes.com/recipe/238593/my-moms-awesome-macaroni-salad-enough-to-feed-a-crowd/",
+        "https://www.allrecipes.com/recipe/87854/kahalas-macaroni-seafood-salad/",
+        "https://www.allrecipes.com/recipe/22662/super-shrimp-and-veggie-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/h1eKO84p-Yjqiw2M0BdMFyPTFsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1222714-fc08eec8c24f4776b6a33d255fde298a.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/21537/shrimp-vermicelli-salad/",
+    "id": "2fbfd62a-8118-4436-9f36-c7fafadedb01"
+}

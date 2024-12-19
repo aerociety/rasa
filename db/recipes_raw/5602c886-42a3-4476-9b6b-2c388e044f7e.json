@@ -1,0 +1,51 @@
+{
+    "title": "Gulasch nach Oma Magda",
+    "ingredients": [
+        "2 EL Butterschmalz",
+        "4 große Zwiebel(n), gewürfelt",
+        "2 EL Tomatenmark",
+        "1 Karotte(n), gewürfelt",
+        "50 g Knollensellerie, gewürfelt",
+        "0.7 Liter Rotwein",
+        "1 kg Rindfleisch, gewürfelt",
+        "300 ml Rinderbrühe",
+        "1 TL Paprikapulver, edelsüßes",
+        "1 TL Paprikapulver, rosenscharfes",
+        "Salz und Pfeffer",
+        "2 Lorbeerblätter",
+        "evtl. Saucenbinder"
+    ],
+    "core_ingredients": [
+        "Butterschmalz",
+        "Zwiebeln",
+        "Tomatenmark",
+        "Karotten",
+        "Knollensellerie",
+        "Rotwein",
+        "Rindfleisch",
+        "Rinderbrühe",
+        "Paprikapulver",
+        "Lorbeerblätter"
+    ],
+    "instructions": "Die Zwiebeln in 0,5 cm große Würfel schneiden, Karotte und Sellerie würfeln. Alles in 2 EL Butterschmalz kräftig anbraten. Tomatenmark zugeben und andünsten bis sich eine homogene Masse bildet, das Mark darf ruhig ein bisschen ansetzen. Paprikapulver kurz mitrösten. Mit dem Rotwein und der Brühe ablöschen und zum Kochen bringen. Die gewürfelte Fleisch dazu geben, wieder aufkochen und bei kleiner Hitze mit den Lorbeerblättern ca. 2 Stunden köcheln lassen. Wenn die Sauce zu flüssig ist, kann man sie mit in kaltem Wasser aufgelöstem Stärkemehl andicken. Mit Salz und Pfeffer abschmecken. Vor dem Servieren die Lorbeerblätter entfernen. Man kann es abwandeln, indem man 30 Minuten vor Ende der Garzeit noch Sahne, Kartoffeln und/oder Paprikaschoten hinzufügt.",
+    "tags": [
+        "Hauptspeise",
+        "Rind",
+        "Schmoren"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 160,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1113761217428134/Brauhaus-Gulasch.html",
+        "https://www.chefkoch.de/rezepte/1342761239096947/Filettopf.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2133281343053838/Rinderrouladen-klassisch.html",
+        "https://www.chefkoch.de/rezepte/819141186405890/Omas-beste-Frikadellen.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/431091134310048/bilder/1509751/crop-360x240/gulasch-nach-oma-magda.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/431091134310048/Gulasch-nach-Oma-Magda.html",
+    "id": "5602c886-42a3-4476-9b6b-2c388e044f7e"
+}

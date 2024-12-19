@@ -1,0 +1,47 @@
+{
+    "title": "Chef John's Nectarine Salsa",
+    "ingredients": [
+        "1 cup finely diced nectarine",
+        "½ cup finely diced red bell pepper",
+        "⅓ cup finely diced onions",
+        "2 tablespoons finely diced jalapeno pepper",
+        "1 tablespoon chopped fresh cilantro",
+        "1 tablespoon fresh lime juice",
+        "2 teaspoons olive oil",
+        "½ teaspoon salt, plus more to taste",
+        "1 pinch cayenne pepper",
+        "1 pinch freshly ground black pepper"
+    ],
+    "core_ingredients": [
+        "nectarine",
+        "red bell pepper",
+        "onions",
+        "jalapeno pepper",
+        "cilantro",
+        "lime juice",
+        "olive oil",
+        "salt",
+        "cayenne pepper",
+        "black pepper"
+    ],
+    "instructions": "Combine nectarine, bell pepper, onions, jalapeño pepper, and cilantro in a medium bowl. Stir in lime juice, olive oil, salt, and cayenne pepper. Cover the bowl with plastic wrap. Refrigerate to let flavors develop, 30 minutes to 1 hour. Stir in black pepper before serving. Add a pinch more salt if needed.",
+    "tags": [
+        "salsa",
+        "appetizer",
+        "fresh"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/265364/easy-peach-salsa/",
+        "https://www.allrecipes.com/recipe/93255/drunken-peachanero-salsa/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/166482/mango-peach-and-pineapple-salsa/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/Vkhx-ClzT3oTl5FZ8WZjfFeYfVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5482571-b522b102290d4e38a5bc7df9d9d11982.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/244391/chef-johns-nectarine-salsa/",
+    "id": "c0a297b0-1530-42e2-9e0d-2eaf1c8bae3f"
+}

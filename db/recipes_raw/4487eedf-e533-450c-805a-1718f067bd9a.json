@@ -1,0 +1,43 @@
+{
+    "title": "Kartoffelgratin",
+    "ingredients": [
+        "500 g potatoes, predominantly waxy",
+        "125 ml milk",
+        "125 ml cream",
+        "1 clove garlic",
+        "salt and pepper",
+        "rosemary",
+        "butter for the dish",
+        "3 tbsp grated cheese (e.g., Parmesan or Pecorino)"
+    ],
+    "core_ingredients": [
+        "potatoes",
+        "milk",
+        "cream",
+        "garlic",
+        "cheese"
+    ],
+    "instructions": "Peel the potatoes and cut them into approximately 2 mm thin slices. Mix milk and cream, add finely chopped or pressed garlic. Add a little salt, pepper, and rosemary, and gently bring to a boil with the potato slices, then simmer gently for about 10 minutes while stirring carefully. Grease a casserole dish with butter, fill it with the potato mixture, and sprinkle with cheese. Bake in a preheated oven at 220 °C for about 15-20 minutes on the middle rack.",
+    "tags": [
+        "casserole",
+        "vegetarian",
+        "side dish",
+        "potato",
+        "cheese"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1386571243753438/Schwedische-Kartoffeln.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/644981165672475/Das-beste-Kartoffelgratin.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/837601188560864/bilder/971685/crop-360x240/kartoffelgratin.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/837601188560864/Kartoffelgratin.html",
+    "id": "4487eedf-e533-450c-805a-1718f067bd9a"
+}

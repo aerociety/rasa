@@ -1,0 +1,47 @@
+{
+    "title": "Peach Kuchen",
+    "ingredients": [
+        "½ cup margarine",
+        "¼ cup white sugar",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "½ teaspoon baking powder",
+        "¼ teaspoon salt",
+        "1 (29 ounce) can sliced peaches, drained",
+        "3 tablespoons white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
+    "core_ingredients": [
+        "margarine",
+        "sugar",
+        "egg",
+        "vanilla extract",
+        "flour",
+        "baking powder",
+        "salt",
+        "peaches",
+        "cinnamon"
+    ],
+    "instructions": "1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9 inch springform pan. Sift together the flour, baking powder and salt. Set aside.\n2. In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the egg, then stir in the vanilla. Beat in the flour mixture. Spread dough with hands over the bottom and 1 inch up the sides of prepared springform pan. Arrange peach slices in a spoke pattern over the dough. Sprinkle with sugar and cinnamon.\n3. Bake in the preheated oven for 35 to 40 minutes, or until golden brown.",
+    "tags": [
+        "dessert",
+        "cake",
+        "peach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/18469/peach-cobbler-vi/",
+        "https://www.allrecipes.com/recipe/234306/butter-biscuit-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/39932/american-girls-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/223598/mamas-texas-style-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/229004/peach-dump-cake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/V4pk-4cQYs8HTGcAyzFpiZMjYX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2306248_Peach-Kuchen-4x3-1c8d7f417a9e41e3b66e69207f58a84c.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/26036/peach-kuchen/",
+    "id": "55059e71-7238-4bb1-8fd0-6abbbaf6460e"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Mediterranean Quinoa Salad",
+    "ingredients": [
+        "2 cups water",
+        "2 cubes chicken bouillon",
+        "1 clove garlic",
+        "1 cup uncooked quinoa",
+        "2 large cooked chicken breasts",
+        "1 large red onion",
+        "1 large green bell pepper",
+        "½ cup chopped kalamata olives",
+        "½ cup crumbled feta cheese",
+        "¼ cup chopped fresh parsley",
+        "¼ cup chopped fresh chives",
+        "½ teaspoon salt",
+        "⅔ cup fresh lemon juice",
+        "1 tablespoon balsamic vinegar",
+        "¼ cup olive oil"
+    ],
+    "core_ingredients": [
+        "quinoa",
+        "chicken",
+        "red onion",
+        "green bell pepper",
+        "kalamata olives",
+        "feta cheese",
+        "parsley",
+        "chives",
+        "lemon juice",
+        "olive oil"
+    ],
+    "instructions": "Bring water, bouillon cubes, and garlic to a boil in a saucepan. Stir in quinoa; reduce heat to medium-low, cover, and simmer until quinoa is tender and water has been absorbed, 15 to 20 minutes. Discard garlic clove and transfer quinoa into a large bowl. Add chicken, onion, bell pepper, olives, feta cheese, parsley, chives, and salt to quinoa; drizzle lemon juice, balsamic vinegar, and olive oil on top. Stir until evenly mixed. Serve warm or refrigerate and serve cold.",
+    "tags": [
+        "salad",
+        "quinoa",
+        "Mediterranean",
+        "healthy",
+        "easy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/256834/buddha-bowl/",
+        "https://www.allrecipes.com/recipe/8344103/quinoa-and-arugula-salad-with-chicken/",
+        "https://www.allrecipes.com/recipe/214960/chicken-and-snap-pea-wild-rice-salad/",
+        "https://www.allrecipes.com/recipe/24363/wild-rice-salad/",
+        "https://www.allrecipes.com/recipe/234755/mexican-chicken-and-rice-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/XPGFBPBCgVWtMfFUnwAsbkKq3Nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/809293-e9a99791aee941ab86ba286c6155fadb.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/169583/mediterranean-quinoa-salad/",
+    "id": "a4aea2b4-19eb-4878-85dd-8e24ec0cd64e"
+}

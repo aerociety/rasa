@@ -1,0 +1,36 @@
+{
+    "title": "Oranges Marinated in Liqueur",
+    "ingredients": [
+        "orange",
+        "brown sugar",
+        "orange liqueur",
+        "water"
+    ],
+    "core_ingredients": [
+        "orange",
+        "sugar",
+        "liqueur",
+        "water"
+    ],
+    "instructions": "Peel the oranges carefully, removing all the white pith (cut off the top and bottom, lay on a board, and remove the skin generously). Then cut into thicker, round slices. In a pot, combine sugar with water and boil without a lid until about half of the volume remains. Remove the pot from heat and allow to cool. Stir in the liqueur and then add the orange slices. It's best to let it sit in the refrigerator overnight. Before serving, you can add a splash of liqueur again. I like to serve it with vanilla ice cream.",
+    "tags": [
+        "dessert",
+        "sweets",
+        "marinated"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "International",
+    "time_to_eat": 45,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/52741018615166/Lachs-Sahnesosse-zu-Nudeln.html",
+        "https://www.chefkoch.de/rezepte/52791018616745/Spareribs-mit-Honigglasur.html",
+        "https://www.chefkoch.de/rezepte/52771018615907/Schnitzel-mal-anders.html",
+        "https://www.chefkoch.de/rezepte/52711018599140/Kartoffelsuppe.html",
+        "https://www.chefkoch.de/rezepte/52691018536049/Gemuesecremesuppe-mit-Sherry.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/52681018533538/bilder/73959/crop-360x240/orangen-eingelegt-in-likoer.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/52681018533538/Orangen-eingelegt-in-Likoer.html",
+    "id": "15de9c07-28dc-4ffe-b847-b345d14800a6"
+}

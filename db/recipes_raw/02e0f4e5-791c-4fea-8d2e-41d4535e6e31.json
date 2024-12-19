@@ -1,0 +1,51 @@
+{
+    "title": "Spargel-Brotsalat",
+    "ingredients": [
+        "100 g Ciabatta",
+        "1 Knoblauchzehe",
+        "300 g Spargel, grüner",
+        "300 g Kirschtomaten",
+        "3 Stiele Basilikum",
+        "2 EL Rotweinessig",
+        "3 EL Wasser",
+        "Salz und Pfeffer",
+        "½ TL Zucker",
+        "5 EL Olivenöl",
+        "40 g Parmesan"
+    ],
+    "core_ingredients": [
+        "ciabatta",
+        "knoblauch",
+        "spargel",
+        "kirschtomaten",
+        "basilikum",
+        "rotweinessig",
+        "wasser",
+        "zucker",
+        "olivenöl",
+        "parmesan"
+    ],
+    "instructions": "Das Brot in sehr dünne Scheiben schneiden. Die Scheiben auf einen Rost legen und im heißen Ofen bei 220 °C Ober-/Unterhitze oder 200 °C Umluft auf der mittleren Schiene 3 bis 4 Min. hellbraun rösten. Die Knoblauchzehe halbieren und die Brotscheiben mit den Schnittflächen des Knoblauchs einreiben. Den Spargel waschen, im unteren Drittel schälen und die Enden abschneiden. Die Spargelstangen schräg in 3 cm lange Stücke schneiden. Die Spargelstücke in reichlich kochendem Salzwasser 3 Min. leicht bissfest garen, abseihen und mit kaltem Wasser abschrecken. Die Tomaten waschen und halbieren. Den Essig mit 3 - 4 EL Wasser, Salz, Pfeffer und Zucker verrühren. Das Öl nach und nach unterrühren. Die Basilikumblätter von den Stielen streifen und grob zupfen. Den Spargel und die Tomaten mit der Vinaigrette mischen und kurz ziehen lassen. Brot und Basilikum untermischen und kurz ziehen lassen. Parmesan mit einem Sparschäler in Späne schneiden. Spargel-Brotsalat mit Parmesan bestreut servieren.",
+    "tags": [
+        "salad",
+        "vegetarian",
+        "spring",
+        "simple",
+        "cheese"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/4159051664201652/Marokkanisches-Ofengemuese.html",
+        "https://www.chefkoch.de/rezepte/4112861648822933/Kaese-Wurstplatte-schoen-anrichten.html",
+        "https://www.chefkoch.de/rezepte/4095901643275974/Weisse-Bohnen-Dip-mit-getrockneten-Tomaten.html",
+        "https://www.chefkoch.de/rezepte/4095891643275525/Schoko-Bohnen-Brownies.html",
+        "https://www.chefkoch.de/rezepte/4095881643274790/Gruenkohl-Chips.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2520621395238605/bilder/675099/crop-360x240/spargel-brotsalat.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2520621395238605/Spargel-Brotsalat.html",
+    "id": "02e0f4e5-791c-4fea-8d2e-41d4535e6e31"
+}

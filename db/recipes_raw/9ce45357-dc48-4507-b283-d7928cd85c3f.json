@@ -1,0 +1,47 @@
+{
+    "title": "Peach Avocado Salsa",
+    "ingredients": [
+        "2 fresh peaches, peeled, pitted, and diced",
+        "1 jalapeño pepper, seeded and minced",
+        "½ red onion, minced",
+        "½ red bell pepper, minced",
+        "¼ cup chopped fresh cilantro, or to taste",
+        "2 cloves garlic, grated",
+        "½ lime, juiced",
+        "½ lemon, juiced",
+        "salt and ground black pepper to taste",
+        "1 avocado, peeled, pitted, and diced"
+    ],
+    "core_ingredients": [
+        "peaches",
+        "jalapeño pepper",
+        "red onion",
+        "red bell pepper",
+        "cilantro",
+        "garlic",
+        "lime",
+        "lemon",
+        "avocado"
+    ],
+    "instructions": "Gently mix peaches, jalapeño, onion, bell pepper, cilantro, garlic, lime juice, and lemon juice in a bowl; season with salt and pepper. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes. Fold avocado into salsa to serve.",
+    "tags": [
+        "salsa",
+        "dip",
+        "vegetarian"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/166482/mango-peach-and-pineapple-salsa/",
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/93255/drunken-peachanero-salsa/",
+        "https://www.allrecipes.com/recipe/39988/peach-salsa-ii/",
+        "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/cy9oAF4auY-tQZqx3hOiE_C2las=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1032934-peach-avocado-salsa-Deb-C-4x3-1-a92b03d06ec04725b06d0c78cbfcfce9.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/228866/peach-avocado-salsa/",
+    "id": "9ce45357-dc48-4507-b283-d7928cd85c3f"
+}

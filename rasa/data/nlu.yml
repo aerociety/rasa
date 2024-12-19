@@ -1,31 +1,238 @@
 version: "3.1"
+
 nlu:
   - intent: get_recipe
     examples: |
+      # Simple Ingredient Queries
       - What can I cook with [tomatoes](ingredient) and [cheese](ingredient)?
       - Show me a recipe with [potatoes](ingredient).
       - I want something with [chicken](ingredient).
+      - How about using [beef](ingredient) and [carrots](ingredient)?
+      - I have [onions](ingredient) and [garlic](ingredient), what can I make?
+      - Recipes using [salmon](ingredient) and [lemon](ingredient).
+      - Any good recipes with [tofu](ingredient) and [broccoli](ingredient)?
+      - I’m looking for recipes that include [mushrooms](ingredient) and [spinach](ingredient).
+      - Any [quinoa](ingredient) and [black beans](ingredient) dishes?
+      - What can I make with [shrimp](ingredient) and [rice](ingredient)?
+      
+      # Ingredient Queries with Diet Type
+      - I want [vegetarian](diet_type) recipes with [no cheese](ingredient).
+      - Recipes using [salmon](ingredient) and [no lemon](ingredient).
+      - Any [vegan](diet_type) recipes without [milk](ingredient)?
+      - Show me recipes with [tofu](ingredient) but no [soy sauce](ingredient).
+      - I need [gluten-free](diet_type) recipes with [no wheat](ingredient).
+      - Find me a [low-carb](diet_type) dish with [no sugar](ingredient).
+      - Looking for [keto](diet_type) meals without [bread](ingredient).
+      - Any [seafood](diet_type) recipes with [no shellfish](ingredient)?
+      - Show me [non-vegetarian](diet_type) recipes that include [beef](ingredient) but no [pork](ingredient).
+      - I want [gluten-free](diet_type) dishes using [rice](ingredient) and [vegetables](ingredient).
+      
+      # Negative Ingredient Queries without Diet Type or Cuisine
+      - I want recipes with [chicken](ingredient) but no [garlic](ingredient).
+      - Show me dishes using [beef](ingredient) without [onions](ingredient).
+      - Any recipes with [tofu](ingredient) but exclude [soy](ingredient)?
+      - I need [pasta](ingredient) recipes that don't use [tomatoes](ingredient).
+      - Find me a [salad](ingredient) recipe without [olives](ingredient).
+      - Looking for [soup](ingredient) with [no cream](ingredient).
+      - Recipes using [quinoa](ingredient) but no [cheese](ingredient).
+      - Any [casserole](ingredient) recipes without [milk](ingredient)?
+      - I want [stir-fry](ingredient) dishes but exclude [peanuts](ingredient).
+      - Show me [pancake](ingredient) recipes that don't have [eggs](ingredient).
+      
+      # Comprehensive Mixed Queries
+      - Show me some [vegan](diet_type) [Mexican](cuisine) recipes with [avocado](ingredient) but no [cheese](ingredient).
+      - I need [gluten-free](diet_type) [Italian](cuisine) dishes that include [chicken](ingredient) and [no mushrooms](ingredient).
+      - Any [dairy-free](diet_type) [American](cuisine) recipes with [chicken](ingredient) but exclude [butter](ingredient)?
+      - [Keto](diet_type) [Thai](cuisine) meals using [shrimp](ingredient) and [no sugar](ingredient).
+      - [Paleo](diet_type) [French](cuisine) recipes using [asparagus](ingredient) and [no dairy](ingredient).
+      - [Vegetarian](diet_type) [Indian](cuisine) dishes with [spinach](ingredient) and [no cream](ingredient).
+      - [Gluten-free](diet_type) [Chinese](cuisine) recipes without [soy sauce](ingredient) and with [broccoli](ingredient).
+      - [Keto](diet_type) [American](cuisine) recipes with [bacon](ingredient) but no [sugar](ingredient) and include [egg](ingredient)?
+      - [Gluten-Free](diet_type) [Spanish](cuisine) dishes using [seafood](ingredient) and [no rice](ingredient).
+      - [Vegan](diet_type) [Mediterranean](cuisine) recipes with [quinoa](ingredient) but exclude [cheese](ingredient).
 
   - intent: ask_substitution
     examples: |
       - What can I use instead of [milk](ingredient)?
       - I don’t have any [eggs](ingredient). What can I substitute?
       - Is there a replacement for [butter](ingredient)?
+      - Substitute for [soy sauce](ingredient)?
+      - I need an alternative to [sugar](ingredient).
+      - What can replace [cream](ingredient) in recipes?
+      - Can I use [yogurt](ingredient) instead of [sour cream](ingredient)?
+      - What substitutes do you have for [flour](ingredient)?
+      - Replace [honey](ingredient) with what?
+      - Alternative for [olive oil](ingredient)?
 
   - intent: get_cuisine
     examples: |
       - Can you show me [Italian](cuisine) recipes?
       - I want to make [Mexican](cuisine) food.
       - Do you have any [French](cuisine) recipes?
-
-  - intent: cooking_tips
-    examples: |
-      - How do I sauté onions?
-      - Give me a tip for boiling pasta.
-      - What’s the best way to cook rice?
+      - Show me some [American](cuisine) recipes.
+      - I'm interested in [Thai](cuisine) dishes.
+      - Any good [Chinese](cuisine) recipes?
+      - Recipes for [Indian](cuisine) cuisine.
+      - Find me [Japanese](cuisine) meals.
+      - Suggest [Mediterranean](cuisine) dishes.
+      - I'd like to try [Greek](cuisine) recipes.
+      - I want [Korean](cuisine) dishes.
+      - Any [Desserts](cuisine) recipes?
+      - [Vietnamese](cuisine) food recipes.
+      - [Swedish](cuisine) recipes.
+      - [Tex-Mex](cuisine) dishes.
+      - [Southern](cuisine) recipes.
+      - [Caribbean](cuisine) recipes.
+      - [African](cuisine) dishes.
+      - [German](cuisine) recipes.
+      - [Cantonese](cuisine) food recipes.
+      - [Filipino](cuisine) recipes.
+      - [Spanish](cuisine) recipes.
+      - Show me some [Asian](cuisine) recipes.
 
   - intent: dietary_options
     examples: |
       - Do you have [vegan](diet_type) recipes?
       - Show me [gluten-free](diet_type) options.
       - I need [dairy-free](diet_type) recipes.
+      - Any [keto](diet_type) dishes available?
+      - [Paleo](diet_type) meal suggestions.
+      - Looking for [low-carb](diet_type) recipes.
+      - [Vegetarian](diet_type) options, please.
+      - [Whole30](diet_type) compliant recipes.
+      - [Nut-free](diet_type) dishes.
+      - [Soy-free](diet_type) meal ideas.
+
+  - intent: greet
+    examples: |
+      - hi
+      - hello
+      - hey
+      - good morning
+      - good evening
+      - hey there
+      - hi there
+      - hello there
+      - greetings
+      - howdy
+      - morning
+      - evening
+      - hey buddy
+      - hi bot
+      - hello assistant
+
+  - intent: how_are_you
+    examples: |
+      - how are you
+      - how are you doing
+      - how's it going
+      - what's up
+      - how have you been
+      - how do you do
+      - how are things
+      - what's new
+      - how's everything
+      - how's life
+      - what's going on
+      - how are you today
+      - how are you feeling
+      - how's your day
+      - what's happening
+
+  - intent: what_can_you_do
+    examples: |
+      - what can you do?
+      - what do you know?
+      - what are your capabilities?
+      - how can you help me?
+      - tell me what you can do
+      - what features do you have?
+      - how can you assist me?
+      - what services do you offer?
+      - how do you work?
+      - what are your functions?
+      - can you help me find recipes?
+      - what functionalities do you have?
+      - how can you support me?
+      - what assistance can you provide?
+      - what can you help me with
+
+  - intent: search_by_text
+    examples: |
+      - I want to cook something [with chicken and broccoli](query_text)
+      - Find me a recipe that uses [tofu and bell peppers](query_text) and is [vegan](diet_type)
+      - I'm looking for a [quick](query_text) [chocolate dessert](query_text)
+      - Show me a [spicy](query_text) dish with [beef](query_text) and [beans](query_text)
+      - Need a [low-carb](diet_type) [salad](query_text) recipe
+      - Find a [healthy](query_text) [smoothie](query_text) without [sugar](ingredient)
+      - I have [quinoa](ingredient) and [avocado](ingredient), suggest something
+      - Looking for a [hearty](query_text) [soup](query_text) with [lentils](ingredient)
+      - Need a [simple](query_text) [pasta](query_text) dish with [spinach](ingredient)
+      - Can you find me a [family-friendly](query_text) [stir-fry](query_text) recipe
+      
+      # Complex Searches
+      - Show me some [American](cuisine) recipes with [cheese](ingredient) but no [milk](ingredient)
+      - I want a [gluten-free](diet_type) [Italian](cuisine) dish that includes [chicken](ingredient)
+      - Find a [vegetarian](diet_type) [Mexican](cuisine) recipe with [black beans](ingredient) and [rice](ingredient)
+      - Looking for a [quick](query_text) [Thai](cuisine) meal with [shrimp](ingredient) and [no peanuts](ingredient)
+      - Need a [healthy](query_text) [French](cuisine) recipe using [asparagus](ingredient) and [no dairy](ingredient)
+      
+      - Show me [burger](query_text) recipes
+      - I want to cook [ramen](query_text)
+      - Find me a [hotpot](query_text) recipe
+      - Show me [pizza](query_text) ideas
+      - Can you suggest [tacos](query_text) recipes?
+      - I’m looking for [dumplings](query_text)
+      - Find [sushi](query_text) recipes
+      - I want to make [pho](query_text)
+      - Suggest [paella](query_text) recipes
+      - Looking for [stew](query_text) ideas
+      - Find [BBQ](query_text) recipes
+      - Show me [pasta](query_text) recipes
+      - Show me [American](cuisine) [burger](query_text) recipes
+      - I want [Japanese](cuisine) [ramen](query_text)
+      - Find me [Chinese](cuisine) [hotpot](query_text)
+      - Show me [Mexican](cuisine) [tacos](query_text)
+      - I want to cook [Italian](cuisine) [pizza](query_text)
+      - Any [French](cuisine) [crepes](query_text) ideas?
+      - Can you suggest [Indian](cuisine) [curry](query_text) recipes?
+      - Looking for [Korean](cuisine) [BBQ](query_text) recipes
+      - Show me [Thai](cuisine) [pad thai](query_text) recipes
+      - Find me [Greek](cuisine) [gyros](query_text) ideas
+      - I want to make [Spanish](cuisine) [paella](query_text)
+      - Any [Vietnamese](cuisine) [pho](query_text) suggestions?
+      - Show me [German](cuisine) [bratwurst](query_text) dishes
+      - Looking for [Tex-Mex](cuisine) [fajitas](query_text)
+      - I want [Mediterranean](cuisine) [falafel](query_text) recipes
+      - Any [Caribbean](cuisine) [jerk chicken](query_text)?
+      - Can you find [Southern](cuisine) [fried chicken](query_text) recipes?
+      - Show me [Asian](cuisine) [stir-fry](query_text) ideas
+      - Find me [low-carb](query_text) [Mexican](cuisine) [tacos](query_text)
+      - I want [gluten-free](query_text) [Italian](cuisine) [pizza](query_text)
+      - Show me [vegan](query_text) [Thai](cuisine) [curry](query_text)
+      - Any [keto](query_text) [American](cuisine) [burgers](query_text)?
+      - Looking for [vegetarian](query_text) [Indian](cuisine) [curry](query_text)
+      - Show me [paleo](query_text) [Mediterranean](cuisine) [falafel](query_text)
+      - I want [whole30](query_text) [Korean](cuisine) [BBQ](query_text)
+      - Can you suggest [nut-free](query_text) [Japanese](cuisine) [ramen](query_text)?
+      - Show me a [spicy](query_text) [Indian](cuisine) [curry](query_text) recipe
+      - I need a [quick](query_text) [Japanese](cuisine) [sushi](query_text) idea
+      - Show me some [low-carb](query_text) [Italian](cuisine) [pizza](query_text)
+      - Any [vegetarian](query_text) [Mexican](cuisine) [tacos](query_text)?
+      - Looking for a [dairy-free](query_text) [Thai](cuisine) [curry](query_text)
+      - I want [gluten-free](query_text) [American](cuisine) [burgers](query_text)
+      - Find me a [family-friendly](query_text) [Chinese](cuisine) [hotpot](query_text)
+      - Show me a [healthy](query_text) [Mediterranean](cuisine) [falafel](query_text)
+
+  - intent: nlu_fallback
+    examples: |
+      - asdfasdf
+      - blah blah
+      - what is the meaning of life?
+      - tell me a joke
+      - random text without meaning
+      - this doesn't make sense
+      - can you do something else?
+      - I don't understand
+      - speak to me normally
+      - help me out here

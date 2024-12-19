@@ -1,0 +1,46 @@
+{
+    "title": "Chicken Fiesta Salad",
+    "ingredients": [
+        "2 skinless, boneless chicken breast halves",
+        "1 packet dry fajita seasoning, divided",
+        "1 tablespoon vegetable oil",
+        "1 can black beans, rinsed and drained",
+        "1 can Mexican-style corn",
+        "½ cup salsa",
+        "1 package mixed salad greens",
+        "1 onion, chopped",
+        "1 tomato, cut into wedges"
+    ],
+    "core_ingredients": [
+        "chicken",
+        "fajita seasoning",
+        "black beans",
+        "corn",
+        "salsa",
+        "salad greens",
+        "onion",
+        "tomato"
+    ],
+    "instructions": "Rub chicken evenly with 1/2 the fajita seasoning. Heat the oil in a skillet over medium heat, and cook the chicken 8 minutes on each side, or until juices run clear; set aside. In a large saucepan, mix beans, corn, salsa and other 1/2 of fajita seasoning. Heat over medium heat until warm. Prepare the salad by tossing the greens, onion and tomato. Top salad with chicken and dress with the bean and corn mixture.",
+    "tags": [
+        "salad",
+        "chicken",
+        "fajita",
+        "Mexican"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 40,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/14533/caribbean-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14186/grilled-chicken-salad-with-seasonal-fruit/",
+        "https://www.allrecipes.com/recipe/50925/grilled-chicken-citrus-salad/",
+        "https://www.allrecipes.com/recipe/18327/sesame-pasta-chicken-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/4aG8luUXKjkyIrMBLqdVhu-ctxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/601800-ac90f79b10ef41a498351ee0651c1ee9.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+    "id": "50ef79f4-32ad-4dab-82d3-c4952d259b75"
+}

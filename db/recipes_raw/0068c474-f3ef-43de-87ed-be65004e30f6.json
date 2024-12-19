@@ -1,0 +1,60 @@
+{
+    "title": "Lasagne - wie beim Italiener",
+    "ingredients": [
+        "500 g Hackfleisch, gemischtes",
+        "1 Zwiebel(n)",
+        "2 Knoblauchzehe(n)",
+        "1 Bund Petersilie oder TK",
+        "1 EL Tomatenmark",
+        "1 Dose Tomaten, geschälte (800 g)",
+        "etwas Rotwein",
+        "½ Liter Milch",
+        "30 g Butter",
+        "40 g Mehl",
+        "Salz und Pfeffer",
+        "Zitronensaft",
+        "Muskat",
+        "Butter für die Form",
+        "300 g Lasagneplatte(n)",
+        "n. B. Käse, geriebener",
+        "Butterflöckchen"
+    ],
+    "core_ingredients": [
+        "Hackfleisch",
+        "Zwiebel",
+        "Knoblauch",
+        "Petersilie",
+        "Tomatenmark",
+        "Tomaten",
+        "Rotwein",
+        "Milch",
+        "Butter",
+        "Mehl",
+        "Lasagneplatten",
+        "Käse"
+    ],
+    "instructions": "1. Ragú Bolognese: In einem Topf das Olivenöl erhitzen, das Hackfleisch darin rundherum anbraten und die gehackten Zwiebeln und die gehackte Petersilie dazugeben. Knoblauch in feinen Scheiben und Tomatenmark dazu rühren und mitbraten. Mit den Dosentomaten aufgießen, salzen und pfeffern. Rotwein nach Belieben beifügen. Das Ragú mindestens eine halbe Stunde lang bei geöffnetem Topf einkochen lassen. 2. Béchamelsauce: Butter in einem kleinen Topf schmelzen und das Mehl mit dem Schneebesen unterrühren und hellgelb anschwitzen. Die Milch dazugießen und die Sauce glatt rühren. Die Sauce sollte fast eine halbe Stunde lang auf kleiner Flamme köcheln, damit sie den Mehlgeschmack verliert. Mit Salz, Pfeffer und Zitronensaft sowie etwas Muskatnuss abschmecken. 3. Zubereitung der Lasagne: In einer gebutterten, feuerfesten Form etwas Ragú Bolognese verteilen, eine Schicht Lasagneplatten darauf legen, die Nudelschicht wieder mit Ragú und dann mit einer Schicht Béchamel bedecken. Anschließend wieder eine Schicht Nudeln, Ragú und Béchamel. So Schicht für Schicht die Form füllen. Die letzte Schicht sollte die Béchamelsauce bilden. Dick mit geriebenem Käse bestreuen und Butterflöckchen darauf setzen. 4. Die Lasagne im heißen Backofen bei 180 °C Umluft ca. 30 - 40 Minuten backen, bis die Kruste goldbraun ist.",
+    "tags": [
+        "Fleisch",
+        "Hauptspeise",
+        "Nudeln",
+        "Italien",
+        "Auflauf",
+        "Pasta"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 100,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/772011180069862/Die-echte-Sauce-Bolognese.html",
+        "https://www.chefkoch.de/rezepte/837601188560864/Kartoffelgratin.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/745721177147257/bilder/668335/crop-360x240/lasagne.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html",
+    "id": "0068c474-f3ef-43de-87ed-be65004e30f6"
+}

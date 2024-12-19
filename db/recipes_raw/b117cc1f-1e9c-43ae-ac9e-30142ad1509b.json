@@ -1,0 +1,63 @@
+{
+    "title": "Kiki's Mexican Chicken Salad",
+    "ingredients": [
+        "2 ½ cups shredded cooked chicken meat",
+        "½ cup julienned carrots",
+        "¼ cup julienned red bell pepper",
+        "¼ cup julienned jicama",
+        "¼ cup julienned red onion",
+        "2 (11 ounce) cans whole kernel corn, drained",
+        "1 cup cherry tomatoes, halved",
+        "3 avocados, peeled, pitted, and chopped",
+        "2 tablespoons chopped fresh cilantro",
+        "½ cup sour cream",
+        "⅔ cup mayonnaise",
+        "2 tablespoons fresh lemon juice",
+        "½ teaspoon ground cumin",
+        "½ teaspoon salt",
+        "¼ teaspoon pepper",
+        "1 (1.25 ounce) package taco seasoning",
+        "1 teaspoon hot pepper sauce"
+    ],
+    "core_ingredients": [
+        "chicken",
+        "carrots",
+        "red bell pepper",
+        "jicama",
+        "red onion",
+        "corn",
+        "cherry tomatoes",
+        "avocados",
+        "cilantro",
+        "sour cream",
+        "mayonnaise",
+        "lemon juice",
+        "cumin",
+        "salt",
+        "pepper",
+        "taco seasoning",
+        "hot pepper sauce"
+    ],
+    "instructions": "In a large bowl, gently mix chicken, carrots, red bell pepper, jicama, red onion, corn, cherry tomatoes, avocados, and cilantro. In a separate bowl, mix sour cream, mayonnaise, lemon juice, cumin, salt, pepper, taco seasoning, and hot pepper sauce. Pour over salad and toss to coat. Cover and refrigerate at least 1 hour before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "Mexican",
+        "spicy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 75,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/143123/mexican-chicken-and-black-bean-salad/",
+        "https://www.allrecipes.com/recipe/229051/asian-chicken-salad-cups/",
+        "https://www.allrecipes.com/recipe/286327/mexican-street-corn-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+        "https://www.allrecipes.com/recipe/24877/southwestern-chicken-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/I2MRG7H28fyp8z5CKJftGmvGos4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1029827-e4bd7d2ea30e4683bfa7380e59716096.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/86916/kikis-mexican-chicken-salad/",
+    "id": "b117cc1f-1e9c-43ae-ac9e-30142ad1509b"
+}

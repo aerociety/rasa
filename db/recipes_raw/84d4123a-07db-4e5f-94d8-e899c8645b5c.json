@@ -1,0 +1,54 @@
+{
+    "title": "West African Grilled Beef (Suya)",
+    "ingredients": [
+        "1/4 cup creamy natural peanut butter",
+        "1/2 small yellow onion, grated",
+        "2 tablespoons tomato paste",
+        "1 tablespoon olive oil",
+        "1 tablespoon kosher salt",
+        "2 teaspoons smoked paprika",
+        "1 teaspoon allspice",
+        "3/4 teaspoon garlic powder",
+        "1/2 teaspoon cayenne pepper",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/4 teaspoon powdered ginger",
+        "2 pounds top sirloin steak, cut into 1.5-inch cubes"
+    ],
+    "core_ingredients": [
+        "peanut butter",
+        "yellow onion",
+        "tomato paste",
+        "olive oil",
+        "kosher salt",
+        "smoked paprika",
+        "allspice",
+        "garlic powder",
+        "cayenne pepper",
+        "black pepper",
+        "powdered ginger",
+        "top sirloin steak"
+    ],
+    "instructions": "Combine peanut butter, grated onion, tomato paste, olive oil, salt, paprika, allspice, garlic powder, cayenne, black pepper, and powdered ginger in a mixing bowl. Stir until well combined. Add steak pieces to the marinade bowl and toss to coat thoroughly. Cover and allow to marinate in the refrigerator for about 2 hours. Preheat an outdoor grill with coal for high heat and lightly oil the grate. Thread marinated steak pieces onto large metal skewers. Grill over the hot white coals until desired doneness, about 5 to 6 minutes per side.",
+    "tags": [
+        "beef",
+        "grilled",
+        "skewers",
+        "African cuisine"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "African",
+    "time_to_eat": 150,
+    "suggestion_links": [
+        "https://www.allrecipes.com/bihari-kabab-recipe-7509081",
+        "https://www.allrecipes.com/recipe/25483/sensational-sirloin-kabobs/",
+        "https://www.allrecipes.com/grilled-balsamic-beef-recipe-8651723",
+        "https://www.allrecipes.com/recipe/8401566/chef-johns-kofta-kebabs/",
+        "https://www.allrecipes.com/recipe/218486/moms-beef-shish-kabobs/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/r5zhVQDa55-8JF6F-Z6c4dd1uyM=/75x75/filters:no_upscale():max_bytes(150000):strip_icc()/chef-john-c50f1c2cb23f4e7786d66c30bddf8bcb.jpg",
+        "https://www.allrecipes.com/thmb/zLEFj-zrkuOtemHDBD2BdJp0lKU=/160x90/filters:no_upscale():max_bytes(150000):strip_icc()/7497838WestAfricanGrilledBeefSujaChefJohn4x3-075a618471fb468598af85290ac6f100.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/west-african-grilled-beef-suya-recipe-7497838",
+    "id": "84d4123a-07db-4e5f-94d8-e899c8645b5c"
+}

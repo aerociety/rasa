@@ -1,0 +1,51 @@
+{
+    "title": "Eier - Schinkennudeln",
+    "ingredients": [
+        "250 g Nudeln",
+        "4 Ei(er)",
+        "100 g Käse, geriebener",
+        "200 g Schinken, gekochter",
+        "1 EL Margarine",
+        "100 ml Milch",
+        "1 Zwiebel(n)",
+        "Salz",
+        "Pfeffer",
+        "1 Knoblauchzehe(n)",
+        "Paprikapulver",
+        "Muskat"
+    ],
+    "core_ingredients": [
+        "Nudeln",
+        "Eier",
+        "Käse",
+        "Schinken",
+        "Milch",
+        "Zwiebel",
+        "Knoblauch"
+    ],
+    "instructions": "Die Nudeln vorkochen. Den Schinken in kleine Würfel oder kleine Stücke schneiden, in einer Pfanne mit der Margarine anbraten. Zwiebel in kleine Würfel schneiden, zugeben und mit andünsten. Die Nudeln zugeben und von allen Seiten anbräunen lassen. Die Eier mit der Milch, den Gewürzen und dem Käse vermengen. Das Ganze in die Pfanne zu den Nudeln gießen und unter Rühren stocken lassen. Abschmecken, evtl. nachwürzen.",
+    "tags": [
+        "Fleisch",
+        "Hauptspeise",
+        "Nudeln",
+        "Pasta",
+        "Schnell",
+        "einfach",
+        "Resteverwertung"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/3407651507557061/Rahm-Champignons.html",
+        "https://www.chefkoch.de/rezepte/1332031238058427/Hackbraten.html",
+        "https://www.chefkoch.de/rezepte/1320971236947055/Ueberbackene-Haehnchenbrustfilets.html",
+        "https://www.chefkoch.de/rezepte/1303431235395452/Chili-con-carne-unter-Maisbrothaube.html",
+        "https://www.chefkoch.de/rezepte/1223861227701043/Rindsrouladen-nach-Hausfrauen-Art.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1219831227444841/bilder/865171/crop-360x240/eier-schinkennudeln.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1219831227444841/Eier-Schinkennudeln.html",
+    "id": "47f47f0c-bde3-41f6-b5c3-1853ad6ba9da"
+}

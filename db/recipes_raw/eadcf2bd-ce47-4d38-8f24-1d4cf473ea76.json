@@ -1,0 +1,57 @@
+{
+    "title": "Asian Chicken Noodle Salad",
+    "ingredients": [
+        "1 (3 ounce) package ramen noodle pasta, crushed",
+        "2 tablespoons butter, melted",
+        "½ cup sunflower seeds",
+        "½ cup pine nuts",
+        "3 cups shredded bok choy",
+        "5 green onions, thinly sliced",
+        "1 cup diced, cooked chicken breast meat",
+        "1 (5 ounce) can water chestnuts, drained",
+        "12 pods snow peas",
+        "½ cup vegetable oil",
+        "¼ cup rice wine vinegar",
+        "1 tablespoon soy sauce",
+        "¼ cup white sugar",
+        "1 tablespoon lemon juice"
+    ],
+    "core_ingredients": [
+        "ramen noodle pasta",
+        "butter",
+        "sunflower seeds",
+        "pine nuts",
+        "bok choy",
+        "green onions",
+        "chicken breast",
+        "water chestnuts",
+        "snow peas",
+        "vegetable oil",
+        "rice wine vinegar",
+        "soy sauce",
+        "sugar",
+        "lemon juice"
+    ],
+    "instructions": "1. Preheat oven to 350 degrees F (175 degrees C). In a large bowl, mix the noodles, sunflower seeds, and pine nuts with melted butter until evenly coated. Spread the mixture in a thin layer on a baking sheet. 2. Bake for 7 to 10 minutes in the preheated oven, stirring occasionally, until evenly toasted. Remove from heat and cool slightly. 3. In a large bowl, toss together the noodle mixture, bok choy, green onions, chicken, water chestnuts, and snow peas. 4. Prepare the dressing by blending the oil, vinegar, soy sauce, sugar, and lemon juice. Pour over salad and toss to evenly coat. Serve immediately or refrigerate until chilled.",
+    "tags": [
+        "salad",
+        "chicken",
+        "noodles",
+        "Asian"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Asian",
+    "time_to_eat": 25,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/8914/chinese-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/8671/ramen-noodle-chicken-salad/",
+        "https://www.allrecipes.com/recipe/215484/summer-cabbage-salad/",
+        "https://www.allrecipes.com/recipe/74884/twig-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/ng5_FY6TD08iYwZOTyutitQJUR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16422-Asian-Chicken-Noodle-Salad-4x3-1-90cb6b8b1bef4e9a9be65f369927477d.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/16422/asian-chicken-noodle-salad/",
+    "id": "eadcf2bd-ce47-4d38-8f24-1d4cf473ea76"
+}

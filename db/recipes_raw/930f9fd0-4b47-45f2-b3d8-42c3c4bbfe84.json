@@ -1,0 +1,49 @@
+{
+    "title": "Exotic Tuna Sauce for Rice",
+    "ingredients": [
+        "1 can of tuna",
+        "1 can of pineapple slices",
+        "2 medium onions",
+        "200 ml coconut milk",
+        "50 ml broth",
+        "1 tbsp oil (peanut, sunflower, or sesame oil)",
+        "0.5 tbsp butter",
+        "1 tbsp curry or red curry paste",
+        "1 tbsp flour",
+        "Salt and white pepper, ground"
+    ],
+    "core_ingredients": [
+        "tuna",
+        "pineapple",
+        "onion",
+        "coconut milk",
+        "broth",
+        "oil",
+        "butter",
+        "curry",
+        "flour"
+    ],
+    "instructions": "Cut the onions in half from top to bottom, then slice them into thin strips. Sauté in oil and butter over low heat for 5 minutes. Add the drained tuna and sauté briefly. Mix in the curry and flour, cook briefly. Add the broth and fill with coconut milk. Let it simmer briefly, add the chopped pineapple (two slices or to taste) and season with salt, pepper, and a good splash of pineapple juice. Serve with rice.",
+    "tags": [
+        "quick meal",
+        "sauce",
+        "seafood",
+        "rice dish",
+        "easy recipe"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Exotic",
+    "time_to_eat": 10,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1069361212490339/Haehnchen-Ananas-Curry-mit-Reis.html",
+        "https://www.chefkoch.de/rezepte/1810471293281955/Paprika-Reispfanne-mit-Joghurtsauce.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2109501340136606/Tagliatelle-al-Salmone.html",
+        "https://www.chefkoch.de/rezepte/965881202287446/Nudeln-in-leichter-saemiger-Thunfisch-Tomaten-Kaese-Sauce.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1791291289411673/bilder/1347580/crop-360x240/exotische-thunfisch-sosse-zu-reis.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1791291289411673/Exotische-Thunfisch-Sosse-zu-Reis.html",
+    "id": "930f9fd0-4b47-45f2-b3d8-42c3c4bbfe84"
+}

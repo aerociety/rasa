@@ -1,0 +1,53 @@
+{
+    "title": "Tennille's Italian Pasta Salad",
+    "ingredients": [
+        "1 cup fresh broccoli florets",
+        "1 cup fresh cauliflower florets",
+        "1 tablespoon butter",
+        "1 teaspoon salt",
+        "1 (32 ounce) package seashell pasta",
+        "1 (16 ounce) bottle Italian-style salad dressing",
+        "1 cup shredded carrots",
+        "2 cucumbers, diced",
+        "3 tomatoes, diced",
+        "8 ounces shredded Cheddar cheese"
+    ],
+    "core_ingredients": [
+        "broccoli",
+        "cauliflower",
+        "butter",
+        "salt",
+        "seashell pasta",
+        "Italian-style salad dressing",
+        "carrots",
+        "cucumbers",
+        "tomatoes",
+        "Cheddar cheese"
+    ],
+    "instructions": "1. Steam broccoli and cauliflower florets until tender. Place broccoli and cauliflower in a large bowl, toss with butter and salt. 2. Bring a large pot of salted water to a boil. Stir in the macaroni and return the water to a boil. Let cook until the noodles are al dente, then drain well. 3. In a large mixing bowl, mix the Italian dressing with the hot macaroni. Next, mix in the carrots, cucumbers, tomatoes, broccoli, and cauliflower. Cover the bowl and refrigerate for 30 minutes. 4. After the pasta and vegetables have been chilling for 30 minutes, stir in the cheese. Return the bowl to the refrigerator for another 30 to 45 minutes before serving.",
+    "tags": [
+        "pasta salad",
+        "salad",
+        "vegetarian"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 90,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/24882/pesto-surprise/",
+        "https://www.allrecipes.com/recipe/19338/zesty-southern-pasta-and-bean-salad/",
+        "https://www.allrecipes.com/recipe/11752/italian-confetti-pasta-salad/",
+        "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+        "https://www.allrecipes.com/recipe/19409/summer-pasta-salad-i/",
+        "https://www.allrecipes.com/recipe/86353/simple-pasta-salad/",
+        "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+        "https://www.allrecipes.com/recipe/19388/gazpacho-pasta-salad/",
+        "https://www.allrecipes.com/recipe/254410/pasta-salad-in-a-jar/",
+        "https://www.allrecipes.com/recipe/76423/three-pepper-pasta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/mllM3hnOJ5gz30CiHdLh8ByvTQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/53904-c00a4da0516b4e7ab84889a5eb0a4341.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/16519/tennilles-italian-pasta-salad/",
+    "id": "382bc5c0-6cc1-4304-bb57-89ed516868c3"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Russischer Zupfkuchen",
+    "ingredients": [
+        "300 g Mehl",
+        "30 g Kakaopulver, ungesüßt",
+        "2 TL Backpulver",
+        "150 g Zucker",
+        "1 Pck. Vanillezucker",
+        "1 Ei",
+        "150 g Butter",
+        "250 g Butter (für die Füllung)",
+        "500 g Magerquark",
+        "200 g Zucker (für die Füllung)",
+        "1 Pck. Vanillezucker (für die Füllung)",
+        "3 Eier (für die Füllung)",
+        "1 Pck. Vanillepuddingpulver",
+        "1 Vanilleschote (Mark)"
+    ],
+    "core_ingredients": [
+        "Mehl",
+        "Kakaopulver",
+        "Zucker",
+        "Eier",
+        "Butter",
+        "Magerquark"
+    ],
+    "instructions": "Das Mehl mit Kakao und Backpulver in einer Rührschüssel mischen. Die übrigen Zutaten für den Teig hinzufügen und alles mit einem Mixer zu einem Teig verarbeiten. Anschließend zu einer Kugel formen und den Teig in Frischhaltefolie gewickelt mindestens 30 Minuten kaltstellen. Inzwischen für die Füllung die Butter in einem Topf zerlassen und abkühlen lassen. Den Boden der Springform fetten. Die Hälfte des Teiges mit einem Nudelholz ausrollen und eine 26er Springform damit auskleiden, dabei sollte ein ca. 2 cm hoher Rand entstehen. Den Quark mit Zucker, Vanillezucker, dem Mark einer Vanilleschote, den Eiern, dem Puddingpulver und der zerlassenen Butter mit einem Schneebesen zu einer gebundenen Masse verrühren, in die Form geben und glatt streichen. Den restlichen Teig in kleine Stücke zupfen und auf der Füllung verteilen. Die Form im vorgeheizten Backofen bei 180°C Ober-/Unterhitze ca. 60 Minuten backen. Nach dem Backen den Kuchen in der Form auf einem Kuchenrost erkalten lassen.",
+    "tags": [
+        "kuchen",
+        "backen",
+        "vegetarisch",
+        "einfach"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 110,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/4159051664201652/Marokkanisches-Ofengemuese.html",
+        "https://www.chefkoch.de/rezepte/4112861648822933/Kaese-Wurstplatte-schoen-anrichten.html",
+        "https://www.chefkoch.de/rezepte/4095901643275974/Weisse-Bohnen-Dip-mit-getrockneten-Tomaten.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2636361414129018/bilder/743609/crop-360x240/russischer-zupfkuchen.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2636361414129018/Russischer-Zupfkuchen.html",
+    "id": "2c72c160-1508-45a0-a72e-227844410aff"
+}

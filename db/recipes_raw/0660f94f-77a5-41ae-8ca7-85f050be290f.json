@@ -1,0 +1,42 @@
+{
+    "title": "Mexican Chicken and Rice Salad",
+    "ingredients": [
+        "3 cups cooked brown rice",
+        "2 cups salsa",
+        "1 can sweet corn, drained",
+        "1 can black beans, rinsed and drained",
+        "1 cooked chicken breast, chopped",
+        "1 avocado, peeled, pitted, and cut into cubes",
+        "¼ cup chopped cilantro"
+    ],
+    "core_ingredients": [
+        "brown rice",
+        "salsa",
+        "sweet corn",
+        "black beans",
+        "chicken breast",
+        "avocado",
+        "cilantro"
+    ],
+    "instructions": "Mix rice, salsa, corn, beans, chicken, avocado, and cilantro together in a bowl.",
+    "tags": [
+        "salad",
+        "chicken",
+        "Mexican"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 15,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/214960/chicken-and-snap-pea-wild-rice-salad/",
+        "https://www.allrecipes.com/recipe/14256/rice-a-roni-salad/",
+        "https://www.allrecipes.com/recipe/24363/wild-rice-salad/",
+        "https://www.allrecipes.com/recipe/143123/mexican-chicken-and-black-bean-salad/",
+        "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/ouxCgGNhnXRSI1KiSxMDgwloHQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6739440-602b1ccf8a9946b8bd12787f9ff0f859.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/234755/mexican-chicken-and-rice-salad/",
+    "id": "0660f94f-77a5-41ae-8ca7-85f050be290f"
+}

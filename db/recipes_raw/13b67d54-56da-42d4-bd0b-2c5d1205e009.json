@@ -1,0 +1,54 @@
+{
+    "title": "Edle Thunfisch - Sauce mit Kapern und Oliven",
+    "ingredients": [
+        "Thunfisch",
+        "Frühlingszwiebel",
+        "Knoblauchzehe",
+        "Olivenöl",
+        "Weißwein oder Brühe",
+        "Butter",
+        "Kapern",
+        "Oliven",
+        "Zitronensaft",
+        "Salbeiblätter",
+        "Petersilie",
+        "Oregano",
+        "Salz",
+        "Pfeffer"
+    ],
+    "core_ingredients": [
+        "Thunfisch",
+        "Frühlingszwiebel",
+        "Knoblauchzehe",
+        "Olivenöl",
+        "Butter",
+        "Kapern",
+        "Oliven",
+        "Zitronensaft",
+        "Petersilie",
+        "Oregano"
+    ],
+    "instructions": "Zuerst die Zwiebeln in feine Ringe schneiden und den Knoblauch fein hacken. Die Kräuter ebenfalls klein schneiden. Olivenöl in einem kleinen Topf erhitzen. Zwiebeln und Knoblauch auf kleiner Flamme anschwitzen und die Kräuter zum Öl geben. Nach 1 Minute den Thunfisch hinzufügen und alles 3 Minuten anschwitzen, dann mit Weißwein ablöschen. So viel Flüssigkeit hinzufügen, dass der Topfinhalt knapp bedeckt ist und salzen. 5 Minuten köcheln lassen. Kapern und geviertelte Oliven hinzufügen, mit Zitronensaft abschmecken und kräftig pfeffern. Zum Schluss ein Stück kalte Butter unterrühren. Die Sauce zu Pasta servieren.",
+    "tags": [
+        "Pasta",
+        "Sauce",
+        "Sommer",
+        "Fisch",
+        "Schnell"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mediterranean",
+    "time_to_eat": 10,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1791291289411673/Exotische-Thunfisch-Sosse-zu-Reis.html",
+        "https://www.chefkoch.de/rezepte/1788081289055750/Pfitzauf-aus-der-Muffinform.html",
+        "https://www.chefkoch.de/rezepte/1715731280335023/Haehnchenpfanne-mit-Paprika-und-Spinat.html",
+        "https://www.chefkoch.de/rezepte/1696461277981472/Gruene-Bandnudeln-mit-gebratenem-Spargel.html",
+        "https://www.chefkoch.de/rezepte/1622011269419762/Salatdressing.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/1737431282755673/bilder/282800/crop-360x240/edle-thunfisch-sauce-mit-kapern-und-oliven.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/1737431282755673/Edle-Thunfisch-Sauce-mit-Kapern-und-Oliven.html",
+    "id": "13b67d54-56da-42d4-bd0b-2c5d1205e009"
+}

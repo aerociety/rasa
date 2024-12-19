@@ -1,0 +1,57 @@
+{
+    "title": "Zottels Chili con Carne-Auflauf",
+    "ingredients": [
+        "3 colorful bell peppers",
+        "400 g ground meat",
+        "3 cloves garlic",
+        "1 onion",
+        "olive oil",
+        "300 g rice",
+        "1 can peeled tomatoes",
+        "1 can corn",
+        "1 can red beans",
+        "Tabasco",
+        "sweet paprika powder",
+        "hot paprika powder",
+        "cayenne pepper",
+        "salt",
+        "pepper",
+        "cheese for baking",
+        "pepperoni",
+        "optional nachos",
+        "parsley"
+    ],
+    "core_ingredients": [
+        "bell pepper",
+        "ground meat",
+        "garlic",
+        "onion",
+        "rice",
+        "tomatoes",
+        "corn",
+        "beans"
+    ],
+    "instructions": "Cook the rice. Heat olive oil in a high pot, brown the ground meat well, adding chopped onion and garlic while frying. After browning, add chopped bell pepper and pepperoni, and continue to sauté. Add tomatoes, drained beans, and corn, bringing everything to a boil. Let it simmer on low heat, seasoning to taste with Tabasco, sweet and hot paprika, cayenne pepper, salt, and pepper. Continue to cook. Place the cooked rice in a shallow baking dish, possibly garnishing the edges with nachos. Distribute the chili con carne over the rice, sprinkle with cheese. Place in a preheated oven at 180 °C and bake for about 15 minutes until golden brown. Garnish finished dish with freshly chopped parsley.",
+    "tags": [
+        "bake",
+        "chili",
+        "meat",
+        "party",
+        "main dish"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 65,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1597871267020573/Hackbaellchen-Toscana.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/1958641318570605/Mells-mexikanische-Enchilada-Lasagne.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/701911172819472/Strassburger-Auflauf.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/56381020257261/bilder/966480/crop-360x240/zottels-chili-con-carne-auflauf.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/56381020257261/Zottels-Chili-con-Carne-Auflauf.html",
+    "id": "b68f8554-b14f-4efe-b205-ea51f57958ea"
+}

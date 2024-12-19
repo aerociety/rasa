@@ -1,0 +1,52 @@
+{
+    "title": "Grilled Chicken Citrus Salad",
+    "ingredients": [
+        "½ cup orange juice",
+        "¼ cup lime juice",
+        "2 shallots, minced",
+        "2 cloves garlic, minced",
+        "1 teaspoon chili powder",
+        "1 teaspoon ground cumin",
+        "1 teaspoon white sugar",
+        "4 skinless, boneless chicken breast halves",
+        "8 cups torn romaine lettuce",
+        "2 oranges, peeled, segmented, and chopped",
+        "2 stalks celery, sliced",
+        "4 green onions, chopped"
+    ],
+    "core_ingredients": [
+        "orange juice",
+        "lime juice",
+        "shallots",
+        "garlic",
+        "chili powder",
+        "ground cumin",
+        "white sugar",
+        "chicken breast",
+        "romaine lettuce",
+        "oranges",
+        "celery",
+        "green onions"
+    ],
+    "instructions": "In a mixing bowl, whisk together orange juice, lime juice, shallots, garlic, chili powder, cumin, and sugar. Pour 1/2 of this mixture into a large, resealable plastic bag, and add the chicken breasts. Seal, and refrigerate for at least 2 hours. Preheat an outdoor grill for medium-high heat. In a large salad bowl, toss romaine lettuce with oranges, celery, and green onions. Set aside. Lightly oil the grate, and place chicken on the grill. Discard the marinade from the chicken. Cook for 6 to 8 minutes on each side, or until juices run clear when pierced with a fork. Remove chicken from the grill, and slice into thin strips. Toss salad with reserved dressing, and top with sliced chicken.",
+    "tags": [
+        "salad",
+        "grilled chicken",
+        "summer recipe"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 165,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/229529/chicken-and-bacon-pasta-salad-with-maille-dijon-originale-mustard/",
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/8870/bbq-chicken-salad/",
+        "https://www.allrecipes.com/recipe/217095/chicken-poppy-seed-pasta-salad/",
+        "https://www.allrecipes.com/recipe/86191/grilled-mojo-chicken-salad-with-asparagus-and-oranges/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/LxsoD5NDWe6CcI0khswRZSRafiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/75760-57abd4d94fa346d4a32d56eee384c78a.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/50925/grilled-chicken-citrus-salad/",
+    "id": "aadc779d-8578-4ff3-a167-83698231e65e"
+}

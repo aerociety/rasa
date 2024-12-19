@@ -1,0 +1,52 @@
+{
+    "title": "Mango, Peach and Pineapple Salsa",
+    "ingredients": [
+        "2 mangos, peeled, seeded and chopped",
+        "2 peaches, halved, pitted, and cut into ½-inch dice",
+        "4 tomatoes, chopped",
+        "1 white onion, diced",
+        "1 red bell pepper, diced",
+        "1 yellow bell pepper, diced",
+        "1 cup diced fresh pineapple",
+        "1 cup chopped fresh cilantro",
+        "¾ cup water",
+        "2 tablespoons white sugar",
+        "2 tablespoons lime juice",
+        "1 small jalapeño pepper, minced",
+        "1 clove garlic, minced",
+        "1 teaspoon salt"
+    ],
+    "core_ingredients": [
+        "mango",
+        "peach",
+        "tomato",
+        "onion",
+        "red bell pepper",
+        "yellow bell pepper",
+        "pineapple",
+        "cilantro",
+        "jalapeño",
+        "garlic"
+    ],
+    "instructions": "Place mangos, peaches, tomatoes, onion, red pepper, yellow pepper, pineapple, and cilantro in a large bowl. Stir in water, sugar, lime juice, jalapeño, garlic, and salt until well combined. For best flavor, cover and refrigerate until chilled before serving.",
+    "tags": [
+        "salsa",
+        "fresh",
+        "appetizers",
+        "main dish"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Mexican",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/231020/peach-salsa-with-cilantro-and-lime/",
+        "https://www.allrecipes.com/recipe/228866/peach-avocado-salsa/",
+        "https://www.allrecipes.com/recipe/15059/spicy-mango-salsa/",
+        "https://www.allrecipes.com/recipe/72689/chipotle-peach-salsa-with-cilantro/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/WI4AYyHsy5Kz-dtE17vXz2h9QWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/225040-97196159984d4e77b1fdb9e3fec702ca.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/166482/mango-peach-and-pineapple-salsa/",
+    "id": "e07e0e6e-8f4d-42c2-8da1-c8df311e5e22"
+}

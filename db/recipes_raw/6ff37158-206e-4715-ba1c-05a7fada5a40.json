@@ -1,0 +1,43 @@
+{
+    "title": "Ramen Noodle Chicken Salad",
+    "ingredients": [
+        "1 package ramen noodles",
+        "½ cup peanut oil",
+        "3 tablespoons rice vinegar",
+        "2 tablespoons soy sauce",
+        "1 ½ tablespoons white sugar",
+        "½ cup diced cooked chicken breast",
+        "3 green onions, minced"
+    ],
+    "core_ingredients": [
+        "ramen noodles",
+        "peanut oil",
+        "rice vinegar",
+        "soy sauce",
+        "sugar",
+        "chicken breast",
+        "green onions"
+    ],
+    "instructions": "1. Bring 2 cups of water to a boil in a saucepan; add noodles and cook, stirring occasionally, for 3 minutes. Drain. 2. Mix peanut oil, rice vinegar, soy sauce, and sugar together in a bowl. 3. Toss dressing with chicken, noodles, and green onions. Chill for at least 15 minutes before serving.",
+    "tags": [
+        "salad",
+        "chicken",
+        "ramen",
+        "quick",
+        "Asian"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Asian",
+    "time_to_eat": 30,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/16422/asian-chicken-noodle-salad/",
+        "https://www.allrecipes.com/recipe/215484/summer-cabbage-salad/",
+        "https://www.allrecipes.com/recipe/8914/chinese-chicken-salad/",
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/PY-2T6ZNa_TOY3tAsNW33W4s_Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ramen-Noodle-Chicken-Salad-3cad5f31bc054dbc9db7d5acd1bf5775.jpeg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/8671/ramen-noodle-chicken-salad/",
+    "id": "6ff37158-206e-4715-ba1c-05a7fada5a40"
+}

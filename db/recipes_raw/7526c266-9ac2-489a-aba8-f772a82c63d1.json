@@ -1,0 +1,41 @@
+{
+    "title": "Easy Fruit Cobbler",
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "2 teaspoons baking powder",
+        "¾ cup white sugar",
+        "¾ cup milk",
+        "¼ cup butter",
+        "2 cups sliced fresh peaches"
+    ],
+    "core_ingredients": [
+        "flour",
+        "sugar",
+        "milk",
+        "butter",
+        "peaches"
+    ],
+    "instructions": "Preheat oven to 325 degrees F (165 degrees C). Melt butter in a 9 x 9 inch baking dish. Blend together flour, baking powder, sugar, and milk. Pour batter in baking dish over the butter. Sprinkle fruit on top of the batter, do not stir. Bake for 1 hour or until golden brown.",
+    "tags": [
+        "dessert",
+        "cobbler",
+        "fruit",
+        "easy"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 75,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/88354/easy-batter-fruit-cobbler/",
+        "https://www.allrecipes.com/recipe/22993/peach-cobbler-ii/",
+        "https://www.allrecipes.com/recipe/12595/too-easy-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/15046/easy-peach-cobbler-with-cake-mix/",
+        "https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/",
+        "https://www.allrecipes.com/recipe/12401/peach-berry-cobbler/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/louGkIn2Dm5y7XkU38GJulA23fE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/683912-0eeba4f1164b4c67bb844f6427872822.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/12148/easy-fruit-cobbler/",
+    "id": "7526c266-9ac2-489a-aba8-f772a82c63d1"
+}

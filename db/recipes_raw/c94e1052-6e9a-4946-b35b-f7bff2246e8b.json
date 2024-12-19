@@ -1,0 +1,49 @@
+{
+    "title": "Pineapple Upside-Down Cheesecake",
+    "ingredients": [
+        "5 tablespoons butter, melted, divided",
+        "2 tablespoons brown sugar",
+        "7 to 8 canned pineapple slices, drained",
+        "7 maraschino cherries, drained and stemmed",
+        "1 cup graham cracker crumbs",
+        "3 tablespoons white sugar",
+        "3 (8 ounce) packages cream cheese, softened",
+        "¾ cup white sugar",
+        "¾ cup sour cream",
+        "2 teaspoons vanilla extract",
+        "3 eggs"
+    ],
+    "core_ingredients": [
+        "butter",
+        "brown sugar",
+        "pineapple slices",
+        "maraschino cherries",
+        "graham cracker crumbs",
+        "cream cheese",
+        "sour cream",
+        "vanilla extract",
+        "eggs"
+    ],
+    "instructions": "1. Preheat the oven to 325 degrees F (165 degrees C). 2. Mix 2 tablespoons butter and brown sugar together in a 9-inch round cake pan until blended; spread mixture to cover the bottom of the pan. Top with pineapple slices and place one cherry into the center of each slice. 3. Mix graham cracker crumbs, 3 tablespoons white sugar, and remaining 3 tablespoons melted butter in a bowl until combined. Press mixture over pineapple slices. 4. Beat cream cheese and ¾ cup white sugar in a bowl until blended. Add sour cream and vanilla; mix well. Add eggs one at a time, mixing on low speed after each addition until blended. Pour batter into the cake pan. 5. Bake until the center is almost set, 55 minutes to 1 hour. Remove from the oven. 6. Run a knife around the inside edge to loosen. Allow to cool completely, about 30 minutes. Invert onto a serving plate and refrigerate for at least 3 hours before serving.",
+    "tags": [
+        "cheesecake",
+        "dessert",
+        "sweet",
+        "pineapple"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 290,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/63444/ultimos-no-bake-blueberry-squares/",
+        "https://www.allrecipes.com/recipe/239794/oreo-mini-cheesecakes/",
+        "https://www.allrecipes.com/recipe/179695/philly-chocolate-turtles-cheesecake/",
+        "https://www.allrecipes.com/recipe/228315/banana-peanut-butter-cheesecake-aka-the-elvis/",
+        "https://www.allrecipes.com/recipe/18472/pineapple-cheesecake/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/wQq0gyaeMsNPFBYS9_mtJLTr5a4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8877313_PineappleUpside-DownCheesecake4x3-e693ff5eb5814916855935a863cde17e.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/259133/pineapple-upside-down-cheesecake/",
+    "id": "c94e1052-6e9a-4946-b35b-f7bff2246e8b"
+}

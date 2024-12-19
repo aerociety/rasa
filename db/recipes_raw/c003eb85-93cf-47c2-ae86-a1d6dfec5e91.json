@@ -1,0 +1,52 @@
+{
+    "title": "Straßburger Auflauf",
+    "ingredients": [
+        "200 g Bandnudeln",
+        "1 große Zwiebel, gewürfelt",
+        "2 EL Öl",
+        "250 g Hackfleisch, gemischtes",
+        "⅛ Liter Rotwein",
+        "5 EL Tomatenmark",
+        "½ TL Thymian",
+        "½ TL Cayennepfeffer",
+        "1 ½ TL Salz",
+        "Fett für die Form",
+        "100 g Käse nach Wahl, geriebener",
+        "1 Becher Sahne (200 g)"
+    ],
+    "core_ingredients": [
+        "Bandnudeln",
+        "Zwiebel",
+        "Öl",
+        "Hackfleisch",
+        "Rotwein",
+        "Tomatenmark",
+        "Thymian",
+        "Cayennepfeffer",
+        "Salz",
+        "Käse",
+        "Sahne"
+    ],
+    "instructions": "Die Nudeln in Salzwasser bissfest garen. Anschließend abschütten. Gleichzeitig die in Würfel gehackte Zwiebel in Öl anbraten, dann das Hackfleisch dazugeben und ebenfalls anbraten. Mit dem Rotwein ablöschen und mit Tomatenmark, Thymian, Cayennepfeffer und Salz abschmecken. Dann die Nudeln unterheben. In eine gefettete Auflaufform geben. Käse und Sahne darüber verteilen. Im vorgeheizten Backofen bei 200 °C Umluft ca. 25 - 30 Minuten überbacken. Heiß servieren.",
+    "tags": [
+        "Aubergine",
+        "Auflauf",
+        "Nudeln",
+        "Käse"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "German",
+    "time_to_eat": 70,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html",
+        "https://www.chefkoch.de/rezepte/1597871267020573/Hackbaellchen-Toscana.html",
+        "https://www.chefkoch.de/rezepte/1844061298739441/Mozzarella-Haehnchen-in-Basilikum-Sahnesauce.html",
+        "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+        "https://www.chefkoch.de/rezepte/745721177147257/Lasagne.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/701911172819472/bilder/764355/crop-360x240/strassburger-auflauf.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/701911172819472/Strassburger-Auflauf.html",
+    "id": "c003eb85-93cf-47c2-ae86-a1d6dfec5e91"
+}

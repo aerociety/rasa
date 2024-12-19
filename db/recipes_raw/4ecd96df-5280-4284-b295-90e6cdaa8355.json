@@ -1,0 +1,50 @@
+{
+    "title": "Chinese Chicken Salad",
+    "ingredients": [
+        "3 ½ boneless chicken breast halves, cooked and diced",
+        "1 head lettuce, torn into small pieces",
+        "4 green onions, sliced",
+        "4 stalks celery, sliced thin",
+        "6 ounces Chinese noodles, heated briefly to crisp",
+        "½ cup walnuts, chopped",
+        "2 tablespoons sesame seeds, toasted",
+        "6 tablespoons seasoned rice vinegar",
+        "4 tablespoons white sugar",
+        "1 teaspoon salt",
+        "½ cup peanut oil"
+    ],
+    "core_ingredients": [
+        "chicken",
+        "lettuce",
+        "green onions",
+        "celery",
+        "Chinese noodles",
+        "walnuts",
+        "sesame seeds",
+        "rice vinegar",
+        "sugar",
+        "salt",
+        "peanut oil"
+    ],
+    "instructions": "Prepare salad: Combine chicken, lettuce, green onion, celery, noodles, nuts, and sesame seeds in a large salad bowl. Mix all together. Set aside. Make dressing: Put vinegar in a small bowl. Dissolve sugar and salt in vinegar before adding oil. Shake, or beat, well. Add dressing to salad, toss to coat, and serve.",
+    "tags": [
+        "salad",
+        "chicken",
+        "Chinese"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Chinese",
+    "time_to_eat": 20,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/14252/asian-chicken-salad/",
+        "https://www.allrecipes.com/recipe/16422/asian-chicken-noodle-salad/",
+        "https://www.allrecipes.com/recipe/74884/twig-salad/",
+        "https://www.allrecipes.com/recipe/215484/summer-cabbage-salad/",
+        "https://www.allrecipes.com/recipe/50925/grilled-chicken-citrus-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/HQjrL7gRiuWQXSPCvULOLI7ouW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1014047-16e6b14610e3408a85c0c3b17c678c9e.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/8914/chinese-chicken-salad/",
+    "id": "4ecd96df-5280-4284-b295-90e6cdaa8355"
+}

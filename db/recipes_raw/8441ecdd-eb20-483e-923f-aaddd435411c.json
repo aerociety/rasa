@@ -1,0 +1,51 @@
+{
+    "title": "Fresh Peach and Pecan Chicken Salad",
+    "ingredients": [
+        "¾ cup Greek yogurt",
+        "½ cup mayonnaise",
+        "2 tablespoons white wine vinegar",
+        "1 teaspoon honey",
+        "½ teaspoon poppy seeds",
+        "½ teaspoon salt",
+        "1 pinch ground black pepper",
+        "5 cups cooked chicken, shredded or chopped",
+        "1 ½ cups chopped pecans, toasted",
+        "1 large ripe peach, pitted and chopped",
+        "2 stalks celery, chopped",
+        "4 Boston lettuce leaves"
+    ],
+    "core_ingredients": [
+        "Greek yogurt",
+        "mayonnaise",
+        "white wine vinegar",
+        "honey",
+        "poppy seeds",
+        "salt",
+        "ground black pepper",
+        "chicken",
+        "pecans",
+        "peach",
+        "celery",
+        "Boston lettuce"
+    ],
+    "instructions": "Combine Greek yogurt, mayonnaise, white wine vinegar, honey, poppy seeds, salt, and pepper in a large bowl. Whisk until well combined. Add chicken, pecans, peach, and celery; mix until everything is well coated. Serve immediately on lettuce leaves.",
+    "tags": [
+        "salad",
+        "chicken",
+        "peach",
+        "healthy"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 25,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/233936/minty-peach-chicken-salad/",
+        "https://www.allrecipes.com/recipe/242415/grilled-chicken-peach-and-arugula-salad/",
+        "https://www.allrecipes.com/recipe/282842/grilled-chicken-with-peach-salsa/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/btHGDILGhtbX1PEM-aSv29bGxDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8221081-04c09cd64d4f4be6b6c8d951b02acb91.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/280570/fresh-peach-and-pecan-chicken-salad/",
+    "id": "8441ecdd-eb20-483e-923f-aaddd435411c"
+}

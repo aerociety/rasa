@@ -1,0 +1,50 @@
+{
+    "title": "Classic Macaroni Salad",
+    "ingredients": [
+        "4 cups uncooked elbow macaroni",
+        "1 cup mayonnaise",
+        "⅔ cup white sugar",
+        "¼ cup distilled white vinegar",
+        "2 ½ tablespoons prepared yellow mustard",
+        "1 ½ teaspoons salt",
+        "½ teaspoon ground black pepper",
+        "2 stalks celery, chopped",
+        "1 large onion, chopped",
+        "1 green bell pepper, seeded and chopped",
+        "¼ cup grated carrot (Optional)",
+        "2 tablespoons chopped pimento peppers (Optional)"
+    ],
+    "core_ingredients": [
+        "macaroni",
+        "mayonnaise",
+        "sugar",
+        "vinegar",
+        "mustard",
+        "salt",
+        "black pepper",
+        "celery",
+        "onion",
+        "bell pepper"
+    ],
+    "instructions": "1. Gather all ingredients. 2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Rinse under cold water and drain. 3. Mix mayonnaise, sugar, vinegar, mustard, salt, pepper, and macaroni together in a large bowl. 4. Stir in celery, onion, green pepper, carrot, and pimentos. 5. Refrigerate salad for at least 4 hours before serving, but preferably overnight.",
+    "tags": [
+        "salad",
+        "pasta",
+        "picnic",
+        "potluck"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "American",
+    "time_to_eat": 270,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/11764/cheddar-and-macaroni-salad/",
+        "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+        "https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/",
+        "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/XZPEiuRoRb27cVcE5reZnHckIZk=/160x90/filters:no_upscale():max_bytes(150000):strip_icc()/81108-classic-macaroni-salad-DDMFS-4x3-42910f05970943f29b51282831dd98e6.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/",
+    "id": "9969d851-10dc-47db-852c-1b840325c9a4"
+}

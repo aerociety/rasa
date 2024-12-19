@@ -1,0 +1,50 @@
+{
+    "title": "Spaghetti aglio, olio e peperoncino",
+    "ingredients": [
+        "500 g Spaghetti (from durum wheat semolina)",
+        "1 Tomato",
+        "5 Garlic cloves",
+        "2 Peppers",
+        "5 tbsp Parsley",
+        "2 tsp Vegetable broth powder",
+        "100 ml Olive oil, extra virgin",
+        "40 g Hard cheese (e.g., Grana Padano or Pecorino, 1 year of maturation)",
+        "1 tsp Basil",
+        "1 tsp Oregano",
+        "½ tsp Salt"
+    ],
+    "core_ingredients": [
+        "Spaghetti",
+        "Tomato",
+        "Garlic",
+        "Peppers",
+        "Parsley",
+        "Vegetable broth powder",
+        "Olive oil",
+        "Hard cheese",
+        "Basil",
+        "Oregano",
+        "Salt"
+    ],
+    "instructions": "1. Cook the spaghetti according to the instructions on the package. Note: Keep 2 ladles of the cooking water before draining.\n2. Grate the hard cheese. Dice the tomato and place it in a bowl. Chop the garlic, sprinkle lightly with salt, wait briefly, and crush it into a paste. Add this to the bowl.\n3. Chop the basil, oregano, parsley, and peppers, and add them to the bowl. Add the vegetable broth powder and mix well.\n4. Add the 2 ladles of reserved cooking water (it contains starch from the pasta) and mix everything well, letting it sit for 2 minutes. If the mixture tastes lightly salty, it is ready.\n5. Drain the pasta well and toss it in a hot pan for 1 minute. Add the mixture and toss thoroughly, then add the grated cheese which will bind everything together.\n6. Before serving, drizzle cold olive oil on top and mix. Do not add the oil earlier; heating it degrades its flavor and quality. Optionally, add more grated cheese on top before serving.",
+    "tags": [
+        "vegetarian",
+        "pasta",
+        "italian",
+        "quick",
+        "simple"
+    ],
+    "diet_type": "Vegetarian",
+    "cuisine": "Italian",
+    "time_to_eat": 25,
+    "suggestion_links": [
+        "https://www.chefkoch.de/rezepte/2659141417551954/Chinesisch-gebratene-Nudeln-mit-Rindfleisch.html",
+        "https://www.chefkoch.de/rezepte/2662131418041348/Fruehlingspfanne-Hack-und-gruener-Spargel-als-Grillgenuss.html",
+        "https://www.chefkoch.de/rezepte/2071611334923858/Frikadellen-mal-anders-mit-Pfiff.html"
+    ],
+    "img_links": [
+        "https://img.chefkoch-cdn.de/rezepte/2659071417547506/bilder/1055123/crop-360x240/spaghetti-aglio-olio-e-peperoncino.jpg"
+    ],
+    "source_url": "https://www.chefkoch.de/rezepte/2659071417547506/Spaghetti-aglio-olio-e-peperoncino.html",
+    "id": "ee5ee73b-6899-44d7-b2e6-9d210b662b7b"
+}

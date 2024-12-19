@@ -1,0 +1,56 @@
+{
+    "title": "Spicy Rice Noodle Salad",
+    "ingredients": [
+        "thin rice noodles",
+        "seasoned rice wine vinegar",
+        "fish sauce",
+        "garlic",
+        "Asian chili paste",
+        "brown sugar",
+        "salt",
+        "green onions",
+        "carrots",
+        "fresh herbs",
+        "peanuts",
+        "sesame oil",
+        "grilled boneless, skinless chicken thighs",
+        "Fresno chile peppers"
+    ],
+    "core_ingredients": [
+        "rice noodles",
+        "vinegar",
+        "fish sauce",
+        "garlic",
+        "chili paste",
+        "sugar",
+        "salt",
+        "green onions",
+        "carrots",
+        "herbs",
+        "peanuts",
+        "sesame oil",
+        "chicken"
+    ],
+    "instructions": "1. Place noodles in a large bowl; cover with hot water. Stir and allow to soak until softened, about 15 minutes. Drain and rinse thoroughly. 2. Combine vinegar, fish sauce, garlic, chili paste, brown sugar, and salt in a bowl. Add 4 green onions, carrots, basil, mint, and cilantro. Stir in noodles, 1/2 cup peanuts, and sesame oil; toss to coat. Set aside for flavors to absorb, 30 minutes. 3. Top servings with grilled chicken and Fresno chiles; garnish with green onions and peanuts.",
+    "tags": [
+        "salad",
+        "noodles",
+        "spicy",
+        "cold dish"
+    ],
+    "diet_type": "Non-Vegetarian",
+    "cuisine": "Asian",
+    "time_to_eat": 50,
+    "suggestion_links": [
+        "https://www.allrecipes.com/recipe/271117/vietnamese-noodle-salad-with-lemongrass-chicken/",
+        "https://www.allrecipes.com/recipe/17276/tasty-cabbage-salad/",
+        "https://www.allrecipes.com/recipe/18365/asian-chicken-pasta-salad/",
+        "https://www.allrecipes.com/recipe/274367/chicken-noodle-salad/"
+    ],
+    "img_links": [
+        "https://www.allrecipes.com/thmb/r5zhVQDa55-8JF6F-Z6c4dd1uyM=/75x75/filters:no_upscale():max_bytes(150000):strip_icc()/chef-john-c50f1c2cb23f4e7786d66c30bddf8bcb.jpg",
+        "https://www.allrecipes.com/thmb/ttdneZeKNldOh_YT39M4mF-Qsc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3800640-17a937bdc7284cfcaed7f30442a53530.jpg"
+    ],
+    "source_url": "https://www.allrecipes.com/recipe/229270/spicy-rice-noodle-salad/",
+    "id": "0b30de3f-4e3d-4194-a49d-fff9037981ff"
+}
